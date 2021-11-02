@@ -1,4 +1,5 @@
 import zstandard
+import json
 import re 
 
 # Comprueba que cogemos lo que nos interesa de los datos
@@ -14,18 +15,22 @@ def correct(data):
 with open("RS_2019-09.zst", 'rb') as fh:
     dctx = zstandard.ZstdDecompressor()
     reader = dctx.stream_reader(fh)
-    while True:
-        chunk = reader.read(16384)
-        data = chunk.split(b',')
-        for j in range(len(data)):
-            #if(correct(data[j])):
-            print(data[j].decode('UTF-8'))
-        if not chunk:
-            break
+    #while True:
+    chunk = reader.read(16384)
+    chunk = chunk.decode('UTF-8') # Cambia de byte-like a string
+    data = chunk.split('\n')
+    data_dict = json.loads(data[4])
+    print((data_dict['selftext']))
+    for j in range(len(data)):
+        #if(correct(data[j])):
+        #print(data[j].decode('UTF-8'))
+        continue
+    # if not chunk:
+    #     break
 
 
 
-# Debería comprobar: "subreddit":"DirtyScatPals"
+# Debería comprobar: "subreddit":"[...]"
 # Luego la información se suele encontrar en "selftext":"[...]"
 
 class RedditComment:
