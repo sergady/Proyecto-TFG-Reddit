@@ -45,9 +45,23 @@ def readData(file_name):
 
     return reddit_comment_list
  
+def cleanTopics(reddit_comment_list, topics_list):
+
+    return reddit_comment_list
 
 def cleanComments(reddit_comment_list):
+    regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+") # URLs regexp
+    regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+") # Emails regexps
+    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com") # Web keywords regexps
+    regexpNumbers = re.compile("\d") # Numbers regexps
+    for comment in reddit_comment_list:
+        comment.subreddit = re.sub(regexpUrls,"",comment.subreddit) # We clean the complete urls
+        comment.subreddit = re.sub(regexpEmails,"",comment.subreddit) # We clean the emails
+        comment.subreddit = re.sub(regexpWeb,"",comment.subreddit) # We clean url fragments
+        comment.subreddit = re.sub(regexpNumbers,"",comment.subreddit) # We clean numbers
     
+    return reddit_comment_list
+
 
 end = time.time()
 print('Time: ', end - start)
