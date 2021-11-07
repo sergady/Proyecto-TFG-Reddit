@@ -1,6 +1,8 @@
 import zstandard
 import json
 import re 
+import time
+
 
 reddit_comment_list = []
 
@@ -14,6 +16,7 @@ def checkSelfText(self_text):
         return False
     return True
 
+start = time.time()
 # Open the file as fh
 with open("RS_2019-09.zst", 'rb') as fh:
     dctx = zstandard.ZstdDecompressor()
@@ -30,9 +33,14 @@ with open("RS_2019-09.zst", 'rb') as fh:
                 data_dict = json.loads(each)
                 if(checkSelfText(data_dict['selftext'])):
                     reddit_comment_list.append(RedditComment(data_dict['selftext'], data_dict['subreddit']))
-                if(i%100 == 0):
+                if(i%100000 == 0):
                     print('%d posts read' % i)
             except json.decoder.JSONDecodeError:
                 continue # Seems like we do this to avoid errors but it is to eliminate divided posts
         if not chunk:
             break
+
+
+end = time.time()
+print('Time: ', end - start)
+
