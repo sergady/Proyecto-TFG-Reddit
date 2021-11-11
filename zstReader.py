@@ -7,7 +7,10 @@ file_name = "RS_2019-09.zst"
 
 
 class RedditComment:
-    def __init__(self, self_text, subreddit): # Añadir tambien el título, autor, id del post y timestamp
+    def __init__(self, post_id, title, author, self_text, subreddit): # Añadir tambien el título, autor, id del post y timestamp (no hay)
+        self.post_id = post_id;
+        self.title = title;
+        self.author = author;
         self.self_text = self_text
         self.subreddit = subreddit
 
@@ -16,7 +19,6 @@ def checkSelfText(self_text):
         return False
     return True
 
-start = time.time()
 
 def readData(file_name):
     reddit_comment_list = [] # cambiar a reddit_posts_list
@@ -35,7 +37,7 @@ def readData(file_name):
                 try:
                     data_dict = json.loads(each)
                     if(checkSelfText(data_dict['selftext'])):
-                        reddit_comment_list.append(RedditComment(data_dict['selftext'], data_dict['subreddit'])) # Añadir titulo y autor
+                        reddit_comment_list.append(RedditComment(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit'])) # We create the object
                         # Volcar a un archivo cuando acabo el chunk
                         # Guardarlo en ndjson/ldjson/jsonlines
                         # Comprobar que no haya saltos de línea
@@ -66,7 +68,7 @@ def cleanComments(reddit_comment_list):
     return reddit_comment_list
 
 
+start = time.time()
+readData(file_name)
 end = time.time()
 print('Time: ', end - start)
-
-readData(file_name)
