@@ -37,7 +37,8 @@ def readData(file_name):
                 try:
                     data_dict = json.loads(each)
                     if(checkSelfText(data_dict['selftext'])):
-                        reddit_comment_list.append(RedditComment(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit'])) # We create the object
+                         # We create the object
+                        reddit_comment_list.append(RedditComment(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
                         # Volcar a un archivo cuando acabo el chunk
                         # Guardarlo en ndjson/ldjson/jsonlines
                         # Comprobar que no haya saltos de línea
@@ -53,6 +54,10 @@ def readData(file_name):
  
 def cleanSubreddits(reddit_comment_list, subreddits_list): # Hacer un diccionario
     return reddit_comment_list
+
+def createSubredditsDictionary():
+
+    return #dict
 
 def cleanComments(reddit_comment_list):
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+") # URLs regexp
