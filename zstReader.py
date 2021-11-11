@@ -7,7 +7,7 @@ file_name = "RS_2019-09.zst"
 
 
 class RedditComment:
-    def __init__(self, self_text, subreddit):
+    def __init__(self, self_text, subreddit): # Añadir tambien el título, autor, id del post y timestamp
         self.self_text = self_text
         self.subreddit = subreddit
 
@@ -19,7 +19,7 @@ def checkSelfText(self_text):
 start = time.time()
 
 def readData(file_name):
-    reddit_comment_list = []
+    reddit_comment_list = [] # cambiar a reddit_posts_list
     # Open the file as fh
     with open(file_name, 'rb') as fh:
         dctx = zstandard.ZstdDecompressor()
@@ -35,7 +35,11 @@ def readData(file_name):
                 try:
                     data_dict = json.loads(each)
                     if(checkSelfText(data_dict['selftext'])):
-                        reddit_comment_list.append(RedditComment(data_dict['selftext'], data_dict['subreddit']))
+                        reddit_comment_list.append(RedditComment(data_dict['selftext'], data_dict['subreddit'])) # Añadir titulo y autor
+                        # Volcar a un archivo cuando acabo el chunk
+                        # Guardarlo en ndjson/ldjson/jsonlines
+                        # Comprobar que no haya saltos de línea
+                        # Si acaso guardar la línea para luego volver a leer la línea exacta
                     if(i%100000 == 0):
                         print('%d posts read' % i)
                 except json.decoder.JSONDecodeError:
@@ -45,8 +49,7 @@ def readData(file_name):
 
     return reddit_comment_list
  
-def cleanTopics(reddit_comment_list, topics_list):
-
+def cleanSubreddits(reddit_comment_list, subreddits_list): # Hacer un diccionario
     return reddit_comment_list
 
 def cleanComments(reddit_comment_list):
@@ -66,3 +69,4 @@ def cleanComments(reddit_comment_list):
 end = time.time()
 print('Time: ', end - start)
 
+readData(file_name)
