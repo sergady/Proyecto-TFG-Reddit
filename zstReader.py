@@ -4,6 +4,7 @@ import re
 import time
 
 file_name = "RS_2019-09.zst"
+subreddits_file_name = "subredditList.txt"
 
 
 class RedditComment:
@@ -55,9 +56,13 @@ def readData(file_name):
 def cleanSubreddits(reddit_comment_list, subreddits_list): # Hacer un diccionario
     return reddit_comment_list
 
-def createSubredditsDictionary():
-
-    return #dict
+def createSubredditsDictionary(subreddits_file):
+    with open(subreddits_file) as subreddits_text:
+        subreddits_list = subreddits_text.read().split("\n")
+        subreddits_dictionary = {}
+        for subreddit in subreddits_list:
+            subreddits_dictionary.update({subreddit[2:]:True})
+    return subreddits_dictionary 
 
 def cleanComments(reddit_comment_list):
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+") # URLs regexp
@@ -74,6 +79,7 @@ def cleanComments(reddit_comment_list):
 
 
 start = time.time()
-readData(file_name)
+#readData(file_name)
+subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
 end = time.time()
 print('Time: ', end - start)
