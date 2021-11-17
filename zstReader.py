@@ -21,7 +21,7 @@ def checkSelfText(self_text):
     return True
 
 
-def readData(file_name):
+def readData(file_name, subreddit_dictionary):
     reddit_comment_list = [] # cambiar a reddit_posts_list
     # Open the file as fh
     with open(file_name, 'rb') as fh:
@@ -38,8 +38,9 @@ def readData(file_name):
                 try:
                     data_dict = json.loads(each)
                     if(checkSelfText(data_dict['selftext'])):
-                         # We create the object
-                        reddit_comment_list.append(RedditComment(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
+                        if(subreddit_dictionary.get( data_dict['subreddit'], False)):
+                            # We create the object
+                            reddit_comment_list.append(RedditComment(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
                         # Volcar a un archivo cuando acabo el chunk
                         # Guardarlo en ndjson/ldjson/jsonlines
                         # Comprobar que no haya saltos de línea
@@ -79,7 +80,7 @@ def cleanComments(reddit_comment_list):
 
 
 start = time.time()
-#readData(file_name)
 subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
+readData(file_name, subreddit_dictionary)
 end = time.time()
 print('Time: ', end - start)
