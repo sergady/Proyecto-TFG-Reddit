@@ -7,15 +7,17 @@ import time
 file_name = "RS_2019-09.zst"
 subreddits_file_name = "subredditList.txt"
 
-
+# Class that represents the posts, containing important
+# fields for our data
 class Redditpost:
-    def __init__(self, post_id, title, author, self_text, subreddit): # Añadir tambien el título, autor, id del post y timestamp (no hay)
+    def __init__(self, post_id, title, author, self_text, subreddit):
         self.post_id = post_id
         self.title = title
         self.author = author
         self.self_text = self_text
         self.subreddit = subreddit
 
+# Encodes the reddit posts to JSON encode it
 class RedditpostEncoder(JSONEncoder):
         def default(self, post):
             return post.__dict__
@@ -25,7 +27,7 @@ def checkSelfText(self_text):
         return False
     return True
 
-
+# Reads data and works with it
 def readData(file_name, subreddit_dictionary):
     subreddits_array = [] # cambiar a reddit_posts_list
     # Open the file as fh
@@ -46,11 +48,10 @@ def readData(file_name, subreddit_dictionary):
                         if(subreddit_dictionary.get( data_dict['subreddit'], False)):
                             # We create the object
                             subreddits_array.append(Redditpost(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
-                            
 
                     if(i%100000 == 0):
                         print('%d posts read' % i)
-                        savePostsToJSON(subreddits_array, "posts.txt")
+                        savePostsToJSON(subreddits_array, "posts.txt") # TODO: guardamos en chunks pero no limpiamos los textos
                         subreddits_array.clear()
 
                 except json.decoder.JSONDecodeError:
@@ -66,7 +67,7 @@ def createSubredditsDictionary(subreddits_file):
         subreddits_list = subreddits_text.read().split("\n")
         subreddits_dictionary = {}
         for subreddit in subreddits_list:
-            subreddits_dictionary.update({subreddit[2:]:True})
+            subreddits_dictionary.update({subreddit[2:]:True}) # We remove the 'r/' from the subreddits with [2:]
     return subreddits_dictionary 
 
 # Cleans the text from the posts 
@@ -83,6 +84,7 @@ def cleanPosts(subreddits_array):
     
     return subreddits_array
 
+# Saves an array of subreddits posts into a file in JSON format
 def savePostsToJSON(subreddits_array, posts_file_JSON):
      with open(posts_file_JSON, "w") as posts_file:
         for post in subreddits_array:   
@@ -93,7 +95,7 @@ def main():
     start = time.time()
     subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
     subreddits_array = readData(file_name, subreddit_dictionary)
-    subreddits_array = cleanPosts(subreddits_array)
+    subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
     end = time.time()
     print('Time: ', end - start)
 
