@@ -10,7 +10,7 @@ subreddits_file_name = "subredditList.txt"
 # Class that represents the posts, containing important
 # fields for our data
 class Redditpost:
-    def __init__(self, post_id, title, author, self_text, subreddit):
+    def __init__(self, post_id, title, author, self_text, subreddit): #TODO: created_utc es el timestamp, está en segundos desde el epoc
         self.post_id = post_id
         self.title = title
         self.author = author
@@ -51,7 +51,7 @@ def readData(file_name, subreddit_dictionary):
 
                     if(i%100000 == 0):
                         print('%d posts read' % i)
-                        savePostsToJSON(subreddits_array, "posts.txt") # TODO: guardamos en chunks pero no limpiamos los textos
+                        savePostsToJSON(subreddits_array, "posts.txt") #TODO: guardamos en chunks pero no limpiamos los textos
                         subreddits_array.clear()
 
                 except json.decoder.JSONDecodeError:
@@ -88,7 +88,7 @@ def cleanPosts(subreddits_array):
 def savePostsToJSON(subreddits_array, posts_file_JSON):
      with open(posts_file_JSON, "w") as posts_file:
         for post in subreddits_array:   
-            posts_file.write(str(json.dumps(post, indent=2, cls=RedditpostEncoder)))
+            posts_file.write(str(json.dumps(post, indent=None, cls=RedditpostEncoder)))
             posts_file.write("\n")
 
 def main():
