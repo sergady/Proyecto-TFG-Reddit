@@ -10,8 +10,9 @@ subreddits_file_name = "subredditList.txt"
 # Class that represents the posts, containing important
 # fields for our data
 class Redditpost:
-    def __init__(self, post_id, title, author, self_text, subreddit): #TODO: created_utc es el timestamp, está en segundos desde el epoc
+    def __init__(self, post_id, created_utc, title, author, self_text, subreddit): 
         self.post_id = post_id
+        self.created_utc = created_utc
         self.title = title
         self.author = author
         self.self_text = self_text
@@ -47,7 +48,7 @@ def readData(file_name, subreddit_dictionary):
                     if(checkSelfText(data_dict['selftext'])):
                         if(subreddit_dictionary.get( data_dict['subreddit'], False)):
                             # We create the object
-                            subreddits_array.append(Redditpost(data_dict['id'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
+                            subreddits_array.append(Redditpost(data_dict['id'], data_dict['created_utc'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit']))
 
                     if(i%100000 == 0):
                         print('%d posts read' % i)
@@ -90,6 +91,12 @@ def savePostsToJSON(subreddits_array, posts_file_JSON):
         for post in subreddits_array:   
             posts_file.write(str(json.dumps(post, indent=None, cls=RedditpostEncoder)))
             posts_file.write("\n")
+
+# Reads the json file and returns an array of json in string
+def readFromJSON(json_file_name):
+    with open(posts_file_JSON, "r") as json_file:
+        posts = json_file.read().split('\n')
+    return posts
 
 def main():
     start = time.time()
