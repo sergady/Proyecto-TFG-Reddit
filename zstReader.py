@@ -29,22 +29,38 @@ def checkSelfText(self_text):
     return True
 
 # Reads data and works with it
+<<<<<<< HEAD
 def readData(file_name, subreddit_dictionary):
     subreddits_array = [] # cambiar a reddit_posts_list
+=======
+def readData(subreddit_dictionary, printSwitch):
+    subreddits_array = []  # cambiar a reddit_posts_list
+>>>>>>> e18a8ea (Modularized code and counting posts)
     # Open the file as fh
     with open(file_name, 'rb') as fh:
         dctx = zstandard.ZstdDecompressor()
         reader = dctx.stream_reader(fh)
         i = 0
+        errorCounter = 0
+        correctPosts = 0
+        savedPosts = 0
         while True:
             # We read the data and save it into chunks
+<<<<<<< HEAD
             chunk = reader.read(20000) # I need to be careful with this because it cuts jsons by half
             chunk = chunk.decode('UTF-8') # Changes byte-like to string
             data = chunk.split('\n') # Divides the text into posts
+=======
+            # I need to be careful with this because it cuts jsons by half
+            chunk = reader.read(200000)
+            chunk = chunk.decode('UTF-8')  # Changes byte-like to string
+            data = chunk.split('\n')  # Divides the text into posts
+>>>>>>> e18a8ea (Modularized code and counting posts)
             for each in data:
                 i += 1
                 try:
                     data_dict = json.loads(each)
+<<<<<<< HEAD
                     if(checkSelfText(data_dict['selftext'])):
                         if(subreddit_dictionary.get( data_dict['subreddit'], False)):
                             # We create the object
@@ -57,10 +73,44 @@ def readData(file_name, subreddit_dictionary):
 
                 except json.decoder.JSONDecodeError:
                     continue # Seems like we do this to avoid errors but it is to eliminate divided posts
+=======
+                    if(checkSelfTextAndSubreddit(data_dict, subreddit_dictionary)):
+                        # We create the object
+                        subreddits_array.append(createRedditPost(data_dict))
+                        correctPosts +=1
+
+                    if(i % 100000 == 0):
+                        postsCounterAndPrinter(i, printSwitch, subreddits_array)
+                        savedPosts += len(subreddits_array)
+                        subreddits_array.clear()
+
+                except json.decoder.JSONDecodeError:
+                    errorCounter += 1
+                    continue  # Seems like we do this to avoid errors but it is to eliminate divided posts
+>>>>>>> e18a8ea (Modularized code and counting posts)
             if not chunk:
                 break
 
+    print('%d Posts read' % i)
+    print('%d Errors detected' % errorCounter)
+    print('%d Correct posts' % correctPosts)
+    print('%d Saved posts' % savedPosts)
     return subreddits_array
+
+def checkSelfTextAndSubreddit(data_dict, subreddit_dictionary):
+    if(checkSelfText(data_dict['selftext'])):
+        if(subreddit_dictionary.get(data_dict['subreddit'], False)):
+            return True
+    return False
+
+def createRedditPost(data_dict):
+    return RedditPost.RedditPost( data_dict['id'], data_dict['created_utc'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit'])
+
+def postsCounterAndPrinter(i, printSwitch, subreddits_array):
+        if (printSwitch):
+            print('%d posts read' % i)
+        savePostsToJSON(subreddits_array, RESULT_FILE)
+        
 
 # Creates the dictionary of subreddits we are interested in
 def createSubredditsDictionary(subreddits_file):
@@ -73,10 +123,17 @@ def createSubredditsDictionary(subreddits_file):
 
 # Cleans the text from the posts 
 def cleanPosts(subreddits_array):
+<<<<<<< HEAD
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+") # URLs regexp
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+") # Emails regexps
     regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com") # Web keywords regexps
     regexpNumbers = re.compile("\d") # Numbers regexps
+=======
+    regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")  # URLs regexp
+    regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")  # Emails regexps
+    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")# Web keywords regexps
+    regexpNumbers = re.compile("\d")  # Numbers regexps
+>>>>>>> e18a8ea (Modularized code and counting posts)
     for post in subreddits_array:
         post.subreddit = re.sub(regexpUrls,"",post.subreddit) # We clean the complete urls
         post.subreddit = re.sub(regexpEmails,"",post.subreddit) # We clean the emails
@@ -100,6 +157,7 @@ def readFromJSON(json_file_name):
 
 def main():
     start = time.time()
+<<<<<<< HEAD
     subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
     subreddits_array = readData(file_name, subreddit_dictionary)
     subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
@@ -107,3 +165,17 @@ def main():
     print('Time: ', end - start)
 
 main()
+=======
+    subreddit_dictionary = createSubredditsDictionary(SUBREDDITS_LIST)
+    subreddits_array = readData(subreddit_dictionary, False)
+    # subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
+    end = time.time()
+    print('Time: ', end - start)
+
+main()
+
+"""
+Todos list:
+TODO: comprobar que no se deshechan posts útiles
+"""
+>>>>>>> e18a8ea (Modularized code and counting posts)
