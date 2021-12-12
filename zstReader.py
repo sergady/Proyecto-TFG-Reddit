@@ -110,7 +110,6 @@ def postsCounterAndPrinter(i, printSwitch, subreddits_array):
         if (printSwitch):
             print('%d posts read' % i)
         savePostsToJSON(subreddits_array, RESULT_FILE)
-        
 
 # Creates the dictionary of subreddits we are interested in
 def createSubredditsDictionary(subreddits_file):
@@ -121,6 +120,7 @@ def createSubredditsDictionary(subreddits_file):
             subreddits_dictionary.update({subreddit[2:]:True}) # We remove the 'r/' from the subreddits with [2:]
     return subreddits_dictionary 
 
+<<<<<<< HEAD
 # Cleans the text from the posts 
 def cleanPosts(subreddits_array):
 <<<<<<< HEAD
@@ -142,18 +142,14 @@ def cleanPosts(subreddits_array):
     
     return subreddits_array
 
+=======
+>>>>>>> 850ee15 (samplingScript reading)
 # Saves an array of subreddits posts into a file in JSON format
 def savePostsToJSON(subreddits_array, posts_file_JSON):
      with open(posts_file_JSON, "w") as posts_file:
         for post in subreddits_array:   
             posts_file.write(str(json.dumps(post, indent=None, cls=RedditpostEncoder)))
             posts_file.write("\n")
-
-# Reads the json file and returns an array of json in string
-def readFromJSON(json_file_name):
-    with open(posts_file_JSON, "r") as json_file:
-        posts = json_file.read().split('\n')
-    return posts
 
 def main():
     start = time.time()
@@ -167,8 +163,7 @@ def main():
 main()
 =======
     subreddit_dictionary = createSubredditsDictionary(SUBREDDITS_LIST)
-    subreddits_array = readData(subreddit_dictionary, False)
-    # subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
+    readData(subreddit_dictionary, False)
     end = time.time()
     print('Time: ', end - start)
 
