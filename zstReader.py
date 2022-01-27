@@ -4,6 +4,7 @@ from json import JSONEncoder
 import re 
 import time
 
+<<<<<<< HEAD
 file_name = "RS_2019-09.zst"
 subreddits_file_name = "subredditList.txt"
 
@@ -22,6 +23,14 @@ class Redditpost:
 class RedditpostEncoder(JSONEncoder):
         def default(self, post):
             return post.__dict__
+=======
+RAW_FILE_NAME = "RS_2019-09.zst"
+SUBREDDITS_LIST = "subredditList.txt"
+RESULT_FILE = "RS_2019-09.ndjson"
+UTF = 'UTF-8'
+ENTER = '\n'
+CHUNK_SIZE = 2000000
+>>>>>>> 9cb8473 (Constants and comments refactor)
 
 def checkSelfText(self_text):
     if ( self_text == '' or self_text == '[deleted]' or self_text == '[removed]'):
@@ -52,10 +61,16 @@ def readData(subreddit_dictionary, printSwitch):
             data = chunk.split('\n') # Divides the text into posts
 =======
             # I need to be careful with this because it cuts jsons by half
+<<<<<<< HEAD
             chunk = reader.read(200000)
             chunk = chunk.decode('UTF-8')  # Changes byte-like to string
             data = chunk.split('\n')  # Divides the text into posts
 >>>>>>> e18a8ea (Modularized code and counting posts)
+=======
+            chunk = reader.read(CHUNK_SIZE)
+            chunk = chunk.decode(UTF)  # Changes byte-like to string
+            data = chunk.split(ENTER)  # Divides the text into posts
+>>>>>>> 9cb8473 (Constants and comments refactor)
             for each in data:
                 i += 1
                 try:
@@ -154,6 +169,7 @@ def savePostsToJSON(subreddits_array, posts_file_JSON):
 def main():
     start = time.time()
 <<<<<<< HEAD
+<<<<<<< HEAD
     subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
     subreddits_array = readData(file_name, subreddit_dictionary)
     subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
@@ -162,8 +178,14 @@ def main():
 
 main()
 =======
+=======
+    # Creates the dictionary of subreddits that we use
+>>>>>>> 9cb8473 (Constants and comments refactor)
     subreddit_dictionary = createSubredditsDictionary(SUBREDDITS_LIST)
+
+    # Reads data from the file and saves the data
     readData(subreddit_dictionary, False)
+
     end = time.time()
     print('Time: ', end - start)
 
