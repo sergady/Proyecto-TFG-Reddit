@@ -95,7 +95,8 @@ def readData(subreddit_dictionary, printSwitch):
                         correctPosts +=1
 
                     if(i % 100000 == 0):
-                        postsCounterAndPrinter(i, printSwitch, subreddits_array)
+                        postsCounter(i, printSwitch)
+                        postsSaver(subreddits_array)
                         savedPosts += len(subreddits_array)
                         subreddits_array.clear()
 
@@ -121,10 +122,12 @@ def checkSelfTextAndSubreddit(data_dict, subreddit_dictionary):
 def createRedditPost(data_dict):
     return RedditPost.RedditPost( data_dict['id'], data_dict['created_utc'], data_dict['title'], data_dict['author'], data_dict['selftext'], data_dict['subreddit'])
 
-def postsCounterAndPrinter(i, printSwitch, subreddits_array):
-        if (printSwitch):
-            print('%d posts read' % i)
-        savePostsToJSON(subreddits_array, RESULT_FILE)
+def postsCounter(i, printSwitch):
+    if (printSwitch):
+        print('%d posts read' % i)
+
+def postsSaver(subreddits_array):
+    savePostsToJSON(subreddits_array, RESULT_FILE)
 
 # Creates the dictionary of subreddits we are interested in
 def createSubredditsDictionary(subreddits_file):
