@@ -1,3 +1,5 @@
+import random
+
 DATA_FILE_NAME = "RS_2019-09.ndjson"
 
 # Reads the json file and returns an array of json in string
@@ -27,9 +29,10 @@ def cleanPosts(posts_array):
 def createWorkingFile(new_file_name, number_of_posts):
     posts = readFromJSON(DATA_FILE_NAME)
     k = len(posts) // number_of_posts
+    init = random.randrange(k)
 
     with open(new_file_name, "w") as sample_file:
-        for i in range(0, len(posts), k):
+        for i in range(init, len(posts), k):
             sample_file.write(str(posts[i]))
             sample_file.write("\n")
 

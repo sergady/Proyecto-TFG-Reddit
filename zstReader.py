@@ -1,5 +1,6 @@
 import zstandard
 import json
+<<<<<<< HEAD
 from json import JSONEncoder
 import re 
 import time
@@ -23,30 +24,31 @@ class Redditpost:
 class RedditpostEncoder(JSONEncoder):
         def default(self, post):
             return post.__dict__
-=======
+import re
+import time
+import RedditPost
+
+>>>>>>> e638f65 (Removed NDJSON)
 RAW_FILE_NAME = "RS_2019-09.zst"
 SUBREDDITS_LIST = "subredditList.txt"
 RESULT_FILE = "RS_2019-09.ndjson"
 UTF = 'UTF-8'
 ENTER = '\n'
 CHUNK_SIZE = 2000000
->>>>>>> 9cb8473 (Constants and comments refactor)
 
 def checkSelfText(self_text):
     if ( self_text == '' or self_text == '[deleted]' or self_text == '[removed]'):
+
+def checkSelfText(self_text):
+    if (self_text == '' or self_text == '[deleted]' or self_text == '[removed]'):
         return False
     return True
 
 # Reads data and works with it
-<<<<<<< HEAD
-def readData(file_name, subreddit_dictionary):
-    subreddits_array = [] # cambiar a reddit_posts_list
-=======
 def readData(subreddit_dictionary, printSwitch):
     subreddits_array = []  # cambiar a reddit_posts_list
->>>>>>> e18a8ea (Modularized code and counting posts)
     # Open the file as fh
-    with open(file_name, 'rb') as fh:
+    with open(RAW_FILE_NAME, 'rb') as fh:
         dctx = zstandard.ZstdDecompressor()
         reader = dctx.stream_reader(fh)
         i = 0
@@ -54,28 +56,14 @@ def readData(subreddit_dictionary, printSwitch):
         correctPosts = 0
         savedPosts = 0
         while True:
-            # We read the data and save it into chunks
-<<<<<<< HEAD
-            chunk = reader.read(20000) # I need to be careful with this because it cuts jsons by half
-            chunk = chunk.decode('UTF-8') # Changes byte-like to string
-            data = chunk.split('\n') # Divides the text into posts
-=======
             # I need to be careful with this because it cuts jsons by half
-<<<<<<< HEAD
-            chunk = reader.read(200000)
-            chunk = chunk.decode('UTF-8')  # Changes byte-like to string
-            data = chunk.split('\n')  # Divides the text into posts
->>>>>>> e18a8ea (Modularized code and counting posts)
-=======
             chunk = reader.read(CHUNK_SIZE)
             chunk = chunk.decode(UTF)  # Changes byte-like to string
             data = chunk.split(ENTER)  # Divides the text into posts
->>>>>>> 9cb8473 (Constants and comments refactor)
             for each in data:
                 i += 1
                 try:
                     data_dict = json.loads(each)
-<<<<<<< HEAD
                     if(checkSelfText(data_dict['selftext'])):
                         if(subreddit_dictionary.get( data_dict['subreddit'], False)):
                             # We create the object
@@ -87,23 +75,8 @@ def readData(subreddit_dictionary, printSwitch):
                         subreddits_array.clear()
 
                 except json.decoder.JSONDecodeError:
-                    continue # Seems like we do this to avoid errors but it is to eliminate divided posts
-=======
-                    if(checkSelfTextAndSubreddit(data_dict, subreddit_dictionary)):
-                        # We create the object
-                        subreddits_array.append(createRedditPost(data_dict))
-                        correctPosts +=1
-
-                    if(i % 100000 == 0):
-                        postsCounter(i, printSwitch)
-                        postsSaver(subreddits_array)
-                        savedPosts += len(subreddits_array)
-                        subreddits_array.clear()
-
-                except json.decoder.JSONDecodeError:
                     errorCounter += 1
                     continue  # Seems like we do this to avoid errors but it is to eliminate divided posts
->>>>>>> e18a8ea (Modularized code and counting posts)
             if not chunk:
                 break
 
@@ -138,20 +111,12 @@ def createSubredditsDictionary(subreddits_file):
             subreddits_dictionary.update({subreddit[2:]:True}) # We remove the 'r/' from the subreddits with [2:]
     return subreddits_dictionary 
 
-<<<<<<< HEAD
 # Cleans the text from the posts 
 def cleanPosts(subreddits_array):
-<<<<<<< HEAD
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+") # URLs regexp
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+") # Emails regexps
     regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com") # Web keywords regexps
     regexpNumbers = re.compile("\d") # Numbers regexps
-=======
-    regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")  # URLs regexp
-    regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")  # Emails regexps
-    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")# Web keywords regexps
-    regexpNumbers = re.compile("\d")  # Numbers regexps
->>>>>>> e18a8ea (Modularized code and counting posts)
     for post in subreddits_array:
         post.subreddit = re.sub(regexpUrls,"",post.subreddit) # We clean the complete urls
         post.subreddit = re.sub(regexpEmails,"",post.subreddit) # We clean the emails
@@ -160,19 +125,24 @@ def cleanPosts(subreddits_array):
     
     return subreddits_array
 
-=======
->>>>>>> 850ee15 (samplingScript reading)
 # Saves an array of subreddits posts into a file in JSON format
 def savePostsToJSON(subreddits_array, posts_file_JSON):
      with open(posts_file_JSON, "w") as posts_file:
         for post in subreddits_array:   
             posts_file.write(str(json.dumps(post, indent=None, cls=RedditpostEncoder)))
+            # We remove the 'r/' from the subreddits with [2:]
+            subreddits_dictionary.update({subreddit[2:]: True})
+    return subreddits_dictionary
+
+# Saves an array of subreddits posts into a file in JSON format
+def savePostsToJSON(subreddits_array, posts_file_JSON):
+    with open(posts_file_JSON, "a") as posts_file:
+        for post in subreddits_array:
+            posts_file.write(str(json.dumps(post, indent=None, cls=RedditPost.RedditPostEncoder)))
             posts_file.write("\n")
 
 def main():
     start = time.time()
-<<<<<<< HEAD
-<<<<<<< HEAD
     subreddit_dictionary = createSubredditsDictionary(subreddits_file_name)
     subreddits_array = readData(file_name, subreddit_dictionary)
     subreddits_array = cleanPosts(subreddits_array) # TODO: no se utiliza para nada si se guardan los textos en readData
@@ -180,10 +150,7 @@ def main():
     print('Time: ', end - start)
 
 main()
-=======
-=======
     # Creates the dictionary of subreddits that we use
->>>>>>> 9cb8473 (Constants and comments refactor)
     subreddit_dictionary = createSubredditsDictionary(SUBREDDITS_LIST)
 
     # Reads data from the file and saves the data
@@ -193,9 +160,3 @@ main()
     print('Time: ', end - start)
 
 main()
-
-"""
-Todos list:
-TODO: comprobar que no se deshechan posts útiles
-"""
->>>>>>> e18a8ea (Modularized code and counting posts)
