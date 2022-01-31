@@ -1,2 +1,6 @@
 *.zst
+<<<<<<< HEAD
 *.ndjson
+=======
+*.ndjson
+>>>>>>> f648d6a (Run)
