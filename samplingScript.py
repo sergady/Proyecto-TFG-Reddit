@@ -28,12 +28,14 @@ def cleanPosts(posts_array):
 
 def createWorkingFile(new_file_name, number_of_posts):
     posts = readFromJSON(DATA_FILE_NAME)
-    k = len(posts) // number_of_posts
-    init = random.randrange(k)
+    k = len(posts) / number_of_posts
+    init = random.randrange(round(k))
 
     with open(new_file_name, "w") as sample_file:
-        for i in range(init, len(posts), k):
-            sample_file.write(str(posts[i]))
+        i = init
+        while(i<len(posts)):
+            sample_file.write(str(posts[round(i)]))
             sample_file.write("\n")
+            i += k
 
 createWorkingFile("sample1.txt", 5000)

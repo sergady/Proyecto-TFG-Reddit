@@ -9,7 +9,7 @@ SUBREDDITS_LIST = "subredditList.txt"
 RESULT_FILE = "RS_2019-09.ndjson"
 UTF = 'UTF-8'
 ENTER = '\n'
-CHUNK_SIZE = 2000000
+CHUNK_SIZE = 200000
 
 def checkSelfText(self_text):
     if (self_text == '' or self_text == '[deleted]' or self_text == '[removed]'):
