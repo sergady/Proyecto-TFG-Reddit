@@ -1,6 +1,8 @@
 import random
 
 DATA_FILE_NAME = "RS_2019-09.ndjson"
+SAMPLE_FILE = "sample_file.txt"
+SAMPLE_SIZE = 5000
 
 # Reads the json file and returns an array of json in string
 def readFromJSON(json_file_name):
@@ -38,4 +40,4 @@ def createWorkingFile(new_file_name, number_of_posts):
             sample_file.write("\n")
             i += k
 
-createWorkingFile("sample1.txt", 5000)
+createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)
