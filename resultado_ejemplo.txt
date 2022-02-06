@@ -1,0 +1,99 @@
+Texts loaded!
+Initialization complete
+Iteration 0, inertia 6577.043420243824
+Iteration 1, inertia 3915.043156121358
+Iteration 2, inertia 3878.1839997120564
+Iteration 3, inertia 3863.7956157056547
+Iteration 4, inertia 3854.99427631879
+Iteration 5, inertia 3847.558919199022
+Iteration 6, inertia 3843.87099312199
+Iteration 7, inertia 3841.804217481793
+Iteration 8, inertia 3840.7530969789173
+Iteration 9, inertia 3840.1478667511265
+Iteration 10, inertia 3839.713971151197
+Iteration 11, inertia 3839.308988711588
+Iteration 12, inertia 3839.002892467209
+Iteration 13, inertia 3838.7252424337976
+Iteration 14, inertia 3838.3972882968737
+Iteration 15, inertia 3838.1755899199256
+Iteration 16, inertia 3838.1017894499737
+Iteration 17, inertia 3837.9297782109716
+Iteration 18, inertia 3837.657520669414
+Iteration 19, inertia 3837.374327655284
+Iteration 20, inertia 3837.09500409371
+Iteration 21, inertia 3836.8677773286454
+Iteration 22, inertia 3836.7671228705053
+Iteration 23, inertia 3836.650031667287
+Iteration 24, inertia 3836.546270227541
+Iteration 25, inertia 3836.4199792540253
+Iteration 26, inertia 3836.218466692179
+Iteration 27, inertia 3835.9301540270317
+Iteration 28, inertia 3835.7929828309702
+Iteration 29, inertia 3835.675369669411
+Iteration 30, inertia 3835.6007508216135
+Iteration 31, inertia 3835.5384390884437
+Iteration 32, inertia 3835.5181422012656
+Converged at iteration 32: strict convergence.
+Silhouette score:  0.0049797165215550105
+C:\Users\Sergio\AppData\Local\Programs\Python\Python39\lib\site-packages\sklearn\utils\deprecation.py:87: FutureWarning: Function get_feature_names is deprecated; get_feature_names is deprecated in 1.0 and will 
+be removed in 1.2. Please use get_feature_names_out instead.
+  warnings.warn(msg, category=FutureWarning)
+Método K-means
+Cluster 5 (495 documentos):"she" "her" "and" "to" "the" "me" "that" "we" "it" "my"
+Cluster 12 (417 documentos):"to" "and" "my" "the" "it" "me" "of" "that" "have" "in"
+Cluster 22 (383 documentos):"the" "and" "it" "of" "to" "in" "is" "my" "for" "but"
+Cluster 4 (380 documentos):"and" "the" "to" "my" "was" "it" "of" "that" "in" "for"
+Cluster 3 (347 documentos):"he" "and" "him" "to" "his" "the" "me" "was" "we" "that"
+Cluster 13 (307 documentos):"it" "and" "to" "so" "but" "my" "be" "me" "the" "for"
+Cluster 17 (275 documentos):"feel" "and" "like" "it" "just" "of" "is" "feel like" "to" "the"
+Cluster 27 (243 documentos):"you" "to" "your" "and" "the" "it" "of" "that" "if you" "you re"
+Cluster 14 (226 documentos):"he" "him" "to" "and" "the" "my" "me" "it" "that" "his"
+Cluster 28 (220 documentos):"to" "and" "the" "my" "it" "drink" "of" "have" "drinking" "but"
+Cluster 26 (185 documentos):"to" "any" "the" "for" "and" "are" "anyone" "in" "on" "looking"
+Cluster 23 (184 documentos):"my" "she" "and" "to" "her" "the" "me" "mom" "was" "that"
+Cluster 8 (161 documentos):"we" "and" "to" "the" "our" "of" "for" "it" "my" "have"
+Cluster 19 (155 documentos):"to" "want" "want to" "and" "don" "my" "don want" "it" "the" "in"
+Cluster 1 (154 documentos):"they" "and" "to" "the" "them" "it" "me" "they re" "are" "my"
+Cluster 20 (106 documentos):"to" "and" "music" "me" "love" "looking" "new" "you" "the" "friends"
+Cluster 10 (100 documentos):"im" "and" "to" "my" "the" "of" "ive" "its" "me" "for"
+Cluster 21 (91 documentos):"my" "and" "to" "in" "is" "so" "in my" "for" "the" "of"
+Cluster 16 (80 documentos):"anxiety" "and" "to" "my" "my anxiety" "it" "the" "for" "anxiety and" "of"
+Cluster 2 (78 documentos):"to" "know what" "know" "what" "don" "don know" "what to" "do" "to do" "and"
+Cluster 7 (66 documentos):"wondering" "wondering if" "if" "and" "to" "was" "if anyone" "it" "the" "anyone"
+Cluster 11 (54 documentos):"to" "talk" "to talk" "talk to" "someone to" "and" "someone" "talk about" "just" "about"
+Cluster 0 (45 documentos):"night" "last night" "and" "is this" "last" "it" "is" "to" "this" "of"
+Cluster 25 (45 documentos):"amp" "x200b" "amp x200b" "https" "it" "the" "and" "to" "my" "for"
+Cluster 15 (44 documentos):"https" "com" "watch" "the" "to" "it" "on" "amp" "of" "this"
+Cluster 6 (41 documentos):"just want" "want" "to" "want to" "just" "and" "to be" "be" "the" "feel"
+Cluster 24 (36 documentos):"you guys" "guys" "do you" "you" "do" "what do" "and" "to" "what" "how do"
+Cluster 29 (31 documentos):"can" "can do" "anyone else" "else" "cause" "there" "fuck" "anyone" "what" "thanks"
+Cluster 9 (29 documentos):"chat" "to" "and" "you" "send" "wanna" "message" "or" "if" "your"
+Cluster 18 (22 documentos):"play" "games" "and" "to" "if you" "you" "some" "if" "friends" "on"
+Converged after 77 iterations.
+Silhouette score:  -0.053259293109312475
+Número de clusters descubiertos: 37
+Cluster 1 (530 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 4 (422 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 5 (397 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 11 (370 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 14 (334 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 24 (317 documentos):"she" "her" "to" "and" "the" "we" "so" "me" "on" "it"
+Cluster 15 (271 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 17 (258 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 19 (252 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 20 (236 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 21 (234 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 16 (223 documentos):"he" "and" "we" "that" "the" "was" "him" "to" "he was" "said"
+Cluster 28 (217 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 27 (174 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 32 (172 documentos):"yourself" "group" "going" "going on" "going to" "gone" "gonna" "good" "got" "gotten"
+Cluster 3 (97 documentos):"he" "to" "his" "we" "and" "the" "him" "was" "this" "of"
+Cluster 18 (94 documentos):"to" "was" "the" "and" "daughter" "she" "her" "we" "my" "so"
+Cluster 10 (79 documentos):"and" "to" "my" "the" "was" "of" "that" "for" "would" "had"
+Cluster 33 (69 documentos):"she" "her" "and" "to" "with" "him" "this guy" "the" "it" "this"
+Cluster 31 (36 documentos):"and" "the" "my" "life" "of" "to" "my life" "felt" "in" "was"
+Cluster 13 (34 documentos):"to" "he" "him" "and" "we" "it" "me" "the" "know" "things"
+Cluster 34 (27 documentos):"you" "she" "the" "and" "to" "your" "was" "even" "of" "child"
+Cluster 0 (26 documentos):"my" "she" "my mom" "mom" "and" "her" "the" "sister" "me" "talk"
+Cluster 7 (22 documentos):"we" "she" "and" "each other" "the" "each" "other" "had" "to" "really"
+Cluster 9 (22 documentos):"the" "to" "it" "in" "and" "is" "as" "control" "you" "for"

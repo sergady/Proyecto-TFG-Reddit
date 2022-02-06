@@ -15,30 +15,31 @@ def readFromJSON(json_file_name):
 def cleanPosts(posts_array):
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")  # URLs regexp
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")  # Emails regexps
-    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")# Web keywords regexps
+    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com|(and)|(to)|(the)|(but)|(for)")# Web keywords regexps
     regexpNumbers = re.compile("\d")  # Numbers regexps
     for post in posts_array:
         # We clean the complete urls
-        post.subreddit = re.sub(regexpUrls, "", post.subreddit)
+        post = re.sub(regexpUrls, "", post)
         # We clean the emails
-        post.subreddit = re.sub(regexpEmails, "", post.subreddit)
+        post = re.sub(regexpEmails, "", post)
         # We clean url fragments
-        post.subreddit = re.sub(regexpWeb, "", post.subreddit)
-        post.subreddit = re.sub(
-            regexpNumbers, "", post.subreddit)  # We clean numbers
+        post = re.sub(regexpWeb, "", post)
+        post = re.sub(regexpNumbers, "", post)  # We clean numbers
 
     return posts_array
 
 def createWorkingFile(new_file_name, number_of_posts):
     posts = readFromJSON(DATA_FILE_NAME)
+    posts = cleanPosts(posts)
     k = len(posts) / number_of_posts
     init = random.randrange(round(k))
 
     with open(new_file_name, "w") as sample_file:
         i = init
-        while(i<len(posts)):
+        while(round(i)<len(posts)):
             sample_file.write(str(posts[round(i)]))
             sample_file.write("\n")
             i += k
+    print("File created!")
 
 createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)

@@ -3,8 +3,7 @@ import re
 from ReadSample import storeTextsInArray
 
 preprocessedTexts = storeTextsInArray()
-print(preprocessedTexts)
-# print(printConsole(preprocessedTexts))
+print("Texts loaded!")
 
 """# Clustering
 Ahora con los textos preprocesados y en un único array, vamos a proceder a hacer el clustering. Así comprobaremos si es capaz de distinguir los diferentes idiomas que hay.
@@ -21,8 +20,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # truncando, además, el vocabulario en los 1500
 # términos más frecuentes.
 #
-vectorizador = TfidfVectorizer(encoding="iso-8859-1", lowercase=True, ngram_range=(1,2), 
-                                 max_features=1500)
+vectorizador = TfidfVectorizer(encoding="iso-8859-1", lowercase=True, ngram_range=(1,2), max_features=1500)
 
 # Se aplica el vectorizador al corpus de textos
 #
@@ -42,7 +40,7 @@ from sklearn.cluster import KMeans
 # Cuanto más próximo a cero más parecidos son los clusters entre sí.
 # Si está por debajo de cero los clusters se solapan.
 #
-num_clusters = 6
+num_clusters = 30
 
 # Se va a usar el algoritmo k-means en búsqueda de 6 clusters
 #
