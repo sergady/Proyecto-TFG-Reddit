@@ -1,6 +1,5 @@
 import zstandard
 import json
-import re
 import time
 import RedditPost
 

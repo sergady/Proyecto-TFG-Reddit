@@ -1,4 +1,5 @@
 import random
+import re
 
 DATA_FILE_NAME = "RS_2019-09.ndjson"
 SAMPLE_FILE = "sample_file.txt"
