@@ -1,5 +1,3 @@
-import os
-import re
 from ReadSample import storeTextsInArray
 
 preprocessedTexts = storeTextsInArray()
