@@ -15,7 +15,7 @@ def readFromJSON(json_file_name):
 def cleanPosts(posts_array):
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")  # URLs regexp
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")  # Emails regexps
-    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com|(and)|(to)|(the)|(but)|(for)")# Web keywords regexps
+    regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")# Web keywords regexps
     regexpNumbers = re.compile("\d")  # Numbers regexps
     for post in posts_array:
         # We clean the complete urls

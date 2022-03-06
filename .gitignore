@@ -1,2 +1,3 @@
 *.zst
 *.ndjson
+__pycache__

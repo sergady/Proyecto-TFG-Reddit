@@ -1,4 +1,7 @@
+from numpy import empty_like
 from ReadSample import storeTextsInArray
+
+empty_words_file = "emptyWords.txt"
 
 preprocessedTexts = storeTextsInArray()
 print("Texts loaded!")
@@ -86,14 +89,30 @@ terminos = vectorizador.get_feature_names()
 #
 indice_cluster_terminos = clustering.cluster_centers_.argsort()[:, ::-1]
 
-# Nos quedamos con los num_clusters clusters y mostramos los 10
+# Creates the dictionary of empty words we not need
+# Usamos el diccionario para sacar las palabras vacías
+def createEmptyWordsDictionary(subreddits_file):
+    with open(empty_words_file) as empty_words:
+        empty_words_list = empty_words.read().split("\n")
+        empty_words_dictionary = {}
+        for empty_word in empty_words_list:
+            # We remove the 'r/' from the subreddits with [2:]
+            empty_words_dictionary.update({empty_word: True})
+    return empty_words_dictionary
+
+empty_words_dictionary = createEmptyWordsDictionary(empty_words_file)
+
+# Nos quedamos con los num_clusters clusters y mostramos los 25
 # términos más representativos de los mismos.
 #
+terminos_representativos = 25
+
 print("Método K-means")
 for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print("Cluster %d (%d documentos):" % (cluster_id, num_docs), end='')
-  for term_id in indice_cluster_terminos[cluster_id, :10]:
-    print('"%s"' % terminos[term_id], end=' ')
+  for term_id in indice_cluster_terminos[cluster_id, :terminos_representativos]:
+    if( not empty_words_dictionary.get(terminos[term_id], False)): # Check if it is an empty word
+      print('"%s"' % terminos[term_id], end=' ')
   print()
 
 """## Aplicación de Afinnity Propagation
