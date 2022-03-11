@@ -1,5 +1,10 @@
 from numpy import empty_like
 from ReadSample import storeTextsInArray
+import sys
+from datetime import datetime
+
+file_name = 'results/result_'+str(datetime.now())+'.txt'
+sys.stdout = open(file_name, 'w')
 
 empty_words_file = "emptyWords.txt"
 
@@ -118,6 +123,7 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
       
   print()
 
+sys.stdout.close()
 """## Aplicación de Afinnity Propagation
 
 Ahora vamos a usar el método de affinity propagation.
