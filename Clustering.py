@@ -110,16 +110,19 @@ terminos_representativos = 25
 print("Método K-means")
 for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print("Cluster %d (%d documentos):" % (cluster_id, num_docs), end='')
-  for term_id in indice_cluster_terminos[cluster_id, :terminos_representativos]:
-    if( not empty_words_dictionary.get(terminos[term_id], False)): # Check if it is an empty word
-      print('"%s"' % terminos[term_id], end=' ')
+  i = cluster_id
+  while i < len(indice_cluster_terminos):
+    if( not empty_words_dictionary.get(terminos[i], False)): # Check if it is an empty word
+      print('"%s"' % terminos[i], end=' ')
+      i += 1
+      
   print()
 
 """## Aplicación de Afinnity Propagation
 
 Ahora vamos a usar el método de affinity propagation.
 La mayor ventaja de este frente a K-means es que no hay que especificar el número de clusters que se espera recibir.
-"""
+
 
 from sklearn.cluster import AffinityPropagation
 
@@ -131,7 +134,7 @@ clustering = AffinityPropagation(max_iter=100, verbose=True)
 #
 clustering.fit(matriz)
 
-"""Ahora para observar los resultados procedemos a hacer la silueta igual que con k-means."""
+#Ahora para observar los resultados procedemos a hacer la silueta igual que con k-means.
 
 # Calculamos la puntuación de la "silueta".
 #
@@ -178,7 +181,4 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(25):
   for term_id in indice_cluster_terminos[cluster_id, :10]:
     print('"%s"' % terminos[term_id], end=' ')
   print()
-
-"""Problemas:
-* Affinity no funciona
 """

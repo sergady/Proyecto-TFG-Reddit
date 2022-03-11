@@ -42,4 +42,4 @@ def createWorkingFile(new_file_name, number_of_posts):
             i += k
     print("File created!")
 
-createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)
+#createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)
