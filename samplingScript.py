@@ -1,9 +1,15 @@
 import random
 import re
+from ZSTReader import RESULT_FILE
 
-DATA_FILE_NAME = "RS_2019-09.ndjson"
-SAMPLE_FILE = "sample_file.txt"
+DATA_FILE_NAME = RESULT_FILE
+SAMPLE_FILE = "data/sample_file.txt"
 SAMPLE_SIZE = 5000
+
+data_seed = ''
+
+def getDataSeed():
+    return data_seed
 
 # Reads the json file and returns an array of json in string
 def readFromJSON(json_file_name):
@@ -34,12 +40,16 @@ def createWorkingFile(new_file_name, number_of_posts):
     k = len(posts) / number_of_posts
     init = random.randrange(round(k))
 
+    data_seed = 'p' + str(len(posts)) + 'n' + str(number_of_posts) + 'i' + str(init)
+
     with open(new_file_name, "w") as sample_file:
         i = init
+        sample_file.write(data_seed)
+        sample_file.write("\n")
         while(round(i)<len(posts)):
             sample_file.write(str(posts[round(i)]))
             sample_file.write("\n")
             i += k
     print("File created!")
 
-#createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)
+createWorkingFile(SAMPLE_FILE, SAMPLE_SIZE)

@@ -6,10 +6,11 @@ from datetime import datetime
 file_name = 'results/result_'+str(datetime.now())+'.txt'
 sys.stdout = open(file_name, 'w')
 
-empty_words_file = "emptyWords.txt"
+empty_words_file = "static_data/emptyWords.txt"
 
 preprocessedTexts = storeTextsInArray()
 print("Texts loaded!")
+print("Semilla de ejemploPost.txt")
 
 """# Clustering
 Ahora con los textos preprocesados y en un único array, vamos a proceder a hacer el clustering. Así comprobaremos si es capaz de distinguir los diferentes idiomas que hay.
@@ -124,6 +125,7 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print()
 
 sys.stdout.close()
+print("Clustering finished!")
 """## Aplicación de Afinnity Propagation
 
 Ahora vamos a usar el método de affinity propagation.
