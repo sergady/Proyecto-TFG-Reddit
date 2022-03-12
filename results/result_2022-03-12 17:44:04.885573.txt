@@ -1,0 +1,63 @@
+Texts loaded!
+Semilla de ejemploPost.txt
+Initialization complete
+Iteration 0, inertia 6659.382967330482
+Iteration 1, inertia 3910.996013492345
+Iteration 2, inertia 3861.5774001738005
+Iteration 3, inertia 3845.804334743419
+Iteration 4, inertia 3838.958218457111
+Iteration 5, inertia 3834.7095976561013
+Iteration 6, inertia 3831.962663876874
+Iteration 7, inertia 3830.013064044316
+Iteration 8, inertia 3828.3418901369514
+Iteration 9, inertia 3826.8039209858325
+Iteration 10, inertia 3825.426464326475
+Iteration 11, inertia 3824.12610659255
+Iteration 12, inertia 3822.827702893058
+Iteration 13, inertia 3822.548924878903
+Iteration 14, inertia 3822.356700248159
+Iteration 15, inertia 3822.123454179534
+Iteration 16, inertia 3821.9760987152713
+Iteration 17, inertia 3821.879998407576
+Iteration 18, inertia 3821.794708042735
+Iteration 19, inertia 3821.734885574132
+Iteration 20, inertia 3821.7252290238976
+Iteration 21, inertia 3821.7157380491462
+Iteration 22, inertia 3821.7073615876816
+Iteration 23, inertia 3821.6966699385644
+Iteration 24, inertia 3821.6916205782086
+Iteration 25, inertia 3821.682653137209
+Iteration 26, inertia 3821.677935954079
+Converged at iteration 26: strict convergence.
+Silhouette score:  0.0008917246494556697
+Método K-means
+Cluster 23 (447 documentos):"advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 6 (399 documentos):"30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 1 (386 documentos):"100" "12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 18 (351 documentos):"abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 22 (350 documentos):"actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 19 (321 documentos):"abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 29 (285 documentos):"again and" 
+Cluster 2 (267 documentos):"12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 28 (266 documentos):"again" "again and" 
+Cluster 20 (228 documentos):"accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 15 (205 documentos):"about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 13 (194 documentos):"about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 25 (145 documentos):"after" "after that" "after the" "again" "again and" 
+Cluster 5 (118 documentos):"20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 17 (110 documentos):"absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 4 (100 documentos):"18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 9 (93 documentos):"about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 11 (88 documentos):"about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 10 (81 documentos):"about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 27 (75 documentos):"after the" "again" "again and" 
+Cluster 7 (70 documentos):"able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 26 (61 documentos):"after that" "after the" "again" "again and" 
+Cluster 16 (59 documentos):"about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 12 (57 documentos):"about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 24 (56 documentos):"afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 21 (55 documentos):"account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 3 (48 documentos):"15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 0 (38 documentos):"10" "100" "12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 8 (26 documentos):"able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 
+Cluster 14 (21 documentos):"about my" "about the" "about this" "absolutely" "abuse" "abusive" "accept" "account" "actually" "advice" "afraid" "after" "after that" "after the" "again" "again and" 

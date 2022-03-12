@@ -3,9 +3,9 @@ import json
 import time
 import RedditPost
 
-RAW_FILE_NAME = "RS_2019-09.zst"
-SUBREDDITS_LIST = "subredditList.txt"
-RESULT_FILE = "RS_2019-09.ndjson"
+RAW_FILE_NAME = "data/RS_2019-09.zst"
+SUBREDDITS_LIST = "static_data/subredditList.txt"
+RESULT_FILE = "data/RS_2019-09.ndjson"
 UTF = 'UTF-8'
 ENTER = '\n'
 CHUNK_SIZE = 200000
