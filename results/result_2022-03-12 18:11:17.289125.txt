@@ -1,0 +1,61 @@
+Texts loaded!
+Semilla de sample_file.txt: p1119208n5000i193
+Initialization complete
+Iteration 0, inertia 6661.795907836277
+Iteration 1, inertia 3912.7899641890717
+Iteration 2, inertia 3865.5036049038563
+Iteration 3, inertia 3849.8705180155125
+Iteration 4, inertia 3843.9859937233246
+Iteration 5, inertia 3840.1149268609797
+Iteration 6, inertia 3837.2993751742542
+Iteration 7, inertia 3835.1940923758557
+Iteration 8, inertia 3833.6925233129496
+Iteration 9, inertia 3832.97296434714
+Iteration 10, inertia 3832.5305104978925
+Iteration 11, inertia 3832.200792813209
+Iteration 12, inertia 3831.7502409120234
+Iteration 13, inertia 3831.1605700437467
+Iteration 14, inertia 3830.3430221118747
+Iteration 15, inertia 3829.233157128221
+Iteration 16, inertia 3828.1343719145043
+Iteration 17, inertia 3827.4314705410793
+Iteration 18, inertia 3827.0003066034287
+Iteration 19, inertia 3826.7274195006935
+Iteration 20, inertia 3826.540248254471
+Iteration 21, inertia 3826.4289133066154
+Iteration 22, inertia 3826.354912172793
+Iteration 23, inertia 3826.3075213442035
+Iteration 24, inertia 3826.2878613529165
+Converged at iteration 24: strict convergence.
+Silhouette score:  -0.0020811323134045877
+Método K-means
+Cluster 20 (421 documentos):"abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 18 (388 documentos):"absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 19 (348 documentos):"abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 1 (341 documentos):"100" "12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 11 (331 documentos):"about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 23 (294 documentos):"act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 2 (290 documentos):"12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 15 (279 documentos):"about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 10 (256 documentos):"about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 12 (256 documentos):"about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 3 (224 documentos):"15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 16 (181 documentos):"about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 14 (173 documentos):"about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 9 (134 documentos):"about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 5 (133 documentos):"20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 4 (128 documentos):"18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 24 (124 documentos):"actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 22 (103 documentos):"account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 6 (93 documentos):"30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 8 (88 documentos):"able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 25 (88 documentos):"advice" "afraid" "after" "after that" "after the" 
+Cluster 29 (74 documentos):"after the" 
+Cluster 21 (49 documentos):"accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 26 (45 documentos):"afraid" "after" "after that" "after the" 
+Cluster 27 (37 documentos):"after" "after that" "after the" 
+Cluster 17 (31 documentos):"about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 13 (29 documentos):"about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 0 (22 documentos):"10" "100" "12" "15" "18" "20" "30" "able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 
+Cluster 28 (20 documentos):"after that" "after the" 
+Cluster 7 (20 documentos):"able" "able to" "about" "about her" "about how" "about it" "about me" "about my" "about the" "about this" "about what" "absolutely" "abuse" "abusive" "accept" "account" "act" "actually" "advice" "afraid" "after" "after that" "after the" 

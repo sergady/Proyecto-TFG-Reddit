@@ -8,9 +8,9 @@ sys.stdout = open(file_name, 'w')
 
 empty_words_file = "static_data/emptyWords.txt"
 
-preprocessedTexts = storeTextsInArray()
+[preprocessedTexts, sample_seed] = storeTextsInArray()
 print("Texts loaded!")
-print("Semilla de ejemploPost.txt")
+print("Semilla de sample_file.txt: " + sample_seed)
 
 """# Clustering
 Ahora con los textos preprocesados y en un único array, vamos a proceder a hacer el clustering. Así comprobaremos si es capaz de distinguir los diferentes idiomas que hay.
@@ -125,7 +125,6 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print()
 
 sys.stdout.close()
-print("Clustering finished!")
 """## Aplicación de Afinnity Propagation
 
 Ahora vamos a usar el método de affinity propagation.

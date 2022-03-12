@@ -17,4 +17,4 @@ def storeTextsInArray():
         except json.decoder.JSONDecodeError:
             continue
 
-    return texts
+    return [texts, posts_array[0]]
