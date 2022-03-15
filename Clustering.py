@@ -6,7 +6,7 @@ from datetime import datetime
 file_name = 'results/result_'+str(datetime.now())+'.txt'
 sys.stdout = open(file_name, 'w')
 
-empty_words_file = "static_data/emptyWords.txt"
+stop_words_file = "static_data/stopWords.txt"
 
 [preprocessedTexts, sample_seed] = storeTextsInArray()
 print("Texts loaded!")
@@ -27,7 +27,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # truncando, además, el vocabulario en los 1500
 # términos más frecuentes.
 #
-vectorizador = TfidfVectorizer(encoding="iso-8859-1", lowercase=True, ngram_range=(1,2), max_features=1500)
+vectorizador = TfidfVectorizer(encoding="iso-8859-1", lowercase=True, ngram_range=(1, 1), max_features=1500)
 
 # Se aplica el vectorizador al corpus de textos
 #
@@ -95,18 +95,17 @@ terminos = vectorizador.get_feature_names()
 #
 indice_cluster_terminos = clustering.cluster_centers_.argsort()[:, ::-1]
 
-# Creates the dictionary of empty words we not need
+# Creates the dictionary of stop words we not need
 # Usamos el diccionario para sacar las palabras vacías
-def createEmptyWordsDictionary(subreddits_file):
-    with open(empty_words_file) as empty_words:
-        empty_words_list = empty_words.read().split("\n")
-        empty_words_dictionary = {}
-        for empty_word in empty_words_list:
-            # We remove the 'r/' from the subreddits with [2:]
-            empty_words_dictionary.update({empty_word: True})
-    return empty_words_dictionary
+def createStopWordsDictionary(words_file):
+    with open(words_file) as stop_words:
+        stop_words_list = stop_words.read().split("\n")
+        stop_words_dictionary = {}
+        for stop_word in stop_words_list:
+            stop_words_dictionary.update({stop_word: True})
+    return stop_words_dictionary
 
-empty_words_dictionary = createEmptyWordsDictionary(empty_words_file)
+stop_words_dictionary = createStopWordsDictionary(stop_words_file) #stopwords
 
 # Nos quedamos con los num_clusters clusters y mostramos los 25
 # términos más representativos de los mismos.
@@ -118,7 +117,7 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print("Cluster %d (%d documentos):" % (cluster_id, num_docs), end='')
   i = cluster_id
   while i < len(indice_cluster_terminos):
-    if( not empty_words_dictionary.get(terminos[i], False)): # Check if it is an empty word
+    if( not stop_words_dictionary.get(terminos[i], False)): # Check if it is an empty word
       print('"%s"' % terminos[i], end=' ')
       i += 1
       
