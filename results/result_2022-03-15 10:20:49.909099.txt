@@ -1,0 +1,71 @@
+Texts loaded!
+Semilla de sample_file.txt: p1242316n5000i41
+Initialization complete
+Iteration 0, inertia 6440.556238715975
+Iteration 1, inertia 3859.181531267265
+Iteration 2, inertia 3817.5596421050022
+Iteration 3, inertia 3802.690695141914
+Iteration 4, inertia 3796.0908460108494
+Iteration 5, inertia 3791.651182245985
+Iteration 6, inertia 3788.49897331759
+Iteration 7, inertia 3786.1072061576424
+Iteration 8, inertia 3784.285840362214
+Iteration 9, inertia 3783.183231002576
+Iteration 10, inertia 3782.5506704779273
+Iteration 11, inertia 3782.045690848052
+Iteration 12, inertia 3781.649139167459
+Iteration 13, inertia 3781.490660684889
+Iteration 14, inertia 3781.3685601593847
+Iteration 15, inertia 3781.135966035855
+Iteration 16, inertia 3781.0030894919937
+Iteration 17, inertia 3780.900413511614
+Iteration 18, inertia 3780.8051444493576
+Iteration 19, inertia 3780.7279391424618
+Iteration 20, inertia 3780.659961857864
+Iteration 21, inertia 3780.5712947642514
+Iteration 22, inertia 3780.4885394387406
+Iteration 23, inertia 3780.447761607438
+Iteration 24, inertia 3780.417638818869
+Iteration 25, inertia 3780.407962376364
+Iteration 26, inertia 3780.3939985318734
+Iteration 27, inertia 3780.3824304228738
+Iteration 28, inertia 3780.368687716885
+Iteration 29, inertia 3780.3655123586523
+Iteration 30, inertia 3780.3491048135966
+Iteration 31, inertia 3780.2986316041356
+Iteration 32, inertia 3780.279410783131
+Iteration 33, inertia 3780.2409131235163
+Iteration 34, inertia 3780.2216466974223
+Converged at iteration 34: strict convergence.
+Silhouette score:  0.006487072019748232
+Método K-means
+Cluster 19 (517 documentos):"40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 8 (504 documentos):"17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 9 (388 documentos):"18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 17 (386 documentos):"25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 5 (347 documentos):"14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 14 (342 documentos):"22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 13 (302 documentos):"21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 7 (257 documentos):"16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 1 (240 documentos):"100" "11" "12" "13" "14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 20 (217 documentos):"50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 2 (202 documentos):"11" "12" "13" "14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 18 (189 documentos):"30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 10 (143 documentos):"19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 12 (128 documentos):"2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 4 (123 documentos):"13" "14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 15 (118 documentos):"23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 11 (109 documentos):"20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 16 (83 documentos):"24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 6 (70 documentos):"15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 27 (52 documentos):"accept" "accepted" "account" 
+Cluster 28 (51 documentos):"accepted" "account" 
+Cluster 29 (51 documentos):"account" 
+Cluster 25 (37 documentos):"abuse" "abusive" "accept" "accepted" "account" 
+Cluster 0 (33 documentos):"10" "100" "11" "12" "13" "14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 21 (25 documentos):"able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 22 (22 documentos):"about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 3 (20 documentos):"12" "13" "14" "15" "16" "17" "18" "19" "20" "2019" "21" "22" "23" "24" "25" "30" "40" "50" "able" "about" "above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 24 (19 documentos):"absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 23 (14 documentos):"above" "absolutely" "abuse" "abusive" "accept" "accepted" "account" 
+Cluster 26 (11 documentos):"abusive" "accept" "accepted" "account" 
