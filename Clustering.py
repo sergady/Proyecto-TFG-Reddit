@@ -3,7 +3,7 @@ from ReadSample import storeTextsInArray
 import sys
 from datetime import datetime
 
-file_name = 'results/result_'+str(datetime.now())+'.txt'
+file_name = 'results/result_'+str(datetime.now().__str__().replace(" ", "_").replace(":","-")[:-7])+'.txt'
 sys.stdout = open(file_name, 'w')
 
 stop_words_file = "static_data/stopWords.txt"

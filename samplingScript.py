@@ -1,6 +1,6 @@
 import random
 import re
-from ZSTReader import RESULT_FILE
+from ReadSample import RESULT_FILE
 
 DATA_FILE_NAME = RESULT_FILE
 SAMPLE_FILE = "data/sample_file.txt"
