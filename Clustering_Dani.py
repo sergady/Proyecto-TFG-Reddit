@@ -39,38 +39,13 @@ def removeHeaders(listOfFiles):
     return listTexts
 
 # Removes symbols and urls
-def removeSymbolsAndUrls(listTexts):
-    cleanTexts = []
-    for files in listTexts:
-        # We have several regular expressions to clean the texts from unuseful data
-        regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")
-        regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")
-        regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")
-        regexpNumbers = re.compile("\d")
-        regexpKeyWords = re.compile(r"(soc culture)|(basque)|(vasque)|(galiza)|(catalán)|(soc)")
-        # eliminar lista de palabras: basque, galiza, catalan, .com
-
-        completeText = "" # We create a string for each file
-        for text in files:
-            text = re.sub(regexpUrls,"",text) # We clean the complete urls
-            text = re.sub(regexpEmails,"",text) # We clean the emails
-            text = re.sub(regexpWeb,"",text) # We clean url fragments
-            text = re.sub(regexpNumbers,"",text) # quitamos los números
-            text = re.sub(regexpKeyWords,"",text) # quitamos las keywords
-            completeText += text
-        cleanTexts.append(completeText)
-
-    return cleanTexts
-
-
-# Removes symbols and urls
 def removeSymbolsAndUrlsDani(text):
     # We have several regular expressions to clean the texts from unuseful data
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")
     regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")
     regexpNumbers = re.compile("\d")
-    # Esto tiene que usarse para eliminar los nombres de los subreddits...
+    # Esto tiene que usarse para eliminar los nombres de los subreddits... Si es depression, anxiety,... no quitara palabras útiles?
     regexpKeyWords = re.compile(r"(soc culture)|(basque)|(vasque)|(galiza)|(catalán)|(soc)")
 
     text = re.sub(regexpUrls,"",text) # We clean the complete urls
@@ -102,11 +77,8 @@ def preprocessTexts():
     # Reads the files
     listFiles = readDataDani()
 
-    # Removes the headers
-    listTexts = removeHeaders(listFiles)
-
     # Removes the unuseful symbols
-    listTexts = removeSymbolsAndUrls(listTexts)
+    listTexts = removeSymbolsAndUrlsDani(listTexts)
 
     # Last list containing all the important data from the texts
     finalList = []
