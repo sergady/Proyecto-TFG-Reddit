@@ -100,7 +100,7 @@ def printToFile(array):
 
 def preprocessTexts():
     # Reads the files
-    listFiles = readData()
+    listFiles = readDataDani()
 
     # Removes the headers
     listTexts = removeHeaders(listFiles)
