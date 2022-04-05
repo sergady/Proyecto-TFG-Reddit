@@ -22,16 +22,8 @@ Como vemos en el fragmento de código siguiente tenemos tres métodos de preproc
 """
 
 # Reads the files and puts them in a matrix
-def readData():
-    with os.scandir(thisDir) as subdirectorios:
-            for subdirectorio in subdirectorios:
-                if(subdirectorio.name != "readme.txt"):
-                    listOfFiles.append(open(subdirectorio, "r+", encoding="ISO-8859-1"))
-
-    return listOfFiles
-
 def readDataDani():
-    with open("sample_file.txt","r",encoding="utf-8") as fichero:
+    with open("data/sample_file.txt","r",encoding="utf-8") as fichero:
         listOfFiles = fichero.readlines()
 
     return listOfFiles
@@ -147,7 +139,7 @@ def preprocessTextsDani():
     listTexts = list()
     post_ids = list()
 
-    for entrada in listFiles:
+    for entrada in listFiles[1:]:
         # entrada es una cadena y con json.loads la parseamos en un diccionario
         #
         entrada = json.loads(entrada)
@@ -274,8 +266,8 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
 #
 # El atributo labels_ va a tener en este caso 5000 etiquetas, una por cada documento
 #
-for i in range(len(clustering.labels_)):
-    print(preprocessedTextsIds[i],clustering.labels_[i])
+#for i in range(len(clustering.labels_)):
+#    print(preprocessedTextsIds[i],clustering.labels_[i])
 
 exit()
 
