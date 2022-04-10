@@ -28,16 +28,6 @@ def readDataDani():
 
     return listOfFiles
 
-# Removes the headers
-def removeHeaders(listOfFiles):
-    listTexts = []
-    for file in listOfFiles:
-        text = file.read()
-        text = text.split("\n\n")[1:]
-        listTexts.append(text)
-
-    return listTexts
-
 # Removes symbols and urls
 def removeSymbolsAndUrlsDani(text):
     # We have several regular expressions to clean the texts from unuseful data
@@ -56,41 +46,8 @@ def removeSymbolsAndUrlsDani(text):
 
     return text
 
-# Function to print the result on the console and to check it
-def printConsole(array):
-    for i in array:
-      print(i)
-      print("----------------------------------------------------")
-
-# Function to print the result on a txt file
-def printToFile(array):
-    f = open("demofile.txt", "w")
-    for i in array:
-        f.write(i)
-        f.write("------")
-        f.write("\n")
-    f.close()
 
 """Ahora, con todos los métodos necesarios para preprocesar, hacemos un método que reciba los textos y directamente saque los textos listos para usar:"""
-
-def preprocessTexts():
-    # Reads the files
-    listFiles = readDataDani()
-
-    # Removes the unuseful symbols
-    listTexts = removeSymbolsAndUrlsDani(listTexts)
-
-    # Last list containing all the important data from the texts
-    finalList = []
-
-    for index in range(len(listTexts)):
-        if(index != None):
-          finalList.append(listTexts[index])
-
-    # Return the list of clean files
-    return finalList
-
-
 # Método para leer la muestra que no los archivos del directorio y dejarlo todo
 # listo para el clustering
 #
@@ -128,13 +85,10 @@ def preprocessTextsDani():
 
     return {"listTexts":listTexts,"post_ids":post_ids} # Hay que retornar post_ids también...
 
-#preprocessedTexts = preprocessTexts()
-
 preprocessedTexts = preprocessTextsDani()
 
 preprocessedTextsIds = preprocessedTexts["post_ids"]
 preprocessedTexts = preprocessedTexts["listTexts"]
-
 
 # print(printConsole(preprocessedTexts))
 
