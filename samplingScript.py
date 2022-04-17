@@ -1,9 +1,9 @@
 import random
 import re
-import Constants 
+from Constants import POSTS_NDJSON_FILE, SAMPLE_FILE_NAME
 
-DATA_FILE_NAME = Constants.POSTS_NDJSON_FILE
-SAMPLE_FILE = Constants.SAMPLE_FILE_NAME
+DATA_FILE_NAME = POSTS_NDJSON_FILE
+SAMPLE_FILE = SAMPLE_FILE_NAME
 SAMPLE_SIZE = 5000
 
 data_seed = ''
