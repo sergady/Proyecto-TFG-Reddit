@@ -2,10 +2,11 @@ import zstandard
 import json
 import time
 import RedditPost
+import Constants
 
-RAW_FILE_NAME = "data/RS_2019-09.zst"
+RAW_FILE_NAME = Constants.RAW_FILE_NAME
 SUBREDDITS_LIST = "static_data/subredditList.txt"
-RESULT_FILE = "data/RS_2019-09.ndjson"
+RESULT_FILE = Constants.POSTS_NDJSON_FILE
 UTF = 'UTF-8'
 ENTER = '\n'
 CHUNK_SIZE = 200000

@@ -1,9 +1,9 @@
 import random
 import re
-from ZSTReader import RESULT_FILE
+import Constants 
 
-DATA_FILE_NAME = RESULT_FILE
-SAMPLE_FILE = "data/sample_file.txt"
+DATA_FILE_NAME = Constants.POSTS_NDJSON_FILE
+SAMPLE_FILE = Constants.SAMPLE_FILE_NAME
 SAMPLE_SIZE = 5000
 
 data_seed = ''

@@ -1,9 +1,9 @@
 import json
 
-from SamplingScript import SAMPLE_FILE
+from Constants import SAMPLE_FILE_NAME
 
 def readSampleFile():
-    with open(SAMPLE_FILE, "r+") as sample_file:
+    with open(SAMPLE_FILE_NAME, "r+", encoding="utf-8") as sample_file:
         text = (sample_file.read())
     return text.split('\n')
 
