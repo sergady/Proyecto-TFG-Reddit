@@ -12,7 +12,7 @@ def readSampleFile():
 
 
 # Removes symbols and urls
-def removeSymbolsAndUrlsDani(text):
+def removeSymbolsAndUrls(text):
     # We have several regular expressions to clean the texts from unuseful data
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")
@@ -25,6 +25,35 @@ def removeSymbolsAndUrlsDani(text):
     text = re.sub(regexpNumbers, "", text)  # quitamos los números
 
     return text
+
+def preprocessTexts():
+    # Se leen los contenidos del archivo con la muestra
+    listFiles = readSampleFile()
+
+    # No es necesario eliminar las cabeceras puesto que no hay tal cosa en nuestros datos
+    #
+    # Sí es necesario no obstante tener por un lado el identificador del documento
+    # y por otro el texto del mismo (title + selftext)
+    #
+
+    listTexts = list()
+    post_ids = list()
+
+    for entrada in listFiles[1:]:
+        # entrada es una cadena y con json.loads la parseamos en un diccionario
+        #
+        entrada = json.loads(entrada)
+
+        titulo = entrada["title"].strip()
+        contenido = entrada["self_text"].strip()
+        texto = titulo + " " + contenido
+        texto = texto.strip()
+        identificador = entrada["post_id"]
+
+        listTexts.append(removeSymbolsAndUrls(texto))
+        post_ids.append(identificador)
+
+    return {"listTexts":listTexts,"post_ids":post_ids} # Hay que retornar post_ids también...
 
 
 def storeTextsInArray():
