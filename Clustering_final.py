@@ -27,8 +27,11 @@ def removeSymbolsAndUrlsDani(text):
 
     return text
 
-def preprocessTextsDani(listFiles):
+def preprocessTextsDani():
     # Se leen los contenidos del archivo con la muestra
+    with open("data/sample_file.txt","r",encoding="utf-8") as fichero:
+        listFiles = fichero.readlines()
+
     # listFiles
     # No es necesario eliminar las cabeceras puesto que no hay tal cosa en nuestros datos
     #
@@ -50,7 +53,7 @@ def preprocessTextsDani(listFiles):
         texto = texto.strip()
         identificador = entrada["post_id"]
 
-        listTexts.append(preprocessTextsDani(texto))
+        listTexts.append(texto)
         post_ids.append(identificador)
 
     return {"listTexts":listTexts,"post_ids":post_ids} # Hay que retornar post_ids también...
@@ -59,4 +62,4 @@ def preprocessTextsDani(listFiles):
 [preprocessedTexts, sample_seed] = storeTextsInArray()
 print("Texts loaded!")
 print("Semilla de sample_file.txt: " + sample_seed)
-preprocessTextsDani(preprocessedTexts)
+preprocessTextsDani()
