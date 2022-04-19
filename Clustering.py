@@ -1,5 +1,5 @@
 from numpy import empty_like
-from ReadSample import storeTextsInArray
+from ReadAndPrepareSample import storeTextsInArray
 import sys
 from datetime import datetime
 

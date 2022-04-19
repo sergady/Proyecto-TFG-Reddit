@@ -1,5 +1,5 @@
 from numpy import empty_like
-from ReadSample import storeTextsInArray
+from ReadAndPrepareSample import readSampleFile
 import sys
 from datetime import datetime
 import re
@@ -29,10 +29,8 @@ def removeSymbolsAndUrlsDani(text):
 
 def preprocessTextsDani():
     # Se leen los contenidos del archivo con la muestra
-    with open("data/sample_file.txt","r",encoding="utf-8") as fichero:
-        listFiles = fichero.readlines()
+    listFiles = readSampleFile()
 
-    # listFiles
     # No es necesario eliminar las cabeceras puesto que no hay tal cosa en nuestros datos
     #
     # Sí es necesario no obstante tener por un lado el identificador del documento
@@ -53,13 +51,12 @@ def preprocessTextsDani():
         texto = texto.strip()
         identificador = entrada["post_id"]
 
-        listTexts.append(texto)
+        listTexts.append(removeSymbolsAndUrlsDani(texto))
         post_ids.append(identificador)
 
     return {"listTexts":listTexts,"post_ids":post_ids} # Hay que retornar post_ids también...
 
 
-[preprocessedTexts, sample_seed] = storeTextsInArray()
-print("Texts loaded!")
-print("Semilla de sample_file.txt: " + sample_seed)
+preprocessedTexts = readSampleFile()
 preprocessTextsDani()
+print("Texts loaded!")
