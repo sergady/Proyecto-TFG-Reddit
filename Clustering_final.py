@@ -1,5 +1,4 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from numpy import empty_like
 from ReadAndPrepareSample import preprocessTexts
 import sys
 from datetime import datetime
