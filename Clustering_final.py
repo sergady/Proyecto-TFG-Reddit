@@ -114,8 +114,9 @@ for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
 # pertenece cada documento.
 #
 # El atributo labels_ va a tener en este caso 5000 etiquetas, una por cada documento
-#
-#for i in range(len(clustering.labels_)):
-#    print(preprocessedTextsIds[i],clustering.labels_[i])
+# No entiendo el outcome??
+def getIdentifiers(): 
+  for i in range(len(clustering.labels_)):
+      print(preprocessedTextsIds[i],clustering.labels_[i])
 
 exit()
