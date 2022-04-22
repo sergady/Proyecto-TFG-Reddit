@@ -13,6 +13,7 @@ def setFileOutput():
 
 preprocessedTexts = preprocessTexts()  # dict {listTexts:post_ids}
 preprocessedTextsIds = preprocessedTexts["post_ids"]
+preprocessedTextsSubreddits = preprocessedTexts["subreddits"]
 preprocessedTexts = preprocessedTexts["listTexts"]
 print("Texts loaded!")
 
