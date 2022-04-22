@@ -38,6 +38,7 @@ def preprocessTexts():
 
     listTexts = list()
     post_ids = list()
+    subreddit_post = list()
 
     for entrada in listFiles[1:]:
         # entrada es una cadena y con json.loads la parseamos en un diccionario
@@ -48,12 +49,12 @@ def preprocessTexts():
         contenido = entrada["self_text"].strip()
         texto = titulo + " " + contenido
         texto = texto.strip()
-        identificador = entrada["post_id"]
 
         listTexts.append(removeSymbolsAndUrls(texto))
-        post_ids.append(identificador)
+        post_ids.append(entrada["post_id"])
+        subreddit_post.append(entrada["subreddit"])
 
-    return {"listTexts":listTexts,"post_ids":post_ids} # Hay que retornar post_ids también...
+    return {"listTexts":listTexts,"post_ids":post_ids, "subreddits": subreddit_post} # Hay que retornar post_ids también...
 
 
 def storeTextsInArray():
