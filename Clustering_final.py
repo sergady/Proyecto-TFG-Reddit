@@ -103,10 +103,12 @@ indice_cluster_terminos = clustering.cluster_centers_.argsort()[:, ::-1]
 # Nos quedamos con los num_clusters clusters y mostramos los 20
 # términos más representativos de los mismos.
 #
+representative_terms = 20
+
 print("Metodo K-means")
 for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print("Cluster %d (%d documentos):" % (cluster_id, num_docs), end='')
-  for term_id in indice_cluster_terminos[cluster_id, :20]:
+  for term_id in indice_cluster_terminos[cluster_id, : representative_terms]:
     print('"%s"' % terminos[term_id], end=' ')
   print()
 
