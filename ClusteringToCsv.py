@@ -28,7 +28,7 @@ Antes de proceder al clustering, hay que vectorizar los datos para obterner matr
 
 # Se va a usar un vectorizador que ponderará los términos mediante tf·idf,
 # pasará los textos a minúsculas y usará unigramas y bigramas
-# truncando, además, el vocabulario en los 1500
+# truncando, además, el vocabulario en los 15000
 # términos más frecuentes.
 #
 vectorizador = TfidfVectorizer(encoding="utf-8", lowercase=True, ngram_range=(1, 2),
@@ -87,7 +87,7 @@ docs_per_cluster = Counter(clustering.labels_)
 # que con el vectorizador obtenemos una "traducción" totalmente numérica de los
 # documentos).
 #
-terminos = vectorizador.get_feature_names()
+terminos = vectorizador.get_feature_names_out()
 
 # El atributo cluster_centers_ es un array n-dimensional (realmente bidimensional)
 # que contiene el centroide de cada cluster en una matriz de clusters x términos
@@ -109,18 +109,18 @@ print("Metodo K-means")
 for (cluster_id, num_docs) in docs_per_cluster.most_common(num_clusters):
   print("Cluster %d (%d documentos):" % (cluster_id, num_docs), end='')
   for term_id in indice_cluster_terminos[cluster_id, : representative_terms]:
-    print('"%s"' % terminos[term_id], end=' ')
+    print('"%s' % terminos[term_id], end=' ')
+    print('- %s"' % preprocessedTextsSubreddits[term_id], end=' ')
   print()
 
 # Ejemplo de cómo obtener los identificadores *reales* del cluster al que
 # pertenece cada documento.
 #
-# El atributo labels_ va a tener en este caso 5000 etiquetas, una por cada documento
+# El atributo labels_ va a tener en este caso 20000 etiquetas, una por cada documento
 # 
 def getIdentifiers(): 
   for i in range(len(clustering.labels_)):
       print(preprocessedTextsSubreddits[i],clustering.labels_[i])
 
-getIdentifiers()
 
 exit()
