@@ -1,0 +1,1283 @@
+Texts loaded!
+Initialization complete
+Iteration 0, inertia 32835.97605419528
+Iteration 1, inertia 18179.74511378037
+Iteration 2, inertia 18019.38969308081
+Iteration 3, inertia 17949.422285072622
+Iteration 4, inertia 17907.35780591474
+Iteration 5, inertia 17881.775911248806
+Iteration 6, inertia 17866.65142404627
+Iteration 7, inertia 17858.230612993728
+Iteration 8, inertia 17852.315881766703
+Iteration 9, inertia 17847.092661056773
+Iteration 10, inertia 17843.349991151663
+Iteration 11, inertia 17841.366567839694
+Iteration 12, inertia 17839.466104564162
+Iteration 13, inertia 17837.94374730202
+Iteration 14, inertia 17836.97379621084
+Iteration 15, inertia 17836.23023871167
+Iteration 16, inertia 17835.48946737102
+Iteration 17, inertia 17834.65515303255
+Iteration 18, inertia 17833.991118223414
+Iteration 19, inertia 17833.327707436845
+Iteration 20, inertia 17832.62385880279
+Iteration 21, inertia 17832.199940743445
+Iteration 22, inertia 17832.029460885267
+Iteration 23, inertia 17831.908318532445
+Iteration 24, inertia 17831.898096158133
+Iteration 25, inertia 17831.887207306794
+Iteration 26, inertia 17831.877282497437
+Converged at iteration 26: strict convergence.
+Silhouette score:  0.011138806646771901
+Metodo K-means
+Cluster 236 (985 documentos):"just" "like" "does" "time" "good" "know" "think" "don" "ve" "better" "really" "use" "look" "want" "best" "right" "thanks" "day" "did" "questions" 
+Cluster 127 (573 documentos):"ve" "just" "things" "like" "time" "really" "don" "know" "going" "years" "think" "want" "ll" "doesn" "way" "say" "feel" "past" "make" "thing" 
+Cluster 99 (405 documentos):"feel" "like" "feel like" "just" "feeling" "ve" "don" "feels" "really" "feels like" "day" "life" "time" "know" "going" "think" "happy" "want" "better" "way" 
+Cluster 39 (306 documentos):"said" "told" "asked" "didn" "just" "like" "wanted" "went" "know" "time" "really" "did" "got" "don" "day" "night" "saying" "want" "going" "started" 
+Cluster 73 (304 documentos):"home" "got" "went" "just" "night" "didn" "time" "day" "like" "did" "house" "felt" "left" "remember" "today" "told" "took" "really" "going" "don" 
+Cluster 100 (291 documentos):"just" "like" "really" "didn" "time" "know" "felt" "don" "told" "things" "feel" "said" "did" "relationship" "ve" "friend" "started" "got" "talk" "wanted" 
+Cluster 31 (279 documentos):"know" "don know" "don" "just" "really" "like" "ve" "feel" "want" "think" "anymore" "help" "ll" "going" "time" "tell" "people" "life" "things" "talk" 
+Cluster 53 (279 documentos):"like" "don" "just" "feel" "want" "things" "know" "relationship" "doesn" "ve" "feel like" "time" "really" "boyfriend" "don know" "think" "going" "work" "told" "life" 
+Cluster 32 (266 documentos):"life" "just" "hate" "like" "want" "better" "people" "feel" "wish" "don" "going" "know" "time" "live" "end" "world" "think" "really" "living" "hope" 
+Cluster 170 (251 documentos):"guy" "told" "friend" "friends" "just" "relationship" "like" "time" "talking" "dating" "really" "know" "didn" "said" "met" "girl" "ve" "ago" "months" "started" 
+Cluster 3 (236 documentos):"friends" "don" "just" "people" "like" "really" "feel" "friend" "know" "want" "talk" "close" "ve" "time" "think" "feel like" "make" "school" "don know" "best" 
+Cluster 163 (221 documentos):"anxiety" "just" "anxious" "feel" "like" "ve" "know" "really" "symptoms" "going" "time" "bad" "help" "don" "having" "day" "does" "work" "feeling" "life" 
+Cluster 204 (213 documentos):"want" "don" "don want" "just" "anymore" "feel" "know" "life" "just want" "like" "live" "care" "don know" "ve" "people" "just don" "really" "time" "think" "day" 
+Cluster 200 (212 documentos):"sex" "just" "want" "don" "like" "ve" "having sex" "relationship" "feel" "time" "sexual" "know" "sex life" "really" "having" "want sex" "life" "times" "love" "years" 
+Cluster 26 (210 documentos):"xb" "amp xb" "amp" "like" "just" "time" "feel" "really" "don" "know" "things" "ve" "people" "life" "want" "year" "think" "years" "work" "did" 
+Cluster 19 (192 documentos):"drinking" "drink" "alcohol" "day" "ve" "just" "sober" "time" "life" "days" "stop drinking" "quit" "like" "stop" "night" "years" "drunk" "drank" "sobriety" "quit drinking" 
+Cluster 122 (190 documentos):"sober" "days" "days sober" "sobriety" "day" "drinking" "drink" "time" "today" "ve" "just" "going" "life" "aa" "iwndwyt" "like" "alcohol" "months" "feel" "know" 
+Cluster 238 (189 documentos):"girl" "like" "really" "don" "just" "know" "said" "friends" "time" "ve" "girl like" "like girl" "want" "friend" "met" "told" "girls" "talking" "cute" "ask" 
+Cluster 86 (189 documentos):"relationship" "like" "love" "ve" "know" "want" "time" "really" "don" "feel" "just" "months" "dating" "things" "relationships" "think" "lot" "long" "year" "advice" 
+Cluster 94 (187 documentos):"ex" "broke" "relationship" "just" "friends" "want" "told" "ago" "like" "don" "girlfriend" "know" "said" "months" "things" "years" "time" "boyfriend" "talk" "dating" 
+Cluster 165 (184 documentos):"people" "just" "like" "don" "feel" "think" "person" "know" "say" "really" "life" "want" "people don" "ve" "understand" "people just" "look" "make" "way" "talking" 
+Cluster 107 (172 documentos):"trans" "like" "people" "trans people" "just" "woman" "know" "ve" "don" "really" "cis" "gender" "women" "trans person" "feel" "trans woman" "want" "person" "male" "girl" 
+Cluster 130 (165 documentos):"depression" "just" "anxiety" "ve" "like" "feel" "depressed" "anxiety depression" "people" "life" "meds" "help" "don" "really" "want" "years" "think" "dealing" "therapy" "symptoms" 
+Cluster 231 (162 documentos):"help" "really" "need" "just" "need help" "want" "like" "feel" "don" "ve" "know" "time" "friends" "tried" "think" "talk" "depression" "bad" "feeling" "better" 
+Cluster 41 (157 documentos):"im" "dont" "like" "feel" "just" "ive" "im scared" "like im" "know" "want" "dont know" "im just" "scared" "going" "feel like" "thats" "day" "time" "wanna" "friends" 
+Cluster 192 (156 documentos):"love" "like" "want" "just" "life" "know" "don" "feel" "think" "relationship" "love love" "say" "person" "time" "ve" "really" "loves" "fall love" "people" "girl" 
+Cluster 228 (156 documentos):"im" "just" "dont" "like" "ive" "really" "feel" "know" "im just" "didnt" "want" "friends" "time" "friend" "think" "idk" "people" "said" "life" "talk" 
+Cluster 156 (149 documentos):"mom" "dad" "family" "sister" "just" "like" "time" "house" "parents" "don" "know" "told" "didn" "got" "home" "want" "said" "mother" "years" "life" 
+Cluster 169 (148 documentos):"mother" "father" "sister" "family" "told" "time" "just" "like" "life" "know" "don" "child" "want" "said" "mom" "parents" "dad" "didn" "years" "feel" 
+Cluster 183 (148 documentos):"feel" "feel like" "like" "don" "just" "people" "know" "don feel" "life" "want" "anymore" "don know" "talk" "really" "friends" "time" "ve" "shit" "think" "school" 
+Cluster 69 (148 documentos):"friend" "best friend" "best" "friends" "need friend" "like" "just" "need" "don" "know" "friendship" "want" "ve" "friend friend" "really" "got" "didn" "told" "feel" "time" 
+Cluster 140 (148 documentos):"girlfriend" "don" "relationship" "like" "want" "just" "know" "really" "ve" "time" "friends" "girl" "feel" "years" "told" "said" "doesn" "friend" "think" "months" 
+Cluster 55 (147 documentos):"school" "high school" "friends" "high" "don" "just" "year" "people" "like" "going" "ve" "grade" "college" "know" "time" "really" "want" "life" "talk" "feel" 
+Cluster 104 (146 documentos):"sleep" "night" "wake" "asleep" "bed" "tired" "just" "awake" "like" "hours" "fall asleep" "day" "ve" "fall" "sleeping" "don" "anxiety" "work" "time" "feel" 
+Cluster 96 (144 documentos):"weight" "lbs" "lose weight" "lose" "weight loss" "loss" "pounds" "losing" "lost" "losing weight" "calories" "ve" "eating" "fat" "day" "eat" "goal" "just" "diet" "like" 
+Cluster 206 (143 documentos):"wife" "years" "just" "married" "marriage" "don" "time" "want" "ve" "told" "daughter" "know" "year" "like" "got" "family" "work" "love" "home" "life" 
+Cluster 103 (135 documentos):"fucking" "shit" "just" "like" "fuck" "people" "feel" "hate" "don" "know" "life" "im" "fucking hate" "want" "day" "kill" "ve" "feel like" "time" "tired" 
+Cluster 76 (132 documentos):"husband" "baby" "just" "family" "like" "time" "son" "pregnant" "don" "want" "home" "know" "married" "told" "feel" "ve" "mil" "got" "years" "going" 
+Cluster 106 (130 documentos):"dont" "dont want" "want" "im" "just" "like" "dont know" "know" "feel" "really" "friends" "life" "just want" "things" "ive" "people" "love" "think" "talk" "care" 
+Cluster 155 (128 documentos):"gay" "straight" "people" "just" "guys" "like" "gay guys" "men" "gay people" "know" "don" "guy" "help" "think" "friend" "club" "gays" "friends" "really" "gay guy" 
+Cluster 160 (127 documentos):"drink" "drinking" "day" "today" "drink today" "drunk" "days" "night" "sober" "just" "alcohol" "time" "sobriety" "want" "don" "want drink" "need" "like" "know" "alcoholic" 
+Cluster 38 (125 documentos):"parents" "just" "don" "want" "tell" "like" "feel" "know" "mom" "ve" "ll" "time" "think" "going" "say" "really" "family" "need" "hate" "years" 
+Cluster 15 (121 documentos):"die" "want die" "want" "just" "don" "just want" "life" "don want" "kill" "like" "feel" "ve" "die just" "really" "death" "know" "suicide" "tired" "way" "people" 
+Cluster 62 (120 documentos):"parents" "don" "know" "family" "just" "like" "tell" "ve" "live" "sister" "really" "feel" "want" "think" "siblings" "time" "home" "came parents" "relationship" "said" 
+Cluster 102 (118 documentos):"kratom" "day" "taking" "grams" "just" "effects" "suboxone" "withdrawal" "withdrawals" "using" "using kratom" "quit" "ve" "taking kratom" "tea" "days" "use" "dose" "pain" "like" 
+Cluster 35 (116 documentos):"mom" "said" "told" "like" "just" "don" "know" "really" "didn" "sister" "think" "time" "ve" "came" "started" "say" "got" "want" "mom said" "going" 
+Cluster 171 (115 documentos):"year" "year old" "old" "like" "just" "friends" "years" "life" "ve" "time" "school" "know" "want" "think" "really" "ago" "guy" "people" "happy" "don" 
+Cluster 208 (109 documentos):"mg" "dose" "effects" "taking" "dosage" "like" "high" "ve" "vyvanse" "just" "prescribed" "taking mg" "lexapro" "like mg" "day" "feel" "dose mg" "effect" "started" "edible" 
+Cluster 126 (108 documentos):"work" "boss" "job" "day" "time" "just" "working" "like" "ve" "week" "home" "manager" "don" "know" "things" "people" "coworkers" "going" "anxiety" "really" 
+Cluster 68 (108 documentos):"fuck" "fuck fuck" "shit" "just" "like" "got" "life" "ll" "know" "don" "people" "hate" "fucking" "drunk" "fucked" "ve" "fuck just" "ass" "time" "fuck wrong" 
+Cluster 118 (107 documentos):"panic" "panic attack" "attack" "attacks" "panic attacks" "anxiety" "having panic" "just" "like" "having" "ve" "anxiety panic" "feel" "anxious" "know" "going" "heart" "help" "scared" "time" 
+Cluster 46 (107 documentos):"trip" "tripping" "bad trip" "bad" "like" "time" "just" "trips" "acid" "experience" "lsd" "felt" "ve" "going" "trip report" "really" "report" "want" "know" "friend" 
+Cluster 138 (105 documentos):"crush" "like" "friend" "crushes" "know" "just" "guy" "girl" "don" "really" "friends" "ve" "told" "tell" "school" "crush girl" "liked" "crush guy" "cute" "want" 
+Cluster 242 (105 documentos):"health" "mental health" "mental" "issues" "just" "anxiety" "health issues" "help" "feel" "ve" "like" "life" "depression" "know" "don" "going" "really" "problems" "years" "time" 
+Cluster 97 (104 documentos):"today" "day" "today day" "just" "day today" "today just" "good day" "did today" "feeling" "did" "good" "yesterday" "drink" "ve" "really" "feel" "days" "got" "time" "right" 
+Cluster 2 (103 documentos):"ve" "suicide" "lost" "tried" "just" "ve lost" "life" "ve tried" "feel" "don" "like" "years" "day" "anymore" "kill" "things" "know" "really" "friends" "time" 
+Cluster 95 (100 documentos):"smoking" "smoke" "weed" "day" "high" "started smoking" "just" "ve" "smoked" "quit" "like" "years" "started" "time" "ve smoking" "pot" "brain" "quitting" "feel" "days" 
+Cluster 27 (99 documentos):"distance" "long distance" "long" "relationship" "distance relationship" "boyfriend" "just" "ve" "time" "want" "like" "really" "break" "year" "feel" "years" "don" "talk" "months" "love" 
+Cluster 177 (97 documentos):"feelings" "friend" "know" "friends" "just" "relationship" "don" "ve" "want" "like" "best" "girl" "really" "best friend" "told" "time" "friendship" "don know" "love" "feel" 
+Cluster 173 (97 documentos):"money" "pay" "job" "rent" "work" "time" "just" "ve" "home" "don" "paying" "want" "like" "things" "debt" "help" "years" "paid" "months" "working" 
+Cluster 44 (95 documentos):"kids" "time" "just" "family" "like" "want" "don" "having" "home" "work" "having kids" "children" "parents" "know" "ve" "life" "years" "love" "things" "want kids" 
+Cluster 158 (94 documentos):"iwndwyt" "day" "thank" "days" "ve" "drinking" "life" "alcohol" "time" "day day" "today" "sober" "let" "weekend" "wine" "proud" "drink" "going" "month" "hope" 
+Cluster 64 (94 documentos):"mg" "took mg" "took" "mg mg" "dose" "stack" "safe" "theanine" "day" "mg day" "taking" "prescribed" "just" "hours" "just took" "noopept" "daily" "caffeine" "morning" "like" 
+Cluster 75 (93 documentos):"job" "work" "new job" "just" "new" "got job" "ve" "working" "like" "got" "good" "interview" "feel" "time" "don" "want" "years" "months" "day" "anxiety" 
+Cluster 108 (92 documentos):"weed" "smoked" "high" "smoking" "smoke" "smoked weed" "just" "good" "ve" "feel" "like" "ve smoked" "time" "thc" "day" "know" "smoking weed" "felt" "don" "does" 
+Cluster 10 (91 documentos):"group" "friend group" "friends" "friend" "group friends" "people" "like" "just" "really" "know" "join" "feel" "don" "make" "want" "ve" "group chat" "chat" "time" "didn" 
+Cluster 194 (89 documentos):"calories" "calorie" "day" "weight" "eating" "eat" "fat" "lbs" "week" "food" "ve" "diet" "count" "lose" "exercise" "counting" "foods" "calories day" "days" "just" 
+Cluster 34 (89 documentos):"dad" "family" "mom" "don" "just" "know" "mum" "phone" "want" "years" "time" "going" "like" "think" "house" "parents" "ve" "life" "year" "really" 
+Cluster 157 (89 documentos):"drugs" "drug" "weed" "just" "like" "alcohol" "people" "know" "don" "use" "feel" "want" "time" "think" "hard drugs" "hard" "ve" "got" "life" "test" 
+Cluster 85 (87 documentos):"mdma" "pills" "lsd" "cb" "drugs" "safe" "taking" "just" "mg" "pill" "like" "experience" "time" "dose" "effects" "know" "acid" "effect" "night" "ve" 
+Cluster 91 (87 documentos):"date" "like" "really" "guy" "dating" "just" "ve" "going" "went" "girl" "time" "going date" "don" "said" "asked" "want" "went date" "know" "didn" "met" 
+Cluster 36 (85 documentos):"shrooms" "trip" "acid" "dmt" "taking" "tripping" "shrooms time" "time" "grams" "just" "lsd" "psychedelics" "experience" "dose" "like" "know" "gs" "th" "ve" "took" 
+Cluster 227 (85 documentos):"gender" "gender identity" "identity" "transgender" "genders" "binary" "gender therapist" "identify" "trans" "just" "know" "like" "people" "don" "non binary" "female" "non" "therapist" "male" "question" 
+Cluster 203 (84 documentos):"suicidal" "suicidal thoughts" "thoughts" "just" "like" "ve" "don" "feel" "life" "depression" "think" "know" "better" "anymore" "getting" "feel like" "people" "felt" "want" "having suicidal" 
+Cluster 150 (84 documentos):"surgery" "surgeon" "chest" "results" "ve" "did" "dr" "insurance" "getting" "consultation" "surgeons" "able" "scars" "referral" "post" "appointment" "got" "doctor" "recovery" "pain" 
+Cluster 59 (83 documentos):"lsd" "trip" "experience" "time" "ug" "ve" "like" "visuals" "guys" "taking" "friend" "lsd time" "just" "times" "dose" "took" "dosage" "tabs" "use" "really" 
+Cluster 20 (83 documentos):"girls" "like" "girl" "guys" "don" "girls like" "friends" "know" "just" "ve" "attractive" "guy" "think" "really" "talk" "want" "like girls" "straight" "feel" "boyfriend" 
+Cluster 185 (83 documentos):"family" "family members" "members" "want" "know" "don" "like" "just" "tell" "extended family" "mom" "extended" "think" "years" "dad" "friends" "feel" "life" "sister" "nc" 
+Cluster 190 (83 documentos):"pain" "just" "jaw" "ve" "left" "like" "help" "feel" "right" "don" "lower" "abdominal" "know" "chronic" "pain ve" "symptoms" "life" "sick" "doctor" "ribs" 
+Cluster 179 (82 documentos):"wanna" "just wanna" "just" "wanna talk" "wanna die" "talk" "die" "anybody" "don" "wanna know" "wanna say" "know" "like" "don wanna" "people" "yo" "feel" "idk" "want" "friends" 
+Cluster 120 (82 documentos):"smoke" "weed" "smoke weed" "smoking" "day" "just" "want smoke" "high" "want" "don" "like" "know" "usually" "time" "bowl" "help" "really" "joints" "feel" "don smoke" 
+Cluster 152 (81 documentos):"bi" "just" "girls" "know" "like" "sexuality" "pan" "ve" "bisexual" "really" "straight" "people" "attracted" "don" "gay" "guys" "girl" "think" "came" "attraction" 
+Cluster 222 (81 documentos):"hrt" "mtf" "started hrt" "start hrt" "changes" "start" "ve" "starting hrt" "male" "trans" "starting" "just" "levels" "like" "started" "don" "estrogen" "does" "transitioning" "estradiol" 
+Cluster 248 (81 documentos):"dh" "mil" "sil" "fil" "jnmil" "just" "family" "wedding" "told" "husband" "don" "said" "time" "like" "didn" "know" "home" "got" "dd" "lo" 
+Cluster 181 (81 documentos):"amp" "amp nbsp" "nbsp" "people" "just" "like" "day" "don" "ve" "know" "feel" "work" "time" "ll" "want" "friends" "new" "today" "amp amp" "art" 
+Cluster 224 (80 documentos):"birthday" "gift" "happy" "happy birthday" "don" "just" "today" "day" "year" "really" "like" "want" "bday" "know" "time" "gifts" "card" "got" "boyfriend" "friends" 
+Cluster 63 (80 documentos):"chat" "looking" "skiing" "wanna" "looking chat" "want chat" "wanna chat" "people chat" "just" "talk" "like chat" "hit" "message" "snap" "want" "pm" "lets" "chatty" "discord" "people" 
+Cluster 164 (80 documentos):"advice" "need advice" "need" "tape" "know" "just" "don" "really" "want" "like" "just need" "appreciated" "thanks" "don know" "tips" "help" "greatly" "does" "advice know" "greatly appreciated" 
+Cluster 23 (78 documentos):"days" "day" "just" "days day" "ve" "ago" "days ago" "feeling" "like" "week" "going" "good" "shot" "normal" "really" "couple days" "feel" "tomorrow" "gone" "couple" 
+Cluster 131 (75 documentos):"men" "women" "attracted" "like" "woman" "ve" "guy" "don" "straight" "attractive" "want" "just" "gay men" "gay" "sex" "bisexual" "guys" "cis" "think" "men women" 
+Cluster 234 (75 documentos):"water" "ph" "drink" "bong" "just" "hot" "soil" "use" "shower" "filter" "drink water" "dissolve" "day" "pipe" "ve" "dry" "using" "add" "argo" "microdosing" 
+Cluster 58 (73 documentos):"eating" "eat" "weight" "just" "food" "like" "day" "feel" "stop" "really" "body" "meals" "binging" "time" "ve" "lot" "hate" "lose" "stop eating" "don" 
+Cluster 82 (73 documentos):"brother" "family" "mom" "told" "just" "dad" "like" "don" "time" "wife" "know" "little brother" "really" "sister" "house" "help" "son" "didn" "older" "want" 
+Cluster 84 (72 documentos):"music" "listen" "like" "listening" "favorite" "listen music" "love" "just" "looking" "talk" "stuff" "rock" "metal" "classical" "new" "feel" "music like" "message" "genres" "things" 
+Cluster 232 (72 documentos):"cut" "cutting" "just" "cuts" "just cut" "deep" "don" "scars" "arm" "deeper" "want" "wrist" "know" "like" "feel" "bad" "want cut" "ve" "time" "help" 
+Cluster 116 (68 documentos):"dysphoria" "gender" "trans" "gender dysphoria" "like" "ve" "body" "transition" "really" "feel" "just" "people" "lot" "don" "female" "cis" "male" "think" "look" "feminine" 
+Cluster 89 (66 documentos):"ug" "trip" "tabs" "lsd" "dose" "acid" "ug trip" "tab" "time" "tripping" "trips" "experience" "tripped" "ve" "took" "ug tab" "visuals" "ug lsd" "tolerance" "dropped" 
+Cluster 193 (66 documentos):"body" "like" "just" "feel" "look" "does" "want" "hate" "muscle" "know" "tired" "weight" "hate body" "really" "time" "thighs" "need" "way" "help" "muscles" 
+Cluster 98 (65 documentos):"play" "games" "pc" "play games" "looking" "people play" "friends" "people" "games play" "like" "xbox" "just" "love" "looking people" "overwatch" "game" "minecraft" "discord" "fun" "really" 
+Cluster 245 (65 documentos):"hair" "body hair" "cut" "body" "like" "grow" "shaving" "shave" "shaved" "long" "just" "loss" "really" "cut hair" "does" "haircut" "ve" "don" "facial" "long hair" 
+Cluster 233 (63 documentos):"hard" "hard time" "time" "having" "having hard" "really hard" "really" "having really" "just" "ve" "life" "know" "like" "getting" "need" "frustrating" "work" "hard just" "feel" "trying" 
+Cluster 109 (63 documentos):"food" "eat" "ate" "fast food" "just" "eating" "ve" "day" "diet" "like" "fast" "feel" "calories" "meals" "don" "thing" "good" "getting" "work" "favorite" 
+Cluster 240 (62 documentos):"love" "looking" "talk" "usa" "star" "letters" "like" "friends" "star wars" "wars" "interested" "really" "music" "fan" "email" "people" "open" "movies" "penpal" "send" 
+Cluster 217 (61 documentos):"talk" "want talk" "want" "need talk" "just" "talk talk" "need" "people talk" "bored" "talk really" "people" "just want" "wont" "don" "really" "looking" "just need" "lonely" "hi" "talk feel" 
+Cluster 161 (61 documentos):"god" "oh god" "oh" "pray" "prayer" "just" "day" "like" "universe" "earth" "bet" "life" "don" "shit" "thank god" "live" "faith" "time" "help" "know" 
+Cluster 201 (61 documentos):"games" "playing" "looking" "video games" "video" "friends" "like" "enjoy" "interests" "play" "game" "chat" "people" "playing games" "just" "age" "games like" "anime" "talk" "discord" 
+Cluster 90 (61 documentos):"dont" "dont know" "know" "just" "just dont" "im" "like" "feel" "anymore" "talk" "need" "friends" "life" "help" "fucking" "feels" "really" "thats" "therapy" "feel like" 
+Cluster 129 (61 documentos):"term" "long term" "long" "term relationship" "relationship" "just" "like" "looking long" "ve" "want" "effects" "advice" "life" "looking" "time" "help" "talk" "good" "feel" "tolerance" 
+Cluster 132 (61 documentos):"car" "just" "drive" "got" "time" "like" "want" "don" "job" "driving" "getting" "park" "ve" "friends" "said" "pay" "feel" "ride" "work" "girlfriend" 
+Cluster 24 (60 documentos):"coke" "cocaine" "line" "gram" "crack" "ve" "like" "just" "doing" "nose" "shit" "high" "tonight" "weed" "snorting" "od" "got" "addictive" "blow" "time" 
+Cluster 110 (59 documentos):"lesbian" "lesbians" "women" "really" "just" "know" "think" "attracted" "girl" "want" "ve" "don" "men" "woman" "date" "friends" "love" "trans" "like" "guys" 
+Cluster 175 (59 documentos):"binge" "eat" "binging" "food" "eating" "like" "hate" "ve" "restrict" "binges" "binged" "feel" "just" "weight" "days" "time" "foods" "want" "today" "ate" 
+Cluster 87 (58 documentos):"adderall" "mg" "mg adderall" "xr" "adhd" "effects" "feel" "day" "addy" "like" "ve" "just" "took" "vyvanse" "prescribed" "felt" "taking" "ir" "tolerance" "dose" 
+Cluster 22 (58 documentos):"guys" "acne" "just" "hey" "guy" "hey guys" "gay" "grindr" "think" "feel" "bottoming" "guys think" "straight" "like" "looking" "hookup" "talk guys" "don" "nudes" "average" 
+Cluster 114 (58 documentos):"grow" "plant" "harvest" "light" "soil" "leaves" "kit" "growing" "veg" "setup" "water" "just" "ph" "plants" "ve" "room" "nutrients" "start" "bud" "cannabis" 
+Cluster 81 (56 documentos):"social anxiety" "anxiety" "social" "people" "work" "ve" "job" "just" "feel" "really" "going" "like" "don" "want" "think" "depression" "know" "therapy" "sa" "friends" 
+Cluster 199 (55 documentos):"class" "teacher" "like" "just" "don" "school" "know" "classes" "year" "really" "going" "talk" "girl" "college" "said" "think" "saw" "anxiety" "asked" "don know" 
+Cluster 47 (55 documentos):"amp" "width amp" "amp format" "amp auto" "auto webp" "webp amp" "webp" "width" "auto" "format" "png" "format pjpg" "pjpg amp" "jpg width" "pjpg" "jpg" "xb" "amp xb" "format png" "png amp" 
+Cluster 188 (55 documentos):"feminine" "makeup" "dress" "wear" "look" "like" "just" "want" "don" "masculine" "feel" "really" "hair" "things" "gender" "clothing" "man" "ve" "wearing" "know" 
+Cluster 29 (55 documentos):"mf" "snap" "bored" "dm" "chat" "pm" "looking" "username" "new" "add" "snapchat" "uk" "message" "friends" "talk" "user" "streaks" "bio" "looking new" "chill" 
+Cluster 146 (55 documentos):"dose" "cold turkey" "turkey" "cold" "taper" "day" "doses" "withdrawals" "quit" "taking" "week" "like" "withdrawal" "ve" "time" "daily" "symptoms" "dosing" "thanks" "days" 
+Cluster 37 (54 documentos):"stop" "stop thinking" "thinking" "just" "just stop" "want" "need" "know" "ve" "want stop" "ex" "need stop" "day" "night" "said" "stop existing" "strong" "love" "getting" "biting" 
+Cluster 77 (54 documentos):"weed" "smoking" "smoking weed" "quit" "quitting" "time" "years" "just" "like" "really" "don" "feel" "stop" "need" "smoke" "ve" "stop smoking" "want" "day" "trying quit" 
+Cluster 144 (54 documentos):"acid" "trip" "like" "time" "acid time" "lsd" "just" "weed" "acid trip" "tab" "tripping" "took" "ug" "does" "ve" "dealer" "felt" "euphoria" "feel" "experience" 
+Cluster 212 (54 documentos):"looking friends" "looking" "friends" "talk" "discord" "just" "just looking" "friends looking" "music" "message" "games" "love" "play" "people" "hey" "like" "friends hey" "video" "mainly" "hmu" 
+Cluster 16 (54 documentos):"self harm" "harm" "self" "scars" "just" "feel" "like" "know" "don" "want" "people" "cutting" "ve" "cut" "really" "think" "things" "tell" "time" "cause" 
+Cluster 67 (53 documentos):"vape" "vaping" "weed" "use" "smoke" "dynavap" "new" "just" "vaporizer" "vapes" "pen" "solo" "dab" "herb" "fury" "deaths" "bowl" "smoking" "got" "extreme" 
+Cluster 215 (53 documentos):"worse" "feel" "feel worse" "makes feel" "makes" "just" "don" "depression" "like" "want" "feel like" "know" "think" "ve" "make" "suicide" "really" "self" "people" "way" 
+Cluster 151 (53 documentos):"curious" "just curious" "just" "did" "people" "does" "ve" "experience" "time" "think" "heard" "like" "ego" "hear" "know" "picking" "feature" "curious people" "thc" "getting" 
+Cluster 9 (52 documentos):"eat" "eating" "food" "like" "hungry" "just" "ve" "don" "foods" "day" "hunger" "high" "want eat" "meal" "normally" "want" "time" "dinner" "weed" "feel" 
+Cluster 115 (52 documentos):"carts" "cart" "flower" "fake" "wax" "thc" "oil" "black market" "dispensary" "lungs" "market" "high" "smoking" "weed" "edibles" "pen" "black" "just" "dab" "illegal state" 
+Cluster 112 (51 documentos):"bisexual" "bi" "women" "sexuality" "attracted" "men" "ve" "just" "like" "culture" "people" "girls" "guy" "bisexuality" "straight" "label" "think" "woman" "attracted men" "know" 
+Cluster 45 (51 documentos):"grams" "vs" "trip" "wondering" "just wondering" "tripped" "shrooms" "gram" "just" "lemon" "taking" "lemon tek" "hours" "tek" "dose" "expect" "experience" "little" "microdosing" "question" 
+Cluster 134 (51 documentos):"don" "life" "know" "things" "really" "think" "like" "don know" "just" "feel" "want" "nervous" "child" "ve" "time" "doing" "going" "friends" "help" "growing" 
+Cluster 117 (51 documentos):"friends" "make friends" "make" "making friends" "people" "making" "like" "hard" "just" "friends hi" "looking" "looking make" "hi" "college" "friend" "don" "talk" "new" "trying make" "want" 
+Cluster 101 (50 documentos):"new friends" "new" "friends" "make new" "looking" "looking new" "meet" "meet new" "talk" "people" "make" "new people" "hey" "im" "chat" "making new" "friends hey" "music" "looking make" "need new" 
+Cluster 25 (50 documentos):"dad" "mom" "told" "said" "just" "aunt" "mad" "got" "like" "brother" "know" "family" "really" "feel" "parents" "don" "didn" "went" "time" "wanted" 
+Cluster 153 (50 documentos):"lonely" "feel lonely" "feel" "loneliness" "just" "people" "like" "wish" "friends" "lonely feel" "depressed" "life" "sad" "time" "really" "forever" "feel like" "don" "know" "need" 
+Cluster 14 (50 documentos):"told" "best" "messaging" "friend" "person" "best friend" "just" "really" "feel" "asked" "cancer" "messages" "like" "said" "replied" "saying" "going" "want" "meet" "bad" 
+Cluster 214 (49 documentos):"looking" "looking friend" "friend" "looking forward" "talk" "forward" "just looking" "just" "hi" "friend talk" "looking talk" "friends" "music" "like" "games" "make" "people" "pm" "yeah" "text" 
+Cluster 167 (48 documentos):"dream" "edibles" "bong" "just" "dreams" "like" "woke" "felt" "sleep" "ve" "wanted" "night" "does" "glass" "did" "partner" "quitting" "long" "weed" "smoke" 
+Cluster 30 (47 documentos):"thread" "daily" "september" "weekly" "discussion" "thread september" "post" "chat" "wee" "results" "new" "free" "discussing" "pledge" "doing today" "rules" "daily check" "refrain" "sub" "feel free" 
+Cluster 40 (47 documentos):"porn" "sex" "gay" "gay porn" "like" "watch" "watch porn" "don" "addiction" "just" "watching porn" "watching" "know" "time" "says" "phone" "want" "porn addiction" "think" "sexual" 
+Cluster 12 (47 documentos):"weight" "gain" "fat" "weight gain" "gaining" "gaining weight" "gain weight" "bmi" "look" "ve" "like" "don" "want" "underweight" "healthy" "just" "feel" "pounds" "lbs" "loss" 
+Cluster 209 (47 documentos):"just got" "got" "just" "tolerance" "break" "tolerance break" "high" "ve" "pretty" "girl" "shot" "tool" "want" "good" "dabs" "finally" "getting" "super" "girl just" "gas" 
+Cluster 121 (47 documentos):"apps" "dating" "dating apps" "app" "dating app" "just" "use" "grindr" "meet" "like" "people" "gay" "know" "ve" "profile" "tinder" "feel" "women" "dates" "got" 
+Cluster 180 (46 documentos):"dog" "dogs" "just" "home" "got" "feel" "cat" "pet" "care" "night" "like" "time" "day" "loved" "years" "didn" "puppy" "sister" "walk" "love" 
+Cluster 51 (45 documentos):"heard" "ve heard" "ve" "haven heard" "people" "rc" "dmt" "say" "good" "people say" "use" "heard people" "snorting" "haven" "alternatives" "like" "foil" "experience" "muscle" "wanted try" 
+Cluster 17 (45 documentos):"media" "social media" "social" "post" "pictures" "instagram" "facebook" "relationship" "like" "just" "posts" "people" "accounts" "don" "friends" "years" "want" "guy" "boyfriend" "time" 
+Cluster 28 (45 documentos):"school" "gay" "high" "high school" "straight" "crushes" "middle school" "kiss" "bullies" "know gay" "boys" "freshman" "middle" "gays" "know" "friend" "guy" "didn" "don" "everybody" 
+Cluster 207 (44 documentos):"tripping" "acid" "trip" "lsd" "time" "tripped" "ideas" "like" "time tripping" "balls" "think" "tab" "taking" "mescaline" "tabs" "know" "tonight" "trips" "ve tripped" "dropping" 
+Cluster 18 (44 documentos):"gf" "sex" "said" "just" "time" "like" "asked" "relationship" "month" "feel" "help" "thought" "dating" "current gf" "got" "told" "advice" "really" "person" "didn" 
+Cluster 154 (44 documentos):"alcohol" "drink" "drinking" "drink alcohol" "day" "just" "better" "good" "makes" "alcoholic" "time" "drinks" "sober" "ve" "feeling" "feel" "today" "think" "going" "want" 
+Cluster 182 (43 documentos):"watch" "video" "movie" "netflix" "videos" "film" "gay" "amp" "like watch" "tripping" "football" "stars" "youtube" "like" "favorite" "streaming" "just" "suggestions" "prime" "frequency" 
+Cluster 13 (43 documentos):"friday" "monday" "saturday" "night" "sunday" "week" "day" "friday night" "thursday" "work" "beers" "new job" "th" "weekend" "september" "daily check" "new" "time" "links" "like" 
+Cluster 135 (43 documentos):"mail" "snail" "snail mail" "love" "letters" "looking" "pen" "writing" "interested" "pal" "like" "email" "penpals" "people" "talk" "pen pal" "send" "new" "write" "art" 
+Cluster 50 (43 documentos):"ed" "weight" "like" "skinny" "fat" "feel" "eating" "eat" "look" "don" "bmi" "just" "want" "feel like" "know" "anorexia" "shit" "makes" "fucking" "treatment" 
+Cluster 241 (42 documentos):"plants" "growing" "soil" "grow" "flower" "light" "lights" "nutes" "ft" "led" "leaves" "just" "outdoor" "growth" "cm" "hey" "ph" "plant" "help" "neighbor" 
+Cluster 65 (41 documentos):"anxiety" "english" "anxiety attack" "attack" "sorry" "higher" "just" "spanish" "like" "having" "sorry english" "having anxiety" "language" "fear" "really" "don" "cheating" "english native" "know" "bad" 
+Cluster 162 (41 documentos):"roll" "rolling" "mdma" "mg" "rolled" "weekend" "time" "experience" "night" "bowl" "amazing" "little" "just" "pipe" "dose" "like" "best" "hey" "know" "weed" 
+Cluster 213 (41 documentos):"clean" "months clean" "years clean" "months" "streak" "proud" "really" "im" "don" "relapsed" "broke" "years" "just" "time" "long" "anymore" "stay" "want" "day" "idk" 
+Cluster 56 (41 documentos):"blood" "tests" "blood tests" "test" "doctor" "urine" "results" "appointment" "blood test" "does" "gp" "just" "ve" "positive" "liver" "little" "like" "pain" "anxiety" "know" 
+Cluster 43 (41 documentos):"online" "online friends" "friends" "just" "people" "looking" "met online" "lesbians" "irl" "like" "talk" "don" "know" "moved" "really" "just moved" "met" "alternatives" "pals" "interested" 
+Cluster 133 (40 documentos):"nmom" "nc" "dad" "contact" "going nc" "mother" "going" "life" "daughter" "getting" "nparents" "abuse" "family" "like" "feel" "phone" "things" "just" "aunt" "number" 
+Cluster 229 (40 documentos):"dxm" "mg" "trip" "plat" "weed" "just" "bottle" "time" "ve" "st" "cough" "rd" "high" "plateau" "like" "try" "tripping" "does" "dose" "feel" 
+Cluster 168 (40 documentos):"bad" "feel" "guilty" "feel guilty" "feel bad" "places" "just" "things" "like" "bad happen" "happen" "long" "doing" "time" "don" "agree" "think" "hate" "years" "feel ashamed" 
+Cluster 92 (39 documentos):"transitioning" "transition" "trans" "cis" "mtf" "woman" "gender" "pronouns" "male" "start" "process" "like" "job" "don" "just" "feminine" "fear" "ftm" "want" "ve" 
+Cluster 60 (39 documentos):"sub" "new sub" "people" "new" "thanks" "people sub" "mods" "post" "thank" "posts" "say" "support" "wiki" "just" "subreddit" "lot" "exists" "like" "grateful" "disabilities" 
+Cluster 42 (39 documentos):"visuals" "trip" "felt" "like" "eyes" "closed" "eye" "just" "looked" "started" "time" "body" "felt like" "dmt" "intense" "lsd" "experienced" "took" "really" "different" 
+Cluster 225 (39 documentos):"shes" "dont" "just" "im" "like" "girl" "know" "said" "asked" "home" "want" "told" "says" "friend" "weekend" "time" "text" "does" "going" "hangout" 
+Cluster 220 (37 documentos):"beer" "drink" "drinking" "alcohol" "drinking beer" "day" "beers" "drunk" "liquor" "did" "today" "went" "just" "fridge" "like" "got" "days" "sleep" "sam" "ve" 
+Cluster 139 (37 documentos):"movies" "shows" "tv shows" "tv" "music" "like" "shows movies" "friends" "games" "looking" "memes" "favorite" "don" "people" "talk" "love" "lonely" "watching" "anime" "chat" 
+Cluster 125 (37 documentos):"tinder" "email" "account" "date" "guys" "just" "dating" "matches" "people" "grindr" "new" "deleted" "facebook" "don" "phone" "access" "use" "know" "username" "finally" 
+Cluster 178 (36 documentos):"lgbt" "lgbt people" "people" "gay" "like" "asexual" "know" "just" "queer" "think" "support" "subreddits" "sub" "lgbtmunity" "thank" "sexuality" "straight" "question" "don" "list" 
+Cluster 71 (36 documentos):"tab" "tabs" "ug" "lsd" "half tab" "half" "trip" "gel" "ug tab" "best way" "tongue" "question" "took" "tonight" "taking" "double" "dose" "im" "time" "tolerance" 
+Cluster 54 (36 documentos):"mushrooms" "thanks" "grow" "tips" "growing" "shrooms" "hunting" "psychedelic" "looking" "dried" "like" "micro" "link" "drying" "grams" "thanks advance" "trip" "liberty" "time" "hello" 
+Cluster 83 (35 documentos):"songs" "pls" "playlist" "need good" "rmend" "good" "rmendations" "need" "song" "music" "listen" "like" "good vibes" "im" "vibes" "noopept" "wondering" "album" "looking" "pills" 
+Cluster 148 (35 documentos):"video games" "video" "games" "play video" "friends" "play" "looking" "new" "talk" "like" "love" "movies" "people" "new friends" "make new" "make" "stuff" "reddit" "work" "hello" 
+Cluster 149 (35 documentos):"throat" "sensation" "like" "days" "sore throat" "lump" "anxiety" "feel" "swallow" "ve" "swallowing" "pain" "sore" "does" "feeling" "just" "symptoms" "day" "cold" "cough" 
+Cluster 136 (34 documentos):"discord" "server" "discord server" "join" "people" "link" "pm" "minecraft" "play" "games" "talk" "game" "hey" "people play" "small" "like" "talk discord" "chat" "interested" "lgbt" 
+Cluster 196 (34 documentos):"ap" "time" "mm" "think" "marriage" "ve" "fucking" "just" "kik" "affair" "don" "want" "wife" "song" "describes" "husband" "lot" "married" "leave" "today" 
+Cluster 237 (34 documentos):"phenibut" "mg" "taking" "dose" "anxiety" "grams" "effects" "taste" "like" "use" "kratom" "daily" "benzos" "alcohol" "took" "tried" "weed" "hours" "doses" "does" 
+Cluster 195 (33 documentos):"tent" "grow" "grow tent" "plants" "light" "xx" "room" "quantum" "fan" "humidity" "basement" "veg" "lights" "pots" "board" "seed" "led" "qb" "air" "size" 
+Cluster 124 (33 documentos):"voice" "sounds" "register" "lower" "like" "deeper" "pitch" "male" "people" "sounds like" "transition" "starting" "female" "throat" "vocal" "training" "dysphoria" "ish" "higher" "high" 
+Cluster 78 (32 documentos):"strains" "depression anxiety" "depression" "anxiety" "kush" "help depression" "help" "different" "strain" "used" "like" "anxiety just" "social" "just" "munity" "anxiety ve" "purple" "question" "ve" "loved ones" 
+Cluster 93 (32 documentos):"red" "red flag" "flag" "flags" "red flags" "know" "like" "bright" "drops" "said" "prick" "scratching" "yeet" "girl" "boyfriend" "exam" "just" "da" "eye" "growing" 
+Cluster 249 (32 documentos):"reddit" "new reddit" "site" "subreddit" "account" "just" "people" "use" "subreddits" "posts" "reddit account" "use reddit" "thing" "abuse" "ace" "like" "looking" "ve" "promises" "page" 
+Cluster 141 (31 documentos):"dick" "sucking" "suck" "like" "cock" "advice" "sex" "just" "guys" "pussy" "really" "bottoming" "shave" "want" "love" "smell" "wears" "think" "stranger" "swim" 
+Cluster 57 (31 documentos):"jars" "mycelium" "jar" "brf" "curing" "inoculated" "grain" "dry" "water" "spores" "humidity" "cure" "buds" "signs" "substrate" "spawn" "smell" "using" "days" "harvest" 
+Cluster 33 (31 documentos):"binder" "binders" "gcb" "wear" "binding" "chest" "wearing" "size" "new" "smaller" "measure" "just" "bind" "dysphoria" "look" "getting" "ve" "flat" "measured" "nude" 
+Cluster 11 (31 documentos):"miss" "feel" "just" "needed" "love" "nc" "sleeves" "happy" "going miss" "miss having" "know" "don miss" "like" "friend" "left" "badly" "know won" "smoked" "year" "wanted" 
+Cluster 66 (30 documentos):"ketamine" "cocaine" "experience" "mg" "mdma" "lsd" "amphetamine" "rave" "like" "time" "just" "drug" "hole" "theedown" "treatment" "got" "good" "experienced" "meo" "ve" 
+Cluster 219 (30 documentos):"cuts" "arms" "sh" "legs" "arms legs" "cutting" "cut" "just" "muscle" "deep" "sleeves" "long" "started cutting" "punching" "like" "athletic" "day" "don" "clean" "ecstasy" 
+Cluster 176 (30 documentos):"lgbtq" "join" "lgbtq munity" "munity" "groups" "rights" "queer" "people" "podcast" "know" "looking" "amunity" "friends" "usa" "want join" "hitting" "minecraft" "ideas" "group" "women" 
+Cluster 70 (30 documentos):"chest" "pains" "chest pain" "heart" "pain" "like" "anxiety" "feeling" "difort" "breath" "just" "tightness" "feel" "normal" "worried" "beat" "ve" "don" "bit" "skipped" 
+Cluster 0 (29 documentos):"bottle" "wine" "bottle wine" "water bottle" "water" "drink" "drinking" "detox" "beer" "vodka" "night" "morning" "sip" "today" "did" "pills" "didn" "got" "soap" "drinks" 
+Cluster 205 (29 documentos):"coping" "coping skills" "skills" "ve" "methods" "anxiety" "skill" "advice" "coping mechanism" "coping mechanisms" "just" "need" "mechanism" "slice" "mechanisms" "ways" "depression" "good" "therapy" "sh" 
+Cluster 223 (29 documentos):"time" "recipe" "time ve" "ve" "long time" "long" "bake" "time long" "france" "oil" "coconut" "baking" "oldest" "really nice" "thc" "hour" "ve used" "cheese" "aunt" "nice" 
+Cluster 186 (29 documentos):"gt" "gt gt" "lt" "just" "know" "don" "people" "drag" "exist" "new" "love" "amp" "talk" "blades" "siblings" "time" "razor" "life" "mg" "want" 
+Cluster 52 (29 documentos):"start" "transition" "start hrt" "hrt" "want" "true self" "want start" "true" "self" "journey" "list" "mtf" "just" "hormones" "public" "toe" "private" "idea" "able" "event" 
+Cluster 235 (28 documentos):"eating disorder" "eating" "disorder" "eat" "food" "just" "don" "weight" "ve" "like" "calories" "thing" "bmi" "tired" "underweight" "day" "feel" "ate" "water" "binge eating" 
+Cluster 145 (28 documentos):"send" "message" "send message" "chat" "looking" "gamer" "just chat" "play" "looking people" "just" "hey" "people" "don" "hi" "interested" "like" "really" "ll" "memes" "talk" 
+Cluster 143 (28 documentos):"seeds" "plant" "seed" "ordering" "water" "grow" "buy" "order" "auto" "brick" "females" "use" "source" "online" "genetics" "bowl" "bag" "good" "australia" "consumption" 
+Cluster 189 (28 documentos):"hmu" "bored" "ma" "friends" "chat" "hey" "just" "solo" "need" "people" "snapchat" "ur" "looking" "redose" "hi" "talk" "wee" "like" "im" "music" 
+Cluster 49 (27 documentos):"wish luck" "luck" "wish" "nervous" "just dropped" "just" "time stop" "heading" "think" "gonna" "robocough" "method" "interesting" "dropped" "time" "need things" "reading far" "weekend" "mg" "edit" 
+Cluster 119 (27 documentos):"ma" "snap" "bored" "pm" "snaps" "streaks" "chat" "map" "looking" "username" "user" "work" "message" "sick" "dying" "uk" "talk" "day" "ur" "just dont" 
+Cluster 8 (27 documentos):"dreams" "asleep" "fall asleep" "wake" "vivid" "fall" "vivid dreams" "woke" "sensation" "dream" "sleep" "fell asleep" "day" "like" "dreaming" "fucking" "fucking tired" "melatonin" "break" "falling asleep" 
+Cluster 166 (27 documentos):"test" "drug" "drug test" "tests" "kit" "driving" "etizolam" "thursday" "testing" "cocaine" "kits" "ve" "pink" "pass" "kratom" "pain" "got" "lab" "site" "selfie" 
+Cluster 88 (27 documentos):"friends talk" "talk" "friends" "looking" "looking friends" "message" "pm" "happily married" "people talk" "people" "im" "don" "hello" "married" "happily" "open" "enjoy" "fa" "im looking" "home mom" 
+Cluster 7 (26 documentos):"kratom" "opiates" "long" "hrs" "quit" "dose" "long did" "did" "ve" "day" "does" "long does" "just" "benzos" "effects" "time" "nose" "amp" "dosing" "withdrawal" 
+Cluster 113 (26 documentos):"card" "medical" "rx" "legally" "received" "weed" "dispensary" "california" "batteries" "marijuana" "information" "phoenix" "online" "state" "pic" "doctor" "finally did" "did got" "med" "milestones" 
+Cluster 80 (26 documentos):"wants talk" "talk" "like talk" "points" "je" "looking good" "wants" "promise" "like" "et" "good" "open" "just" "est" "looking" "rc" "pm" "rings" "friend like" "grinder" 
+Cluster 210 (26 documentos):"uk" "talk" "ll talk" "looking" "friends" "talk guys" "love" "internet" "love animals" "looking new" "ll" "animals" "hello" "chat" "people" "make friends" "internet friends" "gaming" "hmu" "new" 
+Cluster 216 (26 documentos):"study" "sexual" "participants" "participate" "participation" "email" "email address" "university" "uk" "sexual desire" "london" "research" "women" "address" "lab" "satisfaction" "survey" "based" "desire" "provide" 
+Cluster 244 (25 documentos):"cake" "cakes" "brf" "fruiting" "pf" "chamber" "tek" "flush" "rice" "bin" "wedding" "pie" "trash" "jar" "day" "monotub" "just" "th" "ice cream" "pretty" 
+Cluster 4 (25 documentos):"drive" "sex drive" "sex" "partner" "want" "location" "relationship" "just" "know" "feel" "don" "does want" "sexual" "said" "want know" "wants" "actually" "high" "years" "high sex" 
+Cluster 211 (25 documentos):"closet" "climate" "door" "gay" "grow" "temperature" "fun" "halloween" "people" "change" "advice" "know" "tonight" "just" "spouse" "secure" "going kill" "want" "like" "don" 
+Cluster 6 (25 documentos):"dry" "herb" "dry herb" "vape" "herb vape" "vapes" "high" "vaporizer" "smoking" "bong" "use" "smoke" "vaping" "weed" "oil" "thc" "concentrates" "mouth" "market" "looking" 
+Cluster 128 (25 documentos):"underwear" "wear" "pants" "like" "wearing" "fit" "locker" "jeans" "clothes" "size" "room" "shorts" "tight" "mask" "just" "shirts" "sheets" "advice help" "waist" "shirt" 
+Cluster 74 (24 documentos):"injections" "transitioning" "transition" "testosterone" "mtf" "advice" "hrt" "doctor" "levels" "really" "dysphoria" "help" "male" "looking" "ve" "switch" "gender" "use" "estradiol" "currently" 
+Cluster 123 (24 documentos):"anime" "games" "history" "looking" "video" "like" "talk" "interests" "gaming" "video games" "main" "people" "don" "manga" "boy" "lot" "new" "girls" "just" "aside" 
+Cluster 1 (24 documentos):"insurance" "health insurance" "health" "surgeons" "surgeon" "covered" "therapist" "ffs" "cover" "surgery" "don" "meds" "starbucks" "plan" "does" "december" "pay" "know" "medical" "network" 
+Cluster 230 (24 documentos):"ml" "mg" "dose" "syrup" "liquid" "solution" "lsd" "cough" "contains" "bottle" "hours" "small dose" "ether" "use" "prescription" "effect" "small" "gram" "just" "tabs" 
+Cluster 147 (23 documentos):"spore" "agar" "bags" "grain" "golden" "spores" "bag" "syringe" "teacher" "spawn" "fruiting" "inoculated" "cakes" "pc" "substrate" "growing" "plates" "fruit" "use" "grown" 
+Cluster 247 (22 documentos):"caps" "dph" "swallow" "mg" "liquid" "dxm" "liberty" "gel" "pills" "concerta" "purging" "trip" "high" "sweden" "small" "extraction" "tabs" "like mg" "shower" "hour" 
+Cluster 198 (22 documentos):"xanax" "mix" "mg" "alcohol" "tried" "xans" "codeine" "just" "effects" "took" "bar" "wanna" "popped" "hahaha" "don wanna" "bars" "took half" "blackout" "don" "like" 
+Cluster 184 (22 documentos):"mighty" "pax" "vape" "battery" "portable" "vaporizer" "argo" "like" "looking" "use" "stempod" "bowl" "new" "heating" "clean" "vapes" "electronic" "good" "edge" "vapor" 
+Cluster 187 (22 documentos):"molly" "mdma" "drugs" "pill" "lucy" "xans" "taking" "best" "water" "like" "alternatives" "mg" "experience" "crystals" "canada" "know" "did" "time" "jaw" "theedown" 
+Cluster 159 (22 documentos):"ha" "cancer" "disease" "als" "gained" "therapy" "challenge" "ve" "feel" "like" "worried" "symptoms" "health" "love" "period" "awesome" "feel like" "muscle" "anxiety" "pounds" 
+Cluster 172 (22 documentos):"tub" "coir" "spawn" "monotub" "substrate" "mix" "layer" "bulk" "coco" "tek" "loose" "cakes" "mold" "grain" "using" "does" "pins" "jars" "fruiting" "need" 
+Cluster 221 (21 documentos):"blood pressure" "pressure" "blood" "high blood" "high" "bp" "anxiety" "meds" "gaba" "pulse" "twice week" "stroke" "feel" "doctor" "forehead" "gauge" "concerta" "just" "eat" "goes" 
+Cluster 61 (21 documentos):"names" "gender neutral" "neutral" "trans" "like" "did" "gender" "consider" "middle" "ve" "ones" "list" "choose" "want" "factors" "birth" "choosing" "current" "lease" "inspired" 
+Cluster 72 (21 documentos):"laser" "hair" "hair removal" "removal" "facial" "facial hair" "electrolysis" "permanent" "shaving" "trans" "hairs" "face" "hrt" "beard" "session" "orchiectomy" "skin" "dont" "body" "rmendations" 
+Cluster 48 (20 documentos):"need new" "new" "need" "suggestions" "snapchat" "new friends" "talk" "grinder" "batch" "ma" "spots" "pm" "like" "friends" "long" "low" "really" "new life" "says need" "freinds" 
+Cluster 21 (20 documentos):"aco" "zone" "psychedelic" "thoughts" "dmt" "deep" "reality" "like" "burning" "myfort zone" "myfort" "artwork" "clenching" "organs" "cough" "grinding" "gallery" "ve" "ve looking" "increase" 
+Cluster 142 (20 documentos):"cbd" "oil" "cbd oil" "theanine" "weed" "mg" "strain" "thc" "high" "tincture" "pain" "tried" "using" "ashwagandha" "blog" "help" "carts" "use" "ve" "like" 
+Cluster 174 (20 documentos):"sugar" "cravings" "spice" "buds" "meat" "pumpkin" "cramps" "diabetes" "calorie" "dating" "irritability" "meals" "cook" "fatigued" "ms" "grindr" "week" "bag" "does" "nice" 
+Cluster 202 (19 documentos):"san" "ca" "question" "direction" "does" "bay" "folk" "doctor" "area" "amy" "help" "james" "selling" "trans friendly" "chairs" "looking" "near" "best time" "correct" "circumstances" 
+Cluster 197 (19 documentos):"hiv" "test" "tested" "prep" "condom" "sex" "symptoms" "know" "encounter" "days" "week" "tests" "ve" "accurate" "worried" "weeks" "day" "anxiety" "calm" "negative" 
+Cluster 5 (18 documentos):"man" "stronger" "bare" "hurt" "sets" "love" "day" "handsome" "lashed" "life" "better" "didn notice" "loving" "just" "look" "traits" "destroy" "sky" "exploring" "want" 
+Cluster 137 (18 documentos):"robocough" "dosage" "dxm" "lbs" "effects" "dose" "month" "ordered" "mg" "wondering" "gw" "bottle" "timer" "tolerance" "bottles" "stimulant" "trip" "just" "don" "half" 
+Cluster 246 (18 documentos):"nausea" "cure" "anxiety" "really" "showers" "morning" "sickness" "ve" "headaches" "just" "safe" "effect" "nauseous" "claire" "hot" "idea" "help" "pregnant" "experience" "time" 
+Cluster 243 (18 documentos):"german" "language" "germany" "learn" "sponsor" "talk" "speak" "looking" "group" "like" "friends" "lessons" "racist" "hello" "learning" "birth certificate" "certificate" "nice" "drunk" "thank advance" 
+Cluster 79 (18 documentos):"strain" "seed" "favorite" "kush" "harvest" "question" "og" "sure" "tried" "wondering" "amber" "whats" "got" "white" "cubes" "said" "dry" "cannabis" "therapist" "strains" 
+Cluster 239 (17 documentos):"bored" "just bored" "sexuality" "just" "deleted" "talk" "questioning sexuality" "hey just" "pm" "dm" "discord" "php" "figuring" "good" "cursing" "actual" "looking" "questioning" "feel" "really" 
+Cluster 111 (15 documentos):"mushroom" "psilocybin" "magic" "mushrooms" "excited" "cubensis" "dose" "tea" "gifted" "chemical" "respecting" "season" "small dose" "relation" "does know" "does" "ref" "prices" "information" "dp" 
+Cluster 218 (13 documentos):"players" "time zone" "zone" "play" "ps" "est" "looking" "football" "meeting" "new" "time" "guild" "evening" "hey" "know" "server" "guys" "joe" "favorite" "updated" 
+Cluster 226 (12 documentos):"domestic" "domestic violence" "violence" "abuse" "charges" "probation" "children" "people" "gets" "got caught" "feels bad" "narcissist" "gets angry" "supply" "classes" "cops" "charge" "hard times" "just" "physical" 
+Cluster 105 (8 documentos):"subreddit" "peach" "messagepose" "edanonymousments" "edanonymous" "flair" "username" "discussion" "contact" "moderators" "moderator" "technical" "need friends" "guide" "services" "exchange" "resources" "feedback" "september" "topic" 
+Cluster 191 (7 documentos):"saving" "intimacy" "religious" "people like" "kiss" "choice" "say isn" "isn case" "like thanks" "agnostic" "person people" "like minded" "physical intimacy" "strive" "debate" "people" "external" "model" "internal" "firm" 
+
+231
+['help', 'really', 'need', 'just', 'need help', 'want', 'like', 'feel', 'don', 've', 'know', 'time', 'friends', 'tried', 'think', 'talk', 'depression', 'bad', 'feeling', 'better']
+{'depression': 38, 'relationship_advice': 23, 'SuicideWatch': 17, 'Anxiety': 7, 'askgaybros': 6, 'stopdrinking': 6, 'quittingkratom': 5, 'asktransgender': 4, 'trees': 4, 'selfharm': 3, 'StackAdvice': 3, 'Needafriend': 3, 'Drugs': 3, 'microgrowery': 3, 'DeadBedrooms': 2, 'lonely': 2, 'MtF': 2, 'NarcissisticAbuse': 2, 'lgbt': 2, 'raisedbynarcissists': 2, 'JUSTNOFAMILY': 1, 'ftm': 1, 'relationships': 1, 'bisexual': 1, 'transgenderUK': 1, 'adultery': 1, 'MakeNewFriendsHere': 1, 'EDAnonymous': 1, 'Nootropics': 1, 'actuallesbians': 1, 'widowers': 1, 'ask_transgender': 1, 'survivorsofabuse': 1, 'saplings': 1, 'MadeOfStyrofoam': 1, 'LSD': 1, 'FriendshipAdvice': 1, 'TransSpace': 1, 'vaporents': 1, 'MDMA': 1, 'alcoholicsanonymous': 1, 'drugscirclejerk': 1, 'shrooms': 1, 'rapecounseling': 1, 'socialanxiety': 1}
+
+156
+['mom', 'dad', 'family', 'sister', 'just', 'like', 'time', 'house', 'parents', 'don', 'know', 'told', 'didn', 'got', 'home', 'want', 'said', 'mother', 'years', 'life']
+{'raisedbynarcissists': 34, 'relationship_advice': 27, 'relationships': 18, 'JUSTNOMIL': 16, 'depression': 9, 'JUSTNOFAMILY': 7, 'family': 7, 'SuicideWatch': 5, 'raisedbyborderlines': 4, 'abuse': 3, 'GriefSupport': 3, 'AlAnon': 2, 'Anxiety': 2, 'FamilyIssues': 2, 'Drugs': 1, 'Petloss': 1, 'SuicideBereavement': 1, 'drunk': 1, 'LGBTeens': 1, 'EmotionalAbuseSupport': 1, 'asktransgender': 1, 'gay': 1, 'rapecounseling': 1, 'lgbt': 1}
+
+206
+['wife', 'years', 'just', 'married', 'marriage', 'don', 'time', 'want', 've', 'told', 'daughter', 'know', 'year', 'like', 'got', 'family', 'work', 'love', 'home', 'life']
+{'relationship_advice': 48, 'DeadBedrooms': 8, 'adultery': 8, 'relationships': 7, 'depression': 6, 'Marriage': 5, 'AlAnon': 5, 'stopdrinking': 4, 'survivinginfidelity': 4, 'asktransgender': 3, 'trans': 3, 'SuicideWatch': 3, 'MtF': 3, 'Needafriend': 3, 'actuallesbians': 2, 'bisexual': 2, 'JUSTNOMIL': 2, 'NarcissisticAbuse': 2, 'Petloss': 1, 'loveafterporn': 1, 'dxm': 1, 'lgbt': 1, 'SuicideBereavement': 1, 'Anxiety': 1, 'loseit': 1, 'askgaybros': 1, 'MakeNewFriendsHere': 1, 'widowers': 1, 'mypartneristrans': 1, 'babyloss': 1, 'alcoholism': 1, 'shrooms': 1, 'MDMA': 1, 'FamilyIssues': 1, 'trees': 1, 'family': 1, 'raisedbynarcissists': 1, 'saplings': 1, 'Alcoholism_Medication': 1, 'ftm': 1, 'raisedbyborderlines': 1, 'EOOD': 1, 'ttcafterloss': 1}
+
+99
+['feel', 'like', 'feel like', 'just', 'feeling', 've', 'don', 'feels', 'really', 'feels like', 'day', 'life', 'time', 'know', 'going', 'think', 'happy', 'want', 'better', 'way']
+{'depression': 132, 'Anxiety': 41, 'relationship_advice': 23, 'SuicideWatch': 22, 'stopdrinking': 11, 'raisedbynarcissists': 10, 'ftm': 9, 'selfharm': 8, 'leaves': 7, 'EDAnonymous': 7, 'lonely': 7, 'HealthAnxiety': 6, 'NarcissisticAbuse': 6, 'socialanxiety': 6, 'Drugs': 6, 'MtF': 6, 'DiagnoseMe': 5, 'GriefSupport': 4, 'LGBTeens': 4, 'LSD': 4, 'loseit': 4, 'askgaybros': 4, 'Petloss': 3, 'trees': 3, 'Needafriend': 3, 'lgbt': 3, 'Psychonaut': 3, 'raisedbyborderlines': 3, 'MakeNewFriendsHere': 3, 'MadeOfStyrofoam': 3, 'quittingkratom': 2, 'depressed': 2, 'survivinginfidelity': 2, 'Anxietyhelp': 2, 'dxm': 2, 'widowers': 2, 'MDMA': 2, 'mypartneristrans': 2, 'asktransgender': 2, 'OpiatesRecovery': 2, 'depressionregimens': 2, 'adultery': 2, 'relationships': 2, 'drunk': 2, 'actuallesbians': 1, 'drugscirclejerk': 1, 'StopSpeeding': 1, 'gaybros': 1, 'survivorsofabuse': 1, 'alcoholism': 1, 'SelfHarmScars': 1, 'Stims': 1, 'DeadBedrooms': 1, 'Nootropics': 1, 'Alcoholism_Medication': 1, 'researchchemicals': 1, 'SuicideBereavement': 1, 'ForeverAlone': 1, 'adderall': 1, 'BodyAcceptance': 1, 'ttcafterloss': 1, 'cocaine': 1, 'EOOD': 1, 'Petioles': 1, 'askdrugs': 1}
+
+58
+['eating', 'eat', 'weight', 'just', 'food', 'like', 'day', 'feel', 'stop', 'really', 'body', 'meals', 'binging', 'time', 've', 'lot', 'hate', 'lose', 'stop eating', 'don']
+{'EDAnonymous': 24, 'loseit': 12, 'BingeEatingDisorder': 8, 'fuckeatingdisorders': 5, 'Anxiety': 3, 'trees': 3, 'Drugs': 2, 'EatingDisorders': 2, 'DiagnoseMe': 2, 'selfharm': 1, 'leaves': 1, 'raisedbynarcissists': 1, 'drunk': 1, 'depression': 1, 'lonely': 1, 'relationships': 1, 'eating_disorders': 1, 'stopdrinking': 1, 'JUSTNOFAMILY': 1, 'eldertrees': 1, 'shrooms': 1}
+
+192
+['love', 'like', 'want', 'just', 'life', 'know', 'don', 'feel', 'think', 'relationship', 'love love', 'say', 'person', 'time', 've', 'really', 'loves', 'fall love', 'people', 'girl']
+{'relationship_advice': 49, 'depression': 19, 'relationships': 6, 'NarcissisticAbuse': 6, 'lonely': 5, 'bisexual': 3, 'MakeNewFriendsHere': 3, 'lgbt': 3, 'Anxiety': 3, 'actuallesbians': 3, 'gay': 3, 'DeadBedrooms': 3, 'SuicideWatch': 3, 'raisedbynarcissists': 3, 'EDAnonymous': 3, 'shrooms': 2, 'Marriage': 2, 'adultery': 2, 'trees': 2, 'askgaybros': 2, 'mypartneristrans': 2, 'leaves': 2, 'Petloss': 2, 'LGBTeens': 2, 'LSD': 2, 'widowers': 1, 'transgendercirclejerk': 1, 'Psychonaut': 1, 'pansexual': 1, 'survivinginfidelity': 1, 'MDMA': 1, 'penpals': 1, 'drunk': 1, 'MtF': 1, 'gaybros': 1, 'socialanxiety': 1, 'Needafriend': 1, 'LesbianActually': 1, 'babyloss': 1, 'textfriends': 1, 'cocaine': 1, 'alcoholism': 1, 'emotionalabuse': 1, 'GriefSupport': 1, 'asexuality': 1, 'friendship': 1}
+
+44
+['kids', 'time', 'just', 'family', 'like', 'want', 'don', 'having', 'home', 'work', 'having kids', 'children', 'parents', 'know', 've', 'life', 'years', 'love', 'things', 'want kids']
+{'relationship_advice': 25, 'raisedbynarcissists': 10, 'relationships': 9, 'depression': 5, 'JUSTNOMIL': 5, 'stopdrinking': 4, 'Marriage': 4, 'SuicideWatch': 3, 'actuallesbians': 2, 'AlAnon': 2, 'MtF': 2, 'askgaybros': 2, 'asktransgender': 2, 'alcoholism': 1, 'ForeverAlone': 1, 'family': 1, 'MakeNewFriendsHere': 1, 'gaybros': 1, 'loseit': 1, 'adultery': 1, 'survivinginfidelity': 1, 'vaporents': 1, 'raisedbyborderlines': 1, 'quittingkratom': 1, 'GriefSupport': 1, 'alcoholicsanonymous': 1, 'lonely': 1, 'truelesbians': 1, 'bisexual': 1, 'rapecounseling': 1, 'LGBTeens': 1, 'Stims': 1, 'cripplingalcoholism': 1}
+
+0
+['bottle', 'wine', 'bottle wine', 'water bottle', 'water', 'drink', 'drinking', 'detox', 'beer', 'vodka', 'night', 'morning', 'sip', 'today', 'did', 'pills', 'didn', 'got', 'soap', 'drinks']
+{'stopdrinking': 12, 'cripplingalcoholism': 4, 'dxm': 3, 'drunk': 2, 'alcoholism': 2, 'depression': 2, 'LGBTeens': 1, 'pansexual': 1, 'alcoholicsanonymous': 1, 'askdrugs': 1}
+
+62
+['parents', 'don', 'know', 'family', 'just', 'like', 'tell', 've', 'live', 'sister', 'really', 'feel', 'want', 'think', 'siblings', 'time', 'home', 'came parents', 'relationship', 'said']
+{'relationship_advice': 28, 'raisedbynarcissists': 21, 'depression': 11, 'relationships': 9, 'lgbt': 6, 'asktransgender': 5, 'Drugs': 3, 'JUSTNOFAMILY': 3, 'bisexual': 3, 'JUSTNOMIL': 3, 'ftm': 3, 'Anxiety': 2, 'LGBTeens': 2, 'askgaybros': 2, 'emotionalabuse': 2, 'MtF': 2, 'family': 2, 'asexuality': 2, 'EstrangedAdultChild': 1, 'DeadBedrooms': 1, 'actuallesbians': 1, 'abuse': 1, 'ask_transgender': 1, 'mypartneristrans': 1, 'trans': 1, 'gay': 1, 'FriendshipAdvice': 1, 'ForeverAlone': 1, 'LSD': 1}
+
+199
+['class', 'teacher', 'like', 'just', 'don', 'school', 'know', 'classes', 'year', 'really', 'going', 'talk', 'girl', 'college', 'said', 'think', 'saw', 'anxiety', 'asked', 'don know']
+{'relationship_advice': 11, 'Anxiety': 8, 'socialanxiety': 6, 'depression': 5, 'LGBTeens': 3, 'relationships': 3, 'MakeNewFriendsHere': 2, 'selfharm': 2, 'loseit': 1, 'researchchemicals': 1, 'highschool': 1, 'raisedbynarcissists': 1, 'shrooms': 1, 'askgaybros': 1, 'gay': 1, 'lgbt': 1, 'transeducate': 1, 'ftm': 1, 'actuallesbians': 1, 'SuicideWatch': 1, 'JUSTNOMIL': 1, 'Needafriend': 1, 'stopdrinking': 1}
+
+47
+['amp', 'width amp', 'amp format', 'amp auto', 'auto webp', 'webp amp', 'webp', 'width', 'auto', 'format', 'png', 'format pjpg', 'pjpg amp', 'jpg width', 'pjpg', 'jpg', 'xb', 'amp xb', 'format png', 'png amp']
+{'shrooms': 10, 'microgrowery': 6, 'trees': 5, 'lgbt': 4, 'gay': 3, 'vaporents': 3, 'raisedbyborderlines': 2, 'DiagnoseMe': 2, 'cocaine': 2, 'ftm': 2, 'asexuality': 2, 'LSD': 2, 'actuallesbians': 1, 'gaybros': 1, 'bisexual': 1, 'socialanxiety': 1, 'replications': 1, 'ainbow': 1, 'drunk': 1, 'Anxietyhelp': 1, 'kratom': 1, 'MadeOfStyrofoam': 1, 'Psychonaut': 1, 'gaymers': 1}
+
+78
+['strains', 'depression anxiety', 'depression', 'anxiety', 'kush', 'help depression', 'help', 'different', 'strain', 'used', 'like', 'anxiety just', 'social', 'just', 'munity', 'anxiety ve', 'purple', 'question', 've', 'loved ones']
+{'depression': 9, 'trees': 5, 'EOOD': 3, 'kratom': 3, 'SuicideWatch': 2, 'shrooms': 2, 'relationship_advice': 1, 'AnxietyDepression': 1, 'survivinginfidelity': 1, 'EDAnonymous': 1, 'saplings': 1, 'microgrowery': 1, 'leaves': 1, 'drugscirclejerk': 1}
+
+169
+['mother', 'father', 'sister', 'family', 'told', 'time', 'just', 'like', 'life', 'know', 'don', 'child', 'want', 'said', 'mom', 'parents', 'dad', 'didn', 'years', 'feel']
+{'raisedbynarcissists': 56, 'relationship_advice': 30, 'relationships': 15, 'raisedbyborderlines': 6, 'JUSTNOFAMILY': 6, 'JUSTNOMIL': 4, 'depression': 4, 'GriefSupport': 3, 'abuse': 3, 'SuicideWatch': 3, 'AlAnon': 2, 'EstrangedAdultChild': 2, 'family': 2, 'Anxiety': 2, 'bereavement': 1, 'gaybros': 1, 'AnxietyDepression': 1, 'survivorsofabuse': 1, 'asktransgender': 1, 'ftm': 1, 'emotionalabuse': 1, 'actuallesbians': 1, 'FamilyIssues': 1, 'lgbt': 1}
+
+39
+['said', 'told', 'asked', 'didn', 'just', 'like', 'wanted', 'went', 'know', 'time', 'really', 'did', 'got', 'don', 'day', 'night', 'saying', 'want', 'going', 'started']
+{'relationship_advice': 171, 'relationships': 35, 'raisedbynarcissists': 11, 'askgaybros': 7, 'actuallesbians': 5, 'NarcissisticAbuse': 5, 'selfharm': 5, 'DeadBedrooms': 4, 'MtF': 4, 'AlAnon': 3, 'JUSTNOMIL': 3, 'ttcafterloss': 3, 'socialanxiety': 3, 'FriendshipAdvice': 2, 'adultery': 2, 'LSD': 2, 'JUSTNOFAMILY': 2, 'lonely': 2, 'abuse': 2, 'depression': 2, 'Anxiety': 2, 'asktransgender': 2, 'SuicideWatch': 2, 'trees': 2, 'verbalabuse': 1, 'ForeverAlone': 1, 'friendship': 1, 'ftm': 1, 'gaymers': 1, 'EDAnonymous': 1, 'family': 1, 'rapecounseling': 1, 'MadeOfStyrofoam': 1, 'stopdrinking': 1, 'drugscirclejerk': 1, 'lgbt': 1, 'FamilyIssues': 1, 'Drugs': 1, 'shrooms': 1, 'survivinginfidelity': 1, 'asexuality': 1, 'emotionalabuse': 1, 'bullying': 1, 'SuicideBereavement': 1, 'NRelationships': 1, 'domesticviolence': 1, 'LGBTeens': 1, 'cripplingalcoholism': 1, 'bisexual': 1}
+
+178
+['lgbt', 'lgbt people', 'people', 'gay', 'like', 'asexual', 'know', 'just', 'queer', 'think', 'support', 'subreddits', 'sub', 'lgbtmunity', 'thank', 'sexuality', 'straight', 'question', 'don', 'list']
+{'lgbt': 16, 'asktransgender': 2, 'RightwingLGBT': 2, 'askgaybros': 2, 'LGBTeens': 2, 'transgendercirclejerk': 2, 'bisexual': 1, 'LesbianActually': 1, 'asexuality': 1, 'actuallesbians': 1, 'ask_transgender': 1, 'adultsurvivors': 1, 'gaymers': 1, 'gay': 1, 'ainbow': 1, 'pansexual': 1}
+
+65
+['anxiety', 'english', 'anxiety attack', 'attack', 'sorry', 'higher', 'just', 'spanish', 'like', 'having', 'sorry english', 'having anxiety', 'language', 'fear', 'really', 'don', 'cheating', 'english native', 'know', 'bad']
+{'Anxiety': 12, 'depression': 5, 'relationship_advice': 2, 'HealthAnxiety': 2, 'leaves': 2, 'SuicideWatch': 2, 'raisedbynarcissists': 1, 'actuallesbians': 1, 'Needafriend': 1, 'socialanxiety': 1, 'AskDrugNerds': 1, 'StackAdvice': 1, 'Anxietyhelp': 1, 'LSD': 1, 'lonely': 1, 'gay': 1, 'highschool': 1, 'DiagnoseMe': 1, 'survivinginfidelity': 1, 'Psychonaut': 1, 'relationships': 1, 'raisedbyborderlines': 1}
+
+204
+['want', 'don', 'don want', 'just', 'anymore', 'feel', 'know', 'life', 'just want', 'like', 'live', 'care', 'don know', 've', 'people', 'just don', 'really', 'time', 'think', 'day']
+{'depression': 76, 'SuicideWatch': 48, 'relationship_advice': 19, 'lonely': 8, 'selfharm': 5, 'raisedbynarcissists': 5, 'depressed': 5, 'Anxiety': 5, 'stopdrinking': 4, 'NarcissisticAbuse': 4, 'EDAnonymous': 4, 'Needafriend': 3, 'askgaybros': 3, 'LGBTeens': 2, 'leaves': 2, 'GriefSupport': 2, 'cocaine': 1, 'EstrangedAdultChild': 1, 'asktransgender': 1, 'relationships': 1, 'JUSTNOMIL': 1, 'socialanxiety': 1, 'adultsurvivors': 1, 'ftm': 1, 'Marriage': 1, 'lgbt': 1, 'survivinginfidelity': 1, 'OpiatesRecovery': 1, 'widowers': 1, 'domesticviolence': 1, 'MakeNewFriendsHere': 1, 'bisexual': 1, 'rapecounseling': 1, 'Psychonaut': 1}
+
+36
+['shrooms', 'trip', 'acid', 'dmt', 'taking', 'tripping', 'shrooms time', 'time', 'grams', 'just', 'lsd', 'psychedelics', 'experience', 'dose', 'like', 'know', 'gs', 'th', 've', 'took']
+{'shrooms': 48, 'Drugs': 17, 'LSD': 10, 'Psychonaut': 5, 'researchchemicals': 2, 'shroomers': 2, 'dxm': 1}
+
+10
+['group', 'friend group', 'friends', 'friend', 'group friends', 'people', 'like', 'just', 'really', 'know', 'join', 'feel', 'don', 'make', 'want', 've', 'group chat', 'chat', 'time', 'didn']
+{'relationship_advice': 19, 'depression': 12, 'lonely': 6, 'MakeNewFriendsHere': 6, 'relationships': 5, 'Anxiety': 5, 'stopdrinking': 4, 'FriendshipAdvice': 4, 'SuicideWatch': 3, 'Needafriend': 2, 'MtF': 2, 'raisedbynarcissists': 2, 'trees': 2, 'socialanxiety': 2, 'widowers': 2, 'drugscirclejerk': 1, 'EDAnonymous': 1, 'bisexual': 1, 'AlAnon': 1, 'truelesbians': 1, 'ftm': 1, 'vaporents': 1, 'fuckeatingdisorders': 1, 'transgamers': 1, 'LesbianActually': 1, 'loseit': 1, 'ForeverAlone': 1, 'Drugs': 1, 'lgbt': 1, 'asexuality': 1}
+
+107
+['trans', 'like', 'people', 'trans people', 'just', 'woman', 'know', 've', 'don', 'really', 'cis', 'gender', 'women', 'trans person', 'feel', 'trans woman', 'want', 'person', 'male', 'girl']
+{'asktransgender': 40, 'ftm': 33, 'MtF': 18, 'lgbt': 16, 'transgendercirclejerk': 16, 'trans': 14, 'GCdebatesQT': 5, 'mypartneristrans': 4, 'LGBTeens': 4, 'transgenderUK': 4, 'ask_transgender': 3, 'depression': 3, 'relationship_advice': 2, 'TransSpace': 2, 'actuallesbians': 1, 'raisedbynarcissists': 1, 'truelesbians': 1, 'transvoice': 1, 'AskLGBT': 1, 'gay': 1, 'RightwingLGBT': 1, 'askgaybros': 1}
+
+106
+['dont', 'dont want', 'want', 'im', 'just', 'like', 'dont know', 'know', 'feel', 'really', 'friends', 'life', 'just want', 'things', 'ive', 'people', 'love', 'think', 'talk', 'care']
+{'depression': 23, 'SuicideWatch': 19, 'relationship_advice': 18, 'relationships': 6, 'Anxiety': 6, 'EDAnonymous': 5, 'Needafriend': 5, 'askgaybros': 4, 'lgbt': 4, 'ftm': 3, 'raisedbynarcissists': 3, 'MakeNewFriendsHere': 3, 'trans': 2, 'Anxietyhelp': 2, 'SuicideBereavement': 2, 'adultery': 2, 'trees': 1, 'AlAnon': 1, 'bisexual': 1, 'Marriage': 1, 'stopdrinking': 1, 'Drugs': 1, 'AnxietyDepression': 1, 'friendship': 1, 'OpiatesRecovery': 1, 'actuallesbians': 1, 'gay': 1, 'saplings': 1, 'lonely': 1, 'family': 1, 'ttcafterloss': 1, 'MadeOfStyrofoam': 1, 'dryalcoholics': 1, 'mypartneristrans': 1, 'leaves': 1, 'MtF': 1, 'shrooms': 1, 'asktransgender': 1, 'selfharm': 1}
+
+179
+['wanna', 'just wanna', 'just', 'wanna talk', 'wanna die', 'talk', 'die', 'anybody', 'don', 'wanna know', 'wanna say', 'know', 'like', 'don wanna', 'people', 'yo', 'feel', 'idk', 'want', 'friends']
+{'depression': 13, 'MakeNewFriendsHere': 11, 'SuicideWatch': 6, 'MadeOfStyrofoam': 5, 'Needafriend': 5, 'EDAnonymous': 4, 'cocaine': 3, 'lgbt': 3, 'lonely': 3, 'snapchat': 3, 'ftm': 3, 'trees': 2, 'socialanxiety': 2, 'relationship_advice': 2, 'Drugs': 2, 'asktransgender': 2, 'ForeverAlone': 1, 'actuallesbians': 1, 'bisexual': 1, 'DiagnoseMe': 1, 'Anxiety': 1, 'vaporents': 1, 'BingeEatingDisorder': 1, 'LSD': 1, 'Stims': 1, 'shrooms': 1, 'MiddleSchool': 1, 'trans': 1, 'researchchemicals': 1}
+
+158
+['iwndwyt', 'day', 'thank', 'days', 've', 'drinking', 'life', 'alcohol', 'time', 'day day', 'today', 'sober', 'let', 'weekend', 'wine', 'proud', 'drink', 'going', 'month', 'hope']
+{'stopdrinking': 77, 'leaves': 5, 'alcoholism': 2, 'ForeverAlone': 1, 'quittingkratom': 1, 'Petloss': 1, 'adultery': 1, 'EDAnonymous': 1, 'MakeNewFriendsHere': 1, 'depression': 1, 'Anxiety': 1, 'loseit': 1, 'Drugs': 1}
+
+82
+['brother', 'family', 'mom', 'told', 'just', 'dad', 'like', 'don', 'time', 'wife', 'know', 'little brother', 'really', 'sister', 'house', 'help', 'son', 'didn', 'older', 'want']
+{'relationship_advice': 21, 'raisedbynarcissists': 14, 'relationships': 5, 'GriefSupport': 4, 'FamilyIssues': 3, 'family': 3, 'JUSTNOFAMILY': 3, 'stopdrinking': 2, 'SuicideWatch': 2, 'adultsurvivors': 2, 'transpositive': 1, 'NRelationships': 1, 'ForeverAlone': 1, 'EstrangedAdultChild': 1, 'leaves': 1, 'Drugs': 1, 'JUSTNOMIL': 1, 'lgbt': 1, 'depression': 1, 'StopSpeeding': 1, 'askgaybros': 1, 'survivinginfidelity': 1, 'AnxietyDepression': 1, 'widowers': 1}
+
+217
+['talk', 'want talk', 'want', 'need talk', 'just', 'talk talk', 'need', 'people talk', 'bored', 'talk really', 'people', 'just want', 'wont', 'don', 'really', 'looking', 'just need', 'lonely', 'hi', 'talk feel']
+{'Needafriend': 15, 'MakeNewFriendsHere': 14, 'depression': 11, 'lonely': 4, 'relationship_advice': 2, 'cocaine': 1, 'Anxiety': 1, 'bullying': 1, 'lgbt': 1, 'askgaybros': 1, 'textfriends': 1, 'relationships': 1, 'Marriage': 1, 'actuallesbians': 1, 'trees': 1, 'SuicideWatch': 1, 'selfharm': 1, 'socialanxiety': 1, 'LGBTeens': 1, 'EDAnonymous': 1}
+
+177
+['feelings', 'friend', 'know', 'friends', 'just', 'relationship', 'don', 've', 'want', 'like', 'best', 'girl', 'really', 'best friend', 'told', 'time', 'friendship', 'don know', 'love', 'feel']
+{'relationship_advice': 53, 'relationships': 21, 'askgaybros': 5, 'SuicideWatch': 3, 'actuallesbians': 3, 'depression': 2, 'FriendshipAdvice': 1, 'raisedbynarcissists': 1, 'stopdrinking': 1, 'bisexual': 1, 'asexuality': 1, 'transpositive': 1, 'lonely': 1, 'selfharm': 1, 'LGBTeens': 1, 'quittingkratom': 1}
+
+66
+['ketamine', 'cocaine', 'experience', 'mg', 'mdma', 'lsd', 'amphetamine', 'rave', 'like', 'time', 'just', 'drug', 'hole', 'theedown', 'treatment', 'got', 'good', 'experienced', 'meo', 've']
+{'Drugs': 17, 'LSD': 3, 'Psychonaut': 3, 'depression': 2, 'Stims': 1, 'researchchemicals': 1, 'depressionregimens': 1, 'askdrugs': 1, 'Anxiety': 1}
+
+127
+['ve', 'just', 'things', 'like', 'time', 'really', 'don', 'know', 'going', 'years', 'think', 'want', 'll', 'doesn', 'way', 'say', 'feel', 'past', 'make', 'thing']
+{'relationship_advice': 134, 'depression': 48, 'raisedbynarcissists': 35, 'relationships': 32, 'ftm': 16, 'Anxiety': 15, 'SuicideWatch': 15, 'NarcissisticAbuse': 14, 'DeadBedrooms': 13, 'stopdrinking': 13, 'askgaybros': 13, 'loseit': 11, 'JUSTNOMIL': 10, 'trees': 9, 'actuallesbians': 9, 'asktransgender': 8, 'Drugs': 8, 'survivinginfidelity': 7, 'socialanxiety': 7, 'asexuality': 6, 'selfharm': 6, 'Psychonaut': 5, 'ForeverAlone': 5, 'MtF': 5, 'trans': 5, 'cripplingalcoholism': 5, 'EDAnonymous': 4, 'survivorsofabuse': 4, 'adultery': 4, 'DiagnoseMe': 4, 'HealthAnxiety': 4, 'OpiatesRecovery': 4, 'LSD': 3, 'GriefSupport': 3, 'AlAnon': 3, 'lonely': 3, 'leaves': 3, 'alcoholicsanonymous': 3, 'bisexual': 3, 'Needafriend': 3, 'Stims': 3, 'raisedbyborderlines': 2, 'friendship': 2, 'MDMA': 2, 'family': 2, 'widowers': 2, 'depressionregimens': 2, 'LGBTeens': 2, 'gay': 2, 'StackAdvice': 2, 'lgbt': 2, 'cocaine': 2, 'StopSpeeding': 2, 'JUSTNOFAMILY': 2, 'AskLGBT': 2, 'penpals': 2, 'babyloss': 2, 'alcoholism': 1, 'ask_transgender': 1, 'ttcafterloss': 1, 'transgenderau': 1, 'BingeEatingDisorder': 1, 'shrooms': 1, 'abuse': 1, 'emotionalabuse': 1, 'Petloss': 1, 'AnxietyDepression': 1, 'adultsurvivors': 1, 'MakeNewFriendsHere': 1, 'Alcoholism_Medication': 1, 'FamilyIssues': 1, 'researchchemicals': 1, 'SelfHarmScars': 1, 'phenibut': 1, 'adderall': 1, 'Marriage': 1, 'fuckeatingdisorders': 1, 'BodyAcceptance': 1, 'loneliness': 1, 'EOOD': 1, 'transpositive': 1, 'domesticviolence': 1, 'bisexualadults': 1, 'quittingkratom': 1, 'NRelationships': 1, 'gaybros': 1, 'rapecounseling': 1, 'transgenderUK': 1, 'MiddleSchool': 1, 'microgrowery': 1, 'REDDITORSINRECOVERY': 1, 'SuicideBereavement': 1, 'MadeOfStyrofoam': 1}
+
+200
+['sex', 'just', 'want', 'don', 'like', 've', 'having sex', 'relationship', 'feel', 'time', 'sexual', 'know', 'sex life', 'really', 'having', 'want sex', 'life', 'times', 'love', 'years']
+{'relationship_advice': 72, 'DeadBedrooms': 53, 'asexuality': 17, 'relationships': 13, 'askgaybros': 11, 'adultery': 10, 'Marriage': 5, 'asktransgender': 3, 'actuallesbians': 3, 'ForeverAlone': 3, 'bisexual': 3, 'Drugs': 2, 'gay': 2, 'adultsurvivors': 2, 'gaybros': 2, 'NarcissisticAbuse': 1, 'truelesbians': 1, 'ftm': 1, 'lgbt': 1, 'DiagnoseMe': 1, 'AlAnon': 1, 'GCdebatesQT': 1, 'loveafterporn': 1, 'survivinginfidelity': 1, 'depression': 1, 'LesbianActually': 1}
+
+236
+['just', 'like', 'does', 'time', 'good', 'know', 'think', 'don', 've', 'better', 'really', 'use', 'look', 'want', 'best', 'right', 'thanks', 'day', 'did', 'questions']
+{'depression': 64, 'trees': 60, 'askgaybros': 54, 'Drugs': 40, 'stopdrinking': 31, 'SuicideWatch': 28, 'relationship_advice': 28, 'EDAnonymous': 28, 'raisedbynarcissists': 26, 'LSD': 23, 'ftm': 23, 'asktransgender': 22, 'Anxiety': 21, 'MtF': 20, 'MakeNewFriendsHere': 20, 'Stims': 19, 'shrooms': 19, 'cocaine': 18, 'NarcissisticAbuse': 16, 'researchchemicals': 15, 'selfharm': 15, 'lgbt': 15, 'vaporents': 15, 'HealthAnxiety': 14, 'microgrowery': 14, 'bisexual': 12, 'Nootropics': 12, 'MadeOfStyrofoam': 12, 'adultery': 11, 'MDMA': 11, 'actuallesbians': 10, 'Psychonaut': 9, 'alcoholicsanonymous': 9, 'drunk': 9, 'leaves': 9, 'asexuality': 9, 'transgendercirclejerk': 8, 'DeadBedrooms': 8, 'lonely': 7, 'socialanxiety': 7, 'ForeverAlone': 7, 'loseit': 7, 'StackAdvice': 7, 'cripplingalcoholism': 7, 'DiagnoseMe': 6, 'adultsurvivors': 6, 'gaybros': 6, 'ttcafterloss': 6, 'relationships': 5, 'kratom': 5, 'RightwingLGBT': 5, 'TheeHive': 5, 'transgamers': 4, 'drugscirclejerk': 4, 'raisedbyborderlines': 4, 'loveafterporn': 4, 'JUSTNOMIL': 4, 'AskDrugNerds': 4, 'truelesbians': 3, 'quittingkratom': 3, 'AlAnon': 3, 'askdrugs': 3, 'GriefSupport': 3, 'Crainn': 3, 'EOOD': 3, 'ask_transgender': 3, 'saplings': 3, 'transpositive': 2, 'BingeEatingDisorder': 2, 'dxm': 2, 'Marriage': 2, 'adderall': 2, 'StopSpeeding': 2, 'REDDITORSINRECOVERY': 2, 'AnxietyDepression': 2, 'Petioles': 2, 'meth': 2, 'phenibut': 2, 'trans': 2, 'abuse': 2, 'gay': 2, 'SelfHarmScars': 2, 'MiddleSchool': 2, 'afinil': 2, 'Needafriend': 2, 'JUSTNOFAMILY': 2, 'OutlandishAlcoholics': 2, 'transgenderUK': 2, 'agender': 1, 'transvoice': 1, 'LesbianActually': 1, 'textfriends': 1, 'survivinginfidelity': 1, 'GCdebatesQT': 1, 'depressionregimens': 1, 'transhealth': 1, 'Blanchardianism': 1, 'dryalcoholics': 1, 'gaymers': 1, 'BodyAcceptance': 1, 'SuicideBereavement': 1, 'replications': 1, 'StopSelfHarm': 1, 'shroomers': 1, 'Petloss': 1, 'snapchat': 1, 'fatlogic': 1, 'EatingDisorders': 1, 'genderfluid': 1, 'bibros': 1, 'DrugNerds': 1, 'survivorsofabuse': 1, 'pillhead': 1, 'Sadness': 1, 'transgenderau': 1, 'LGBTeens': 1, 'OpiatesRecovery': 1}
+
+221
+['blood pressure', 'pressure', 'blood', 'high blood', 'high', 'bp', 'anxiety', 'meds', 'gaba', 'pulse', 'twice week', 'stroke', 'feel', 'doctor', 'forehead', 'gauge', 'concerta', 'just', 'eat', 'goes']
+{'Drugs': 3, 'HealthAnxiety': 3, 'loseit': 2, 'depressionregimens': 1, 'shrooms': 1, 'Anxiety': 1, 'kratom': 1, 'phenibut': 1, 'trees': 1, 'leaves': 1, 'StackAdvice': 1, 'SuicideWatch': 1, 'ftm': 1, 'Anxietyhelp': 1, 'asktransgender': 1, 'stopdrinking': 1}
+
+165
+['people', 'just', 'like', 'don', 'feel', 'think', 'person', 'know', 'say', 'really', 'life', 'want', 'people don', 've', 'understand', 'people just', 'look', 'make', 'way', 'talking']
+{'depression': 32, 'socialanxiety': 17, 'SuicideWatch': 14, 'Anxiety': 9, 'relationship_advice': 9, 'ForeverAlone': 8, 'lgbt': 7, 'raisedbynarcissists': 7, 'askgaybros': 7, 'ftm': 5, 'lonely': 5, 'EDAnonymous': 5, 'asktransgender': 5, 'Psychonaut': 4, 'asexuality': 4, 'MakeNewFriendsHere': 4, 'NarcissisticAbuse': 3, 'MtF': 3, 'Stims': 2, 'transgendercirclejerk': 2, 'selfharm': 2, 'LSD': 2, 'Needafriend': 2, 'actuallesbians': 2, 'shrooms': 1, 'trans': 1, 'friendship': 1, 'Nootropics': 1, 'stopdrinking': 1, 'loneliness': 1, 'gaybros': 1, 'AnxietyDepression': 1, 'trees': 1, 'widowers': 1, 'Petioles': 1, 'Drugs': 1, 'pansexual': 1, 'Alcoholism_Medication': 1, 'leaves': 1, 'DiagnoseMe': 1, 'LGBTeens': 1, 'bullying': 1, 'LGBTaspies': 1, 'gay': 1, 'LesbianActually': 1, 'DeadBedrooms': 1, 'ainbow': 1, 'family': 1}
+
+101
+['new friends', 'new', 'friends', 'make new', 'looking', 'looking new', 'meet', 'meet new', 'talk', 'people', 'make', 'new people', 'hey', 'im', 'chat', 'making new', 'friends hey', 'music', 'looking make', 'need new']
+{'MakeNewFriendsHere': 26, 'Needafriend': 8, 'relationship_advice': 3, 'friendship': 3, 'socialanxiety': 2, 'relationships': 2, 'gay': 1, 'stopdrinking': 1, 'depression': 1, 'snapchat': 1, 'SuicideWatch': 1, 'penpals': 1}
+
+161
+['god', 'oh god', 'oh', 'pray', 'prayer', 'just', 'day', 'like', 'universe', 'earth', 'bet', 'life', 'don', 'shit', 'thank god', 'live', 'faith', 'time', 'help', 'know']
+{'alcoholicsanonymous': 8, 'depression': 6, 'Anxiety': 6, 'Psychonaut': 4, 'raisedbynarcissists': 3, 'lonely': 3, 'EDAnonymous': 2, 'cripplingalcoholism': 2, 'actuallesbians': 2, 'ftm': 2, 'LSD': 2, 'pansexual': 1, 'trees': 1, 'bullying': 1, 'MtF': 1, 'Drugs': 1, 'quittingkratom': 1, 'shrooms': 1, 'MakeNewFriendsHere': 1, 'StackAdvice': 1, 'gay': 1, 'LGBTeens': 1, 'SuicideWatch': 1, 'Stims': 1, 'ForeverAlone': 1, 'truelesbians': 1, 'askgaybros': 1, 'relationship_advice': 1, 'asexuality': 1, 'selfharm': 1, 'phenibut': 1, 'socialanxiety': 1}
+
+87
+['adderall', 'mg', 'mg adderall', 'xr', 'adhd', 'effects', 'feel', 'day', 'addy', 'like', 've', 'just', 'took', 'vyvanse', 'prescribed', 'felt', 'taking', 'ir', 'tolerance', 'dose']
+{'Drugs': 19, 'adderall': 17, 'Stims': 7, 'StopSpeeding': 3, 'AskDrugNerds': 2, 'pillhead': 1, 'dxm': 1, 'StackAdvice': 1, 'stopdrinking': 1, 'Nootropics': 1, 'drugscirclejerk': 1, 'EDAnonymous': 1, 'DiagnoseMe': 1, 'depression': 1, 'LSD': 1}
+
+207
+['tripping', 'acid', 'trip', 'lsd', 'time', 'tripped', 'ideas', 'like', 'time tripping', 'balls', 'think', 'tab', 'taking', 'mescaline', 'tabs', 'know', 'tonight', 'trips', 've tripped', 'dropping']
+{'LSD': 28, 'Drugs': 6, 'Psychonaut': 5, 'shrooms': 3, 'stopdrinking': 1, 'cocaine': 1}
+
+235
+['eating disorder', 'eating', 'disorder', 'eat', 'food', 'just', 'don', 'weight', 've', 'like', 'calories', 'thing', 'bmi', 'tired', 'underweight', 'day', 'feel', 'ate', 'water', 'binge eating']
+{'EDAnonymous': 15, 'EatingDisorders': 3, 'BingeEatingDisorder': 2, 'SuicideWatch': 2, 'Petioles': 1, 'loseit': 1, 'depressed': 1, 'leaves': 1, 'EatingDisorderHope': 1, 'depression': 1}
+
+100
+['just', 'like', 'really', 'didn', 'time', 'know', 'felt', 'don', 'told', 'things', 'feel', 'said', 'did', 'relationship', 've', 'friend', 'started', 'got', 'talk', 'wanted']
+{'relationship_advice': 138, 'relationships': 30, 'depression': 28, 'NarcissisticAbuse': 9, 'SuicideWatch': 7, 'FriendshipAdvice': 7, 'Anxiety': 4, 'ftm': 4, 'DeadBedrooms': 4, 'askgaybros': 3, 'AnxietyDepression': 3, 'Drugs': 3, 'raisedbynarcissists': 3, 'asexuality': 3, 'asktransgender': 2, 'lonely': 2, 'depressed': 2, 'adultery': 2, 'stopdrinking': 2, 'JUSTNOFAMILY': 2, 'LSD': 2, 'socialanxiety': 2, 'loveafterporn': 2, 'selfharm': 2, 'gaybros': 1, 'survivinginfidelity': 1, 'ask_transgender': 1, 'domesticviolence': 1, 'Marriage': 1, 'Needafriend': 1, 'quittingkratom': 1, 'SuicideBereavement': 1, 'cocaine': 1, 'bisexual': 1, 'AlAnon': 1, 'LesbianActually': 1, 'mypartneristrans': 1, 'Psychonaut': 1, 'actuallesbians': 1, 'abuse': 1, 'EOOD': 1, 'TransSpace': 1, 'leaves': 1, 'widowers': 1, 'GriefSupport': 1, 'survivorsofabuse': 1, 'Petloss': 1, 'lgbt': 1, 'JUSTNOMIL': 1}
+
+24
+['coke', 'cocaine', 'line', 'gram', 'crack', 've', 'like', 'just', 'doing', 'nose', 'shit', 'high', 'tonight', 'weed', 'snorting', 'od', 'got', 'addictive', 'blow', 'time']
+{'cocaine': 30, 'Drugs': 20, 'EDAnonymous': 3, 'Psychonaut': 1, 'stopdrinking': 1, 'MDMA': 1, 'leaves': 1, 'MadeOfStyrofoam': 1, 'drugscirclejerk': 1, 'LSD': 1}
+
+238
+['girl', 'like', 'really', 'don', 'just', 'know', 'said', 'friends', 'time', 've', 'girl like', 'like girl', 'want', 'friend', 'met', 'told', 'girls', 'talking', 'cute', 'ask']
+{'relationship_advice': 92, 'relationships': 17, 'actuallesbians': 12, 'askgaybros': 6, 'lgbt': 6, 'ForeverAlone': 5, 'asktransgender': 5, 'ftm': 4, 'MtF': 4, 'LGBTeens': 4, 'asexuality': 4, 'gay': 3, 'socialanxiety': 3, 'lonely': 2, 'depression': 2, 'bisexual': 2, 'LesbianActually': 2, 'raisedbynarcissists': 2, 'Anxiety': 2, 'GCdebatesQT': 1, 'transgenderUK': 1, 'LSD': 1, 'bullying': 1, 'FriendshipAdvice': 1, 'drunk': 1, 'MiddleSchool': 1, 'pansexual': 1, 'trans': 1, 'DeadBedrooms': 1, 'NarcissisticAbuse': 1, 'MakeNewFriendsHere': 1}
+
+218
+['players', 'time zone', 'zone', 'play', 'ps', 'est', 'looking', 'football', 'meeting', 'new', 'time', 'guild', 'evening', 'hey', 'know', 'server', 'guys', 'joe', 'favorite', 'updated']
+{'MakeNewFriendsHere': 4, 'gaymers': 3, 'askgaybros': 2, 'transgamers': 1, 'alcoholicsanonymous': 1, 'ftm': 1, 'MiddleSchool': 1}
+
+224
+['birthday', 'gift', 'happy', 'happy birthday', 'don', 'just', 'today', 'day', 'year', 'really', 'like', 'want', 'bday', 'know', 'time', 'gifts', 'card', 'got', 'boyfriend', 'friends']
+{'relationship_advice': 14, 'depression': 11, 'raisedbynarcissists': 10, 'SuicideWatch': 5, 'stopdrinking': 4, 'relationships': 4, 'JUSTNOMIL': 3, 'JUSTNOFAMILY': 2, 'MakeNewFriendsHere': 2, 'raisedbyborderlines': 2, 'SuicideBereavement': 2, 'ftm': 2, 'lonely': 2, 'FriendshipAdvice': 2, 'widowers': 2, 'DeadBedrooms': 1, 'leaves': 1, 'friendship': 1, 'MadeOfStyrofoam': 1, 'alcoholism': 1, 'GriefSupport': 1, 'LSD': 1, 'snapchat': 1, 'depressed': 1, 'EDAnonymous': 1, 'family': 1, 'Needafriend': 1, 'asktransgender': 1}
+
+208
+['mg', 'dose', 'effects', 'taking', 'dosage', 'like', 'high', 've', 'vyvanse', 'just', 'prescribed', 'taking mg', 'lexapro', 'like mg', 'day', 'feel', 'dose mg', 'effect', 'started', 'edible']
+{'Drugs': 26, 'researchchemicals': 12, 'asktransgender': 10, 'trees': 7, 'dxm': 6, 'adderall': 6, 'depression': 5, 'depressionregimens': 5, 'Anxiety': 4, 'Stims': 4, 'MDMA': 4, 'MtF': 3, 'OpiatesRecovery': 2, 'afinil': 1, 'AskDrugNerds': 1, 'Alcoholism_Medication': 1, 'Nootropics': 1, 'ftm': 1, 'relationship_advice': 1, 'socialanxiety': 1, 'cocaine': 1, 'phenibut': 1, 'askdrugs': 1, 'transgenderUK': 1, 'quittingkratom': 1, 'kratom': 1, 'Psychonaut': 1, 'stopdrinking': 1}
+
+75
+['job', 'work', 'new job', 'just', 'new', 'got job', 've', 'working', 'like', 'got', 'good', 'interview', 'feel', 'time', 'don', 'want', 'years', 'months', 'day', 'anxiety']
+{'depression': 22, 'relationship_advice': 13, 'Anxiety': 13, 'trees': 5, 'relationships': 5, 'SuicideWatch': 5, 'socialanxiety': 4, 'stopdrinking': 3, 'askgaybros': 3, 'MtF': 2, 'JUSTNOMIL': 2, 'alcoholism': 1, 'HealthAnxiety': 1, 'Drugs': 1, 'SelfHarmScars': 1, 'depressed': 1, 'asktransgender': 1, 'actuallesbians': 1, 'Needafriend': 1, 'leaves': 1, 'DeadBedrooms': 1, 'selfharm': 1, 'drunk': 1, 'MakeNewFriendsHere': 1, 'raisedbynarcissists': 1, 'EDAnonymous': 1, 'Anxietyhelp': 1}
+
+133
+['nmom', 'nc', 'dad', 'contact', 'going nc', 'mother', 'going', 'life', 'daughter', 'getting', 'nparents', 'abuse', 'family', 'like', 'feel', 'phone', 'things', 'just', 'aunt', 'number']
+{'raisedbynarcissists': 38, 'raisedbyborderlines': 1, 'JUSTNOFAMILY': 1}
+
+89
+['ug', 'trip', 'tabs', 'lsd', 'dose', 'acid', 'ug trip', 'tab', 'time', 'tripping', 'trips', 'experience', 'tripped', 've', 'took', 'ug tab', 'visuals', 'ug lsd', 'tolerance', 'dropped']
+{'LSD': 59, 'Drugs': 5, 'Psychonaut': 1, 'askdrugs': 1}
+
+229
+['dxm', 'mg', 'trip', 'plat', 'weed', 'just', 'bottle', 'time', 've', 'st', 'cough', 'rd', 'high', 'plateau', 'like', 'try', 'tripping', 'does', 'dose', 'feel']
+{'dxm': 31, 'Drugs': 6, 'askdrugs': 1, 'ForeverAlone': 1, 'researchchemicals': 1}
+
+67
+['vape', 'vaping', 'weed', 'use', 'smoke', 'dynavap', 'new', 'just', 'vaporizer', 'vapes', 'pen', 'solo', 'dab', 'herb', 'fury', 'deaths', 'bowl', 'smoking', 'got', 'extreme']
+{'vaporents': 27, 'trees': 15, 'Drugs': 6, 'DrugNerds': 1, 'Stims': 1, 'relationship_advice': 1, 'microgrowery': 1, 'leaves': 1}
+
+84
+['music', 'listen', 'like', 'listening', 'favorite', 'listen music', 'love', 'just', 'looking', 'talk', 'stuff', 'rock', 'metal', 'classical', 'new', 'feel', 'music like', 'message', 'genres', 'things']
+{'MakeNewFriendsHere': 21, 'depression': 7, 'Drugs': 5, 'trees': 5, 'Needafriend': 5, 'Anxiety': 5, 'raisedbynarcissists': 3, 'Psychonaut': 3, 'LSD': 3, 'MDMA': 2, 'penpals': 2, 'lonely': 2, 'widowers': 1, 'phenibut': 1, 'adultery': 1, 'dxm': 1, 'socialanxiety': 1, 'transgenderteens': 1, 'ftm': 1, 'actuallesbians': 1, 'survivinginfidelity': 1}
+
+220
+['beer', 'drink', 'drinking', 'alcohol', 'drinking beer', 'day', 'beers', 'drunk', 'liquor', 'did', 'today', 'went', 'just', 'fridge', 'like', 'got', 'days', 'sleep', 'sam', 've']
+{'stopdrinking': 19, 'cripplingalcoholism': 5, 'drunk': 3, 'fatlogic': 2, 'cocaine': 1, 'SuicideWatch': 1, 'StackAdvice': 1, 'MDMA': 1, 'alcoholism': 1, 'Drugs': 1, 'Marriage': 1, 'relationship_advice': 1}
+
+85
+['mdma', 'pills', 'lsd', 'cb', 'drugs', 'safe', 'taking', 'just', 'mg', 'pill', 'like', 'experience', 'time', 'dose', 'effects', 'know', 'acid', 'effect', 'night', 've']
+{'MDMA': 44, 'Drugs': 24, 'LSD': 6, 'askdrugs': 4, 'TheeHive': 3, 'Stims': 3, 'researchchemicals': 1, 'Psychonaut': 1, 'AskDrugNerds': 1}
+
+25
+['dad', 'mom', 'told', 'said', 'just', 'aunt', 'mad', 'got', 'like', 'brother', 'know', 'family', 'really', 'feel', 'parents', 'don', 'didn', 'went', 'time', 'wanted']
+{'relationship_advice': 11, 'raisedbynarcissists': 7, 'GriefSupport': 5, 'JUSTNOFAMILY': 4, 'depression': 3, 'relationships': 3, 'ftm': 2, 'EstrangedAdultChild': 2, 'JUSTNOMIL': 1, 'Anxiety': 1, 'raisedbyborderlines': 1, 'HealthAnxiety': 1, 'NarcissisticAbuse': 1, 'selfharm': 1, 'stopdrinking': 1, 'family': 1, 'EDAnonymous': 1, 'SuicideWatch': 1, 'LGBTeens': 1, 'DeadBedrooms': 1, 'abuse': 1}
+
+38
+['parents', 'just', 'don', 'want', 'tell', 'like', 'feel', 'know', 'mom', 've', 'll', 'time', 'think', 'going', 'say', 'really', 'family', 'need', 'hate', 'years']
+{'raisedbynarcissists': 28, 'relationship_advice': 21, 'depression': 20, 'SuicideWatch': 13, 'selfharm': 5, 'JUSTNOFAMILY': 4, 'relationships': 4, 'lgbt': 3, 'Anxiety': 3, 'asktransgender': 2, 'raisedbyborderlines': 2, 'ftm': 2, 'MtF': 2, 'asexuality': 1, 'actuallesbians': 1, 'ainbow': 1, 'socialanxiety': 1, 'EDAnonymous': 1, 'DeadBedrooms': 1, 'FamilyIssues': 1, 'emotionalabuse': 1, 'gaybros': 1, 'ttcafterloss': 1, 'bibros': 1, 'cripplingalcoholism': 1, 'MadeOfStyrofoam': 1, 'Petloss': 1, 'ForeverAlone': 1, 'lonely': 1}
+
+228
+['im', 'just', 'dont', 'like', 'ive', 'really', 'feel', 'know', 'im just', 'didnt', 'want', 'friends', 'time', 'friend', 'think', 'idk', 'people', 'said', 'life', 'talk']
+{'relationship_advice': 34, 'depression': 21, 'lonely': 10, 'SuicideWatch': 8, 'relationships': 7, 'raisedbynarcissists': 6, 'ftm': 6, 'EDAnonymous': 4, 'LGBTeens': 4, 'askgaybros': 4, 'selfharm': 3, 'Anxiety': 3, 'LSD': 3, 'MakeNewFriendsHere': 2, 'gay': 2, 'asexuality': 2, 'bisexual': 2, 'OpiatesRecovery': 2, 'stopdrinking': 2, 'socialanxiety': 2, 'friendship': 2, 'depressed': 2, 'dryalcoholics': 2, 'actuallesbians': 2, 'genderqueer': 1, 'transpositive': 1, 'MadeOfStyrofoam': 1, 'LesbianActually': 1, 'MtF': 1, 'NarcissisticAbuse': 1, 'loveafterporn': 1, 'MDMA': 1, 'asktransgender': 1, 'Nootropics': 1, 'HealthAnxiety': 1, 'dxm': 1, 'DeadBedrooms': 1, 'cripplingalcoholism': 1, 'SuicideBereavement': 1, 'FriendshipAdvice': 1, 'AnxietyDepression': 1, 'shrooms': 1, 'Drugs': 1, 'Anxietyhelp': 1, 'trees': 1}
+
+27
+['distance', 'long distance', 'long', 'relationship', 'distance relationship', 'boyfriend', 'just', 've', 'time', 'want', 'like', 'really', 'break', 'year', 'feel', 'years', 'don', 'talk', 'months', 'love']
+{'relationship_advice': 71, 'relationships': 19, 'depression': 2, 'AskLGBT': 1, 'Stress': 1, 'MakeNewFriendsHere': 1, 'LGBTeens': 1, 'Anxiety': 1, 'adultery': 1, 'Needafriend': 1}
+
+108
+['weed', 'smoked', 'high', 'smoking', 'smoke', 'smoked weed', 'just', 'good', 've', 'feel', 'like', 've smoked', 'time', 'thc', 'day', 'know', 'smoking weed', 'felt', 'don', 'does']
+{'trees': 33, 'leaves': 19, 'Drugs': 17, 'Petioles': 3, 'LSD': 2, 'Crainn': 2, 'Anxiety': 2, 'saplings': 2, 'eldertrees': 2, 'OpiatesRecovery': 1, 'shrooms': 1, 'drugscirclejerk': 1, 'Psychonaut': 1, 'meth': 1, 'snapchat': 1, 'StackAdvice': 1, 'dxm': 1, 'relationship_advice': 1, 'depression': 1}
+
+55
+['school', 'high school', 'friends', 'high', 'don', 'just', 'year', 'people', 'like', 'going', 've', 'grade', 'college', 'know', 'time', 'really', 'want', 'life', 'talk', 'feel']
+{'depression': 26, 'relationship_advice': 22, 'Anxiety': 11, 'SuicideWatch': 10, 'lonely': 8, 'lgbt': 7, 'socialanxiety': 7, 'raisedbynarcissists': 6, 'relationships': 6, 'FriendshipAdvice': 4, 'ftm': 4, 'bullying': 3, 'MiddleSchool': 3, 'MakeNewFriendsHere': 3, 'actuallesbians': 2, 'AnxietyDepression': 2, 'bisexual': 2, 'ForeverAlone': 2, 'JUSTNOMIL': 2, 'LGBTeens': 2, 'MadeOfStyrofoam': 1, 'EDAnonymous': 1, 'JUSTNOFAMILY': 1, 'Drugs': 1, 'trees': 1, 'raisedbyborderlines': 1, 'depressed': 1, 'friendship': 1, 'Needafriend': 1, 'adultsurvivors': 1, 'NarcissisticAbuse': 1, 'BodyAcceptance': 1, 'highschool': 1, 'LesbianActually': 1, 'leaves': 1}
+
+201
+['games', 'playing', 'looking', 'video games', 'video', 'friends', 'like', 'enjoy', 'interests', 'play', 'game', 'chat', 'people', 'playing games', 'just', 'age', 'games like', 'anime', 'talk', 'discord']
+{'MakeNewFriendsHere': 25, 'Needafriend': 13, 'depression': 6, 'gaymers': 3, 'relationship_advice': 2, 'textfriends': 1, 'transgamers': 1, 'penpals': 1, 'trees': 1, 'snapchat': 1, 'Marriage': 1, 'ftm': 1, 'MDMA': 1, 'lonely': 1, 'cocaine': 1, 'JUSTNOMIL': 1, 'Alcoholism_Medication': 1}
+
+35
+['mom', 'said', 'told', 'like', 'just', 'don', 'know', 'really', 'didn', 'sister', 'think', 'time', 've', 'came', 'started', 'say', 'got', 'want', 'mom said', 'going']
+{'raisedbynarcissists': 25, 'relationship_advice': 12, 'depression': 11, 'raisedbyborderlines': 11, 'ftm': 6, 'JUSTNOMIL': 5, 'SuicideWatch': 5, 'relationships': 4, 'LGBTeens': 3, 'actuallesbians': 3, 'bisexual': 3, 'GriefSupport': 2, 'lgbt': 2, 'family': 2, 'trees': 2, 'JUSTNOFAMILY': 2, 'trans': 2, 'MadeOfStyrofoam': 1, 'pansexual': 1, 'abuse': 1, 'AnxietyDepression': 1, 'selfharm': 1, 'Anxiety': 1, 'asexuality': 1, 'bullying': 1, 'depressed': 1, 'askgaybros': 1, 'loseit': 1, 'EDAnonymous': 1, 'gaybros': 1, 'Petloss': 1, 'MakeNewFriendsHere': 1, 'Drugs': 1}
+
+205
+['coping', 'coping skills', 'skills', 've', 'methods', 'anxiety', 'skill', 'advice', 'coping mechanism', 'coping mechanisms', 'just', 'need', 'mechanism', 'slice', 'mechanisms', 'ways', 'depression', 'good', 'therapy', 'sh']
+{'depression': 6, 'Anxiety': 6, 'raisedbynarcissists': 5, 'stopdrinking': 2, 'MadeOfStyrofoam': 2, 'selfharm': 2, 'alcoholicsanonymous': 1, 'LGBTeens': 1, 'HealthAnxiety': 1, 'emotionalabuse': 1, 'askgaybros': 1, 'fuckeatingdisorders': 1}
+
+86
+['relationship', 'like', 'love', 've', 'know', 'want', 'time', 'really', 'don', 'feel', 'just', 'months', 'dating', 'things', 'relationships', 'think', 'lot', 'long', 'year', 'advice']
+{'relationship_advice': 113, 'relationships': 27, 'askgaybros': 8, 'depression': 4, 'Marriage': 4, 'lonely': 4, 'LGBTeens': 3, 'bisexual': 3, 'AlAnon': 2, 'bisexualadults': 2, 'asexuality': 2, 'survivinginfidelity': 2, 'NarcissisticAbuse': 2, 'raisedbynarcissists': 1, 'actuallesbians': 1, 'gaybros': 1, 'trans': 1, 'JUSTNOMIL': 1, 'AnxietyDepression': 1, 'LesbianActually': 1, 'adultery': 1, 'FriendshipAdvice': 1, 'lgbt': 1, 'gay': 1, 'DeadBedrooms': 1, 'FamilyIssues': 1}
+
+167
+['dream', 'edibles', 'bong', 'just', 'dreams', 'like', 'woke', 'felt', 'sleep', 've', 'wanted', 'night', 'does', 'glass', 'did', 'partner', 'quitting', 'long', 'weed', 'smoke']
+{'trees': 13, 'leaves': 5, 'ForeverAlone': 5, 'depression': 3, 'stopdrinking': 2, 'Anxiety': 1, 'MakeNewFriendsHere': 1, 'lonely': 1, 'raisedbynarcissists': 1, 'JUSTNOMIL': 1, 'LSD': 1, 'Psychonaut': 1, 'relationship_advice': 1, 'widowers': 1, 'kratom': 1, 'actuallesbians': 1, 'socialanxiety': 1, 'GriefSupport': 1, 'SuicideWatch': 1, 'Drugs': 1, 'askgaybros': 1, 'EDAnonymous': 1, 'saplings': 1, 'researchchemicals': 1, 'MtF': 1}
+
+59
+['lsd', 'trip', 'experience', 'time', 'ug', 've', 'like', 'visuals', 'guys', 'taking', 'friend', 'lsd time', 'just', 'times', 'dose', 'took', 'dosage', 'tabs', 'use', 'really']
+{'LSD': 56, 'Drugs': 10, 'Psychonaut': 7, 'researchchemicals': 4, 'askdrugs': 2, 'MDMA': 2, 'Nootropics': 1, 'microgrowery': 1}
+
+97
+['today', 'day', 'today day', 'just', 'day today', 'today just', 'good day', 'did today', 'feeling', 'did', 'good', 'yesterday', 'drink', 've', 'really', 'feel', 'days', 'got', 'time', 'right']
+{'stopdrinking': 38, 'depression': 16, 'leaves': 6, 'widowers': 4, 'selfharm': 4, 'MtF': 4, 'OpiatesRecovery': 3, 'SuicideWatch': 3, 'ftm': 3, 'Anxiety': 2, 'Needafriend': 2, 'socialanxiety': 1, 'SuicideBereavement': 1, 'raisedbyborderlines': 1, 'Marriage': 1, 'askgaybros': 1, 'lonely': 1, 'Stims': 1, 'ask_transgender': 1, 'Psychonaut': 1, 'vaporents': 1, 'NarcissisticAbuse': 1, 'alcoholicsanonymous': 1, 'dryalcoholics': 1, 'LGBTeens': 1, 'trans': 1, 'EDAnonymous': 1, 'relationship_advice': 1, 'MakeNewFriendsHere': 1, 'quittingkratom': 1}
+
+83
+['songs', 'pls', 'playlist', 'need good', 'rmend', 'good', 'rmendations', 'need', 'song', 'music', 'listen', 'like', 'good vibes', 'im', 'vibes', 'noopept', 'wondering', 'album', 'looking', 'pills']
+{'LSD': 6, 'trees': 6, 'depression': 3, 'MDMA': 2, 'relationship_advice': 2, 'Anxiety': 2, 'EDAnonymous': 2, 'StackAdvice': 1, 'SuicideBereavement': 1, 'Drugs': 1, 'lgbt': 1, 'dxm': 1, 'SuicideWatch': 1, 'cocaine': 1, 'MakeNewFriendsHere': 1, 'askgaybros': 1, 'Psychonaut': 1, 'Needafriend': 1, 'cripplingalcoholism': 1}
+
+240
+['love', 'looking', 'talk', 'usa', 'star', 'letters', 'like', 'friends', 'star wars', 'wars', 'interested', 'really', 'music', 'fan', 'email', 'people', 'open', 'movies', 'penpal', 'send']
+{'MakeNewFriendsHere': 24, 'penpals': 22, 'Needafriend': 8, 'textfriends': 2, 'relationship_advice': 1, 'askgaybros': 1, 'raisedbynarcissists': 1, 'actuallesbians': 1, 'ForeverAlone': 1, 'snapchat': 1}
+
+94
+['ex', 'broke', 'relationship', 'just', 'friends', 'want', 'told', 'ago', 'like', 'don', 'girlfriend', 'know', 'said', 'months', 'things', 'years', 'time', 'boyfriend', 'talk', 'dating']
+{'relationship_advice': 115, 'relationships': 35, 'NarcissisticAbuse': 8, 'survivinginfidelity': 4, 'depression': 3, 'actuallesbians': 3, 'JUSTNOMIL': 2, 'gaybros': 2, 'JUSTNOFAMILY': 2, 'askgaybros': 2, 'adultery': 1, 'leaves': 1, 'lonely': 1, 'domesticviolence': 1, 'Anxiety': 1, 'emotionalabuse': 1, 'rapecounseling': 1, 'SuicideWatch': 1, 'lgbt': 1, 'trees': 1, 'abuse': 1}
+
+18
+['gf', 'sex', 'said', 'just', 'time', 'like', 'asked', 'relationship', 'month', 'feel', 'help', 'thought', 'dating', 'current gf', 'got', 'told', 'advice', 'really', 'person', 'didn']
+{'relationship_advice': 28, 'relationships': 4, 'depression': 2, 'bisexual': 1, 'ForeverAlone': 1, 'trees': 1, 'lgbt': 1, 'LGBTeens': 1, 'actuallesbians': 1, 'alcoholicsanonymous': 1, 'SuicideWatch': 1, 'cocaine': 1, 'adultery': 1}
+
+183
+['feel', 'feel like', 'like', 'don', 'just', 'people', 'know', 'don feel', 'life', 'want', 'anymore', 'don know', 'talk', 'really', 'friends', 'time', 've', 'shit', 'think', 'school']
+{'depression': 59, 'SuicideWatch': 18, 'relationship_advice': 9, 'Anxiety': 7, 'ftm': 6, 'relationships': 6, 'lonely': 5, 'trans': 2, 'EDAnonymous': 2, 'asktransgender': 2, 'AnxietyDepression': 2, 'NarcissisticAbuse': 2, 'stopdrinking': 2, 'socialanxiety': 2, 'bisexual': 1, 'MDMA': 1, 'saplings': 1, 'MtF': 1, 'Stims': 1, 'raisedbynarcissists': 1, 'FoodAddiction': 1, 'EOOD': 1, 'Psychonaut': 1, 'loseit': 1, 'Drugs': 1, 'Anxietyhelp': 1, 'GriefSupport': 1, 'StopSelfHarm': 1, 'actuallesbians': 1, 'Sadness': 1, 'drunk': 1, 'trees': 1, 'selfharm': 1, 'ainbow': 1, 'adderall': 1, 'cocaine': 1, 'survivinginfidelity': 1, 'depressed': 1}
+
+20
+['girls', 'like', 'girl', 'guys', 'don', 'girls like', 'friends', 'know', 'just', 've', 'attractive', 'guy', 'think', 'really', 'talk', 'want', 'like girls', 'straight', 'feel', 'boyfriend']
+{'relationship_advice': 23, 'bisexual': 12, 'actuallesbians': 10, 'ForeverAlone': 5, 'askgaybros': 5, 'lgbt': 3, 'Anxiety': 3, 'ftm': 2, 'socialanxiety': 2, 'LGBTeens': 2, 'depression': 2, 'cocaine': 2, 'bullying': 2, 'relationships': 2, 'loseit': 1, 'asktransgender': 1, 'microgrowery': 1, 'MtF': 1, 'NarcissisticAbuse': 1, 'MakeNewFriendsHere': 1, 'lonely': 1, 'gaybros': 1}
+
+163
+['anxiety', 'just', 'anxious', 'feel', 'like', 've', 'know', 'really', 'symptoms', 'going', 'time', 'bad', 'help', 'don', 'having', 'day', 'does', 'work', 'feeling', 'life']
+{'Anxiety': 146, 'HealthAnxiety': 20, 'stopdrinking': 7, 'socialanxiety': 6, 'AnxietyDepression': 5, 'relationship_advice': 4, 'Anxietyhelp': 4, 'StackAdvice': 3, 'SuicideWatch': 3, 'quittingkratom': 3, 'leaves': 2, 'Nootropics': 2, 'raisedbynarcissists': 2, 'adultsurvivors': 2, 'Psychonaut': 1, 'depressionregimens': 1, 'OpiatesRecovery': 1, 'MtF': 1, 'askgaybros': 1, 'afinil': 1, 'dryalcoholics': 1, 'Drugs': 1, 'adderall': 1, 'EDAnonymous': 1, 'MadeOfStyrofoam': 1, 'asktransgender': 1}
+
+112
+['bisexual', 'bi', 'women', 'sexuality', 'attracted', 'men', 've', 'just', 'like', 'culture', 'people', 'girls', 'guy', 'bisexuality', 'straight', 'label', 'think', 'woman', 'attracted men', 'know']
+{'bisexual': 29, 'lgbt': 10, 'actuallesbians': 3, 'askgaybros': 2, 'AskLGBT': 2, 'bisexualadults': 1, 'relationship_advice': 1, 'relationships': 1, 'adultery': 1, 'gaymers': 1}
+
+37
+['stop', 'stop thinking', 'thinking', 'just', 'just stop', 'want', 'need', 'know', 've', 'want stop', 'ex', 'need stop', 'day', 'night', 'said', 'stop existing', 'strong', 'love', 'getting', 'biting']
+{'Anxiety': 7, 'selfharm': 6, 'depression': 6, 'relationship_advice': 5, 'SuicideWatch': 4, 'cocaine': 3, 'stopdrinking': 3, 'raisedbynarcissists': 3, 'NarcissisticAbuse': 2, 'leaves': 2, 'EDAnonymous': 2, 'fuckeatingdisorders': 2, 'socialanxiety': 1, 'survivinginfidelity': 1, 'relationships': 1, 'askgaybros': 1, 'Drugs': 1, 'MtF': 1, 'MakeNewFriendsHere': 1, 'trees': 1, 'lonely': 1}
+
+118
+['panic', 'panic attack', 'attack', 'attacks', 'panic attacks', 'anxiety', 'having panic', 'just', 'like', 'having', 've', 'anxiety panic', 'feel', 'anxious', 'know', 'going', 'heart', 'help', 'scared', 'time']
+{'Anxiety': 54, 'Anxietyhelp': 8, 'depression': 7, 'HealthAnxiety': 6, 'stopdrinking': 4, 'SuicideWatch': 3, 'trees': 3, 'raisedbynarcissists': 3, 'relationship_advice': 2, 'MtF': 1, 'survivinginfidelity': 1, 'AnxietyDepression': 1, 'cripplingalcoholism': 1, 'JUSTNOMIL': 1, 'lgbt': 1, 'socialanxiety': 1, 'depressed': 1, 'LSD': 1, 'SelfHarmScars': 1, 'family': 1, 'MDMA': 1, 'quittingkratom': 1, 'Drugs': 1, 'cocaine': 1, 'askgaybros': 1, 'ttcafterloss': 1}
+
+227
+['gender', 'gender identity', 'identity', 'transgender', 'genders', 'binary', 'gender therapist', 'identify', 'trans', 'just', 'know', 'like', 'people', 'don', 'non binary', 'female', 'non', 'therapist', 'male', 'question']
+{'asktransgender': 19, 'lgbt': 18, 'ftm': 6, 'MtF': 5, 'actuallesbians': 4, 'trans': 3, 'bisexual': 3, 'transgendercirclejerk': 3, 'pansexual': 2, 'transgenderUK': 2, 'ask_transgender': 2, 'genderfluid': 2, 'LGBTeens': 2, 'gay': 2, 'genderqueer': 1, 'RightwingLGBT': 1, 'thinspocommunity': 1, 'SuicideWatch': 1, 'askgaybros': 1, 'Needafriend': 1, 'agender': 1, 'mypartneristrans': 1, 'AskLGBT': 1, 'relationship_advice': 1, 'LesbianActually': 1, 'transpositive': 1}
+
+69
+['friend', 'best friend', 'best', 'friends', 'need friend', 'like', 'just', 'need', 'don', 'know', 'friendship', 'want', 've', 'friend friend', 'really', 'got', 'didn', 'told', 'feel', 'time']
+{'relationship_advice': 55, 'relationships': 16, 'MakeNewFriendsHere': 10, 'Needafriend': 8, 'depression': 7, 'lgbt': 6, 'lonely': 4, 'SuicideWatch': 4, 'socialanxiety': 3, 'friendship': 3, 'FriendshipAdvice': 3, 'askgaybros': 2, 'SuicideBereavement': 2, 'stopdrinking': 2, 'MtF': 2, 'Anxiety': 2, 'Drugs': 2, 'actuallesbians': 2, 'trans': 1, 'Petloss': 1, 'ForeverAlone': 1, 'Stims': 1, 'raisedbynarcissists': 1, 'alcoholicsanonymous': 1, 'EDAnonymous': 1, 'bisexual': 1, 'highschool': 1, 'ask_transgender': 1, 'transpositive': 1, 'ftm': 1, 'cocaine': 1, 'gay': 1, 'selfharm': 1}
+
+93
+['red', 'red flag', 'flag', 'flags', 'red flags', 'know', 'like', 'bright', 'drops', 'said', 'prick', 'scratching', 'yeet', 'girl', 'boyfriend', 'exam', 'just', 'da', 'eye', 'growing']
+{'relationship_advice': 7, 'kratom': 2, 'drunk': 2, 'trees': 2, 'ftm': 2, 'MDMA': 2, 'askdrugs': 1, 'Marriage': 1, 'selfharm': 1, 'askgaybros': 1, 'EDAnonymous': 1, 'adderall': 1, 'transgendercirclejerk': 1, 'relationships': 1, 'DiagnoseMe': 1, 'loseit': 1, 'shrooms': 1, 'cripplingalcoholism': 1, 'vaporents': 1, 'MadeOfStyrofoam': 1, 'NarcissisticAbuse': 1}
+
+152
+['bi', 'just', 'girls', 'know', 'like', 'sexuality', 'pan', 've', 'bisexual', 'really', 'straight', 'people', 'attracted', 'don', 'gay', 'guys', 'girl', 'think', 'came', 'attraction']
+{'bisexual': 46, 'lgbt': 14, 'LGBTeens': 4, 'relationship_advice': 3, 'askgaybros': 2, 'bisexualadults': 2, 'ftm': 1, 'survivinginfidelity': 1, 'pansexual': 1, 'trans': 1, 'AskLGBT': 1, 'bibros': 1, 'actuallesbians': 1, 'LesbianActually': 1, 'depression': 1, 'raisedbynarcissists': 1}
+
+32
+['life', 'just', 'hate', 'like', 'want', 'better', 'people', 'feel', 'wish', 'don', 'going', 'know', 'time', 'live', 'end', 'world', 'think', 'really', 'living', 'hope']
+{'depression': 99, 'SuicideWatch': 61, 'raisedbynarcissists': 9, 'relationship_advice': 9, 'stopdrinking': 6, 'askgaybros': 6, 'lonely': 5, 'EDAnonymous': 5, 'Needafriend': 4, 'NarcissisticAbuse': 4, 'Anxiety': 4, 'selfharm': 3, 'GriefSupport': 3, 'AnxietyDepression': 3, 'Psychonaut': 3, 'MtF': 2, 'depressed': 2, 'AlAnon': 2, 'ForeverAlone': 2, 'shrooms': 2, 'leaves': 2, 'Drugs': 2, 'asktransgender': 2, 'ftm': 2, 'Stims': 1, 'JUSTNOFAMILY': 1, 'LSD': 1, 'Alcoholism_Medication': 1, 'widowers': 1, 'ask_transgender': 1, 'JUSTNOMIL': 1, 'MadeOfStyrofoam': 1, 'adultery': 1, 'relationships': 1, 'bullying': 1, 'socialanxiety': 1, 'trees': 1, 'quittingkratom': 1, 'alcoholicsanonymous': 1, 'transgendercirclejerk': 1, 'survivinginfidelity': 1, 'rapecounseling': 1, 'REDDITORSINRECOVERY': 1, 'loseit': 1, 'adultsurvivors': 1, 'MDMA': 1, 'gaybros': 1, 'depressionregimens': 1}
+
+126
+['work', 'boss', 'job', 'day', 'time', 'just', 'working', 'like', 've', 'week', 'home', 'manager', 'don', 'know', 'things', 'people', 'coworkers', 'going', 'anxiety', 'really']
+{'relationship_advice': 24, 'Anxiety': 15, 'depression': 12, 'stopdrinking': 9, 'socialanxiety': 6, 'relationships': 6, 'raisedbynarcissists': 3, 'NarcissisticAbuse': 3, 'Anxietyhelp': 3, 'MakeNewFriendsHere': 2, 'AnxietyDepression': 2, 'askgaybros': 2, 'asktransgender': 2, 'lonely': 2, 'ftm': 1, 'transgenderau': 1, 'bisexual': 1, 'Stress': 1, 'gay': 1, 'SuicideWatch': 1, 'gaybros': 1, 'LesbianActually': 1, 'JUSTNOFAMILY': 1, 'researchchemicals': 1, 'widowers': 1, 'shrooms': 1, 'Marriage': 1, 'leaves': 1, 'actuallesbians': 1, 'trees': 1, 'survivinginfidelity': 1}
+
+219
+['cuts', 'arms', 'sh', 'legs', 'arms legs', 'cutting', 'cut', 'just', 'muscle', 'deep', 'sleeves', 'long', 'started cutting', 'punching', 'like', 'athletic', 'day', 'don', 'clean', 'ecstasy']
+{'selfharm': 16, 'SuicideWatch': 4, 'depression': 2, 'askgaybros': 1, 'MDMA': 1, 'MadeOfStyrofoam': 1, 'ftm': 1, 'quittingkratom': 1, 'MtF': 1, 'relationship_advice': 1, 'LSD': 1}
+
+122
+['sober', 'days', 'days sober', 'sobriety', 'day', 'drinking', 'drink', 'time', 'today', 've', 'just', 'going', 'life', 'aa', 'iwndwyt', 'like', 'alcohol', 'months', 'feel', 'know']
+{'stopdrinking': 129, 'leaves': 11, 'alcoholicsanonymous': 9, 'Drugs': 7, 'AlAnon': 6, 'drunk': 4, 'dryalcoholics': 3, 'trees': 2, 'cripplingalcoholism': 2, 'Psychonaut': 2, 'REDDITORSINRECOVERY': 2, 'LSD': 2, 'alcoholism': 2, 'Petioles': 2, 'relationship_advice': 1, 'OpiatesRecovery': 1, 'cocaine': 1, 'Stims': 1, 'ForeverAlone': 1, 'selfharm': 1, 'EDAnonymous': 1}
+
+154
+['alcohol', 'drink', 'drinking', 'drink alcohol', 'day', 'just', 'better', 'good', 'makes', 'alcoholic', 'time', 'drinks', 'sober', 've', 'feeling', 'feel', 'today', 'think', 'going', 'want']
+{'stopdrinking': 25, 'Drugs': 4, 'Anxiety': 3, 'alcoholicsanonymous': 2, 'drunk': 2, 'kratom': 1, 'Psychonaut': 1, 'LSD': 1, 'meth': 1, 'alcoholism': 1, 'askdrugs': 1, 'dryalcoholics': 1, 'trees': 1}
+
+51
+['heard', 've heard', 've', 'haven heard', 'people', 'rc', 'dmt', 'say', 'good', 'people say', 'use', 'heard people', 'snorting', 'haven', 'alternatives', 'like', 'foil', 'experience', 'muscle', 'wanted try']
+{'researchchemicals': 5, 'trees': 4, 'Drugs': 3, 'microgrowery': 3, 'lgbt': 3, 'asktransgender': 3, 'Psychonaut': 2, 'relationship_advice': 2, 'Stims': 2, 'LSD': 2, 'MtF': 2, 'depression': 1, 'ftm': 1, 'leaves': 1, 'GCdebatesQT': 1, 'askgaybros': 1, 'dxm': 1, 'MDMA': 1, 'transgenderUK': 1, 'cocaine': 1, 'StackAdvice': 1, 'alcoholicsanonymous': 1, 'AskDrugNerds': 1, 'shrooms': 1, 'selfharm': 1}
+
+95
+['smoking', 'smoke', 'weed', 'day', 'high', 'started smoking', 'just', 've', 'smoked', 'quit', 'like', 'years', 'started', 'time', 've smoking', 'pot', 'brain', 'quitting', 'feel', 'days']
+{'leaves': 40, 'trees': 19, 'Drugs': 14, 'Petioles': 6, 'relationship_advice': 3, 'Stims': 3, 'LSD': 2, 'depression': 1, 'saplings': 1, 'OpiatesRecovery': 1, 'vaporents': 1, 'askdrugs': 1, 'relationships': 1, 'AnxietyDepression': 1, 'AlAnon': 1, 'shrooms': 1, 'alcoholicsanonymous': 1, 'SuicideWatch': 1, 'stopdrinking': 1, 'friendship': 1}
+
+73
+['home', 'got', 'went', 'just', 'night', 'didn', 'time', 'day', 'like', 'did', 'house', 'felt', 'left', 'remember', 'today', 'told', 'took', 'really', 'going', 'don']
+{'raisedbynarcissists': 28, 'relationship_advice': 21, 'depression': 18, 'Drugs': 18, 'stopdrinking': 16, 'Petloss': 10, 'Anxiety': 10, 'JUSTNOMIL': 9, 'socialanxiety': 7, 'cripplingalcoholism': 7, 'SuicideWatch': 7, 'GriefSupport': 7, 'actuallesbians': 6, 'JUSTNOFAMILY': 6, 'adultery': 6, 'Stims': 6, 'HealthAnxiety': 6, 'loseit': 5, 'cocaine': 5, 'LSD': 5, 'AlAnon': 4, 'NarcissisticAbuse': 4, 'raisedbyborderlines': 4, 'MtF': 4, 'ftm': 4, 'Psychonaut': 3, 'askgaybros': 3, 'widowers': 3, 'MDMA': 3, 'ForeverAlone': 3, 'selfharm': 3, 'SuicideBereavement': 3, 'LGBTeens': 3, 'DiagnoseMe': 3, 'drunk': 2, 'alcoholism': 2, 'lgbt': 2, 'saplings': 2, 'eldertrees': 2, 'EDAnonymous': 2, 'domesticviolence': 2, 'lonely': 2, 'EOOD': 2, 'leaves': 2, 'trees': 2, 'shrooms': 2, 'relationships': 2, 'OpiatesRecovery': 2, 'alcoholicsanonymous': 2, 'EmotionalAbuseSupport': 1, 'ttcafterloss': 1, 'Needafriend': 1, 'meth': 1, 'drugscirclejerk': 1, 'family': 1, 'rapecounseling': 1, 'MakeNewFriendsHere': 1, 'Anxietyhelp': 1, 'microgrowery': 1, 'Nootropics': 1, 'abuse': 1, 'survivorsofabuse': 1, 'quittingkratom': 1, 'emotionalabuse': 1, 'Alcoholism_Medication': 1, 'StackAdvice': 1, 'phenibut': 1, 'MadeOfStyrofoam': 1, 'FriendshipAdvice': 1, 'Marriage': 1, 'kratom': 1, 'survivinginfidelity': 1, 'AnxietyDepression': 1}
+
+96
+['weight', 'lbs', 'lose weight', 'lose', 'weight loss', 'loss', 'pounds', 'losing', 'lost', 'losing weight', 'calories', 've', 'eating', 'fat', 'day', 'eat', 'goal', 'just', 'diet', 'like']
+{'loseit': 93, 'EDAnonymous': 22, 'relationship_advice': 4, 'relationships': 3, 'stopdrinking': 3, 'HealthAnxiety': 2, 'BodyAcceptance': 2, 'BingeEatingDisorder': 2, 'asktransgender': 2, 'MtF': 2, 'Marriage': 1, 'Anxietyhelp': 1, 'BodyImage': 1, 'FoodAddiction': 1, 'DiagnoseMe': 1, 'EatingDisorderHope': 1, 'EatingDisorders': 1, 'fuckeatingdisorders': 1, 'askgaybros': 1}
+
+194
+['calories', 'calorie', 'day', 'weight', 'eating', 'eat', 'fat', 'lbs', 'week', 'food', 've', 'diet', 'count', 'lose', 'exercise', 'counting', 'foods', 'calories day', 'days', 'just']
+{'loseit': 53, 'EDAnonymous': 23, 'thinspocommunity': 6, 'BingeEatingDisorder': 3, 'askgaybros': 1, 'EatingDisorderHope': 1, 'stopdrinking': 1, 'fuckeatingdisorders': 1}
+
+45
+['grams', 'vs', 'trip', 'wondering', 'just wondering', 'tripped', 'shrooms', 'gram', 'just', 'lemon', 'taking', 'lemon tek', 'hours', 'tek', 'dose', 'expect', 'experience', 'little', 'microdosing', 'question']
+{'shrooms': 22, 'LSD': 5, 'Drugs': 4, 'kratom': 4, 'trees': 3, 'Psychonaut': 3, 'depression': 1, 'Nootropics': 1, 'MtF': 1, 'AlAnon': 1, 'StackAdvice': 1, 'afinil': 1, 'meth': 1, 'Crainn': 1, 'askdrugs': 1, 'family': 1}
+
+19
+['drinking', 'drink', 'alcohol', 'day', 've', 'just', 'sober', 'time', 'life', 'days', 'stop drinking', 'quit', 'like', 'stop', 'night', 'years', 'drunk', 'drank', 'sobriety', 'quit drinking']
+{'stopdrinking': 139, 'alcoholicsanonymous': 8, 'dryalcoholics': 5, 'drunk': 5, 'alcoholism': 5, 'cripplingalcoholism': 4, 'SuicideWatch': 4, 'AlAnon': 3, 'relationship_advice': 3, 'raisedbynarcissists': 2, 'Drugs': 2, 'loseit': 1, 'survivorsofabuse': 1, 'OpiatesRecovery': 1, 'DeadBedrooms': 1, 'depression': 1, 'quittingkratom': 1, 'LGBTeens': 1, 'adultery': 1, 'REDDITORSINRECOVERY': 1, 'Alcoholism_Medication': 1, 'family': 1, 'gaybros': 1}
+
+48
+['need new', 'new', 'need', 'suggestions', 'snapchat', 'new friends', 'talk', 'grinder', 'batch', 'ma', 'spots', 'pm', 'like', 'friends', 'long', 'low', 'really', 'new life', 'says need', 'freinds']
+{'MakeNewFriendsHere': 4, 'snapchat': 4, 'cocaine': 2, 'trees': 1, 'loseit': 1, 'microgrowery': 1, 'vaporents': 1, 'askgaybros': 1, 'alcoholism': 1, 'Needafriend': 1, 'fuckeatingdisorders': 1, 'saplings': 1, 'asktransgender': 1}
+
+23
+['days', 'day', 'just', 'days day', 've', 'ago', 'days ago', 'feeling', 'like', 'week', 'going', 'good', 'shot', 'normal', 'really', 'couple days', 'feel', 'tomorrow', 'gone', 'couple']
+{'stopdrinking': 13, 'depression': 8, 'selfharm': 7, 'quittingkratom': 5, 'ftm': 4, 'leaves': 4, 'askgaybros': 3, 'ttcafterloss': 3, 'cocaine': 2, 'adderall': 2, 'researchchemicals': 2, 'relationship_advice': 2, 'Stress': 1, 'microgrowery': 1, 'depressed': 1, 'Anxiety': 1, 'meth': 1, 'OpiatesRecovery': 1, 'BingeEatingDisorder': 1, 'MDMA': 1, 'Petloss': 1, 'lonely': 1, 'HealthAnxiety': 1, 'Needafriend': 1, 'shrooms': 1, 'pansexual': 1, 'MtF': 1, 'asktransgender': 1, 'phenibut': 1, 'NarcissisticAbuse': 1, 'lgbt': 1, 'StopSpeeding': 1, 'transgenderUK': 1, 'SuicideWatch': 1, 'EDAnonymous': 1}
+
+148
+['video games', 'video', 'games', 'play video', 'friends', 'play', 'looking', 'new', 'talk', 'like', 'love', 'movies', 'people', 'new friends', 'make new', 'make', 'stuff', 'reddit', 'work', 'hello']
+{'MakeNewFriendsHere': 20, 'Needafriend': 6, 'depression': 2, 'relationship_advice': 2, 'LSD': 1, 'friendship': 1, 'ftm': 1, 'trees': 1, 'textfriends': 1}
+
+64
+['mg', 'took mg', 'took', 'mg mg', 'dose', 'stack', 'safe', 'theanine', 'day', 'mg day', 'taking', 'prescribed', 'just', 'hours', 'just took', 'noopept', 'daily', 'caffeine', 'morning', 'like']
+{'Drugs': 21, 'StackAdvice': 12, 'dxm': 7, 'MDMA': 6, 'depression': 5, 'researchchemicals': 5, 'trees': 4, 'askdrugs': 4, 'Nootropics': 3, 'afinil': 3, 'Anxiety': 3, 'phenibut': 2, 'MtF': 2, 'Stims': 2, 'Alcoholism_Medication': 1, 'asktransgender': 1, 'StopSpeeding': 1, 'AnxietyDepression': 1, 'transgenderUK': 1, 'adderall': 1, 'pillhead': 1, 'quittingkratom': 1, 'SuicideWatch': 1, 'OpiatesRecovery': 1, 'Anxietyhelp': 1, 'ftm': 1, 'depressionregimens': 1, 'shrooms': 1, 'kratom': 1}
+
+30
+['thread', 'daily', 'september', 'weekly', 'discussion', 'thread september', 'post', 'chat', 'wee', 'results', 'new', 'free', 'discussing', 'pledge', 'doing today', 'rules', 'daily check', 'refrain', 'sub', 'feel free']
+{'ttcafterloss': 13, 'MtF': 4, 'actuallesbians': 4, 'TrollCoping': 3, 'quittingkratom': 3, 'ftm': 3, 'loseit': 3, 'survivinginfidelity': 2, 'stopdrinking': 2, 'LesbianActually': 1, 'adultery': 1, 'DeadBedrooms': 1, 'SuicideWatch': 1, 'transgenderUK': 1, 'depression': 1, 'trees': 1, 'Drugs': 1, 'MadeOfStyrofoam': 1, 'JUSTNOMIL': 1}
+
+34
+['dad', 'family', 'mom', 'don', 'just', 'know', 'mum', 'phone', 'want', 'years', 'time', 'going', 'like', 'think', 'house', 'parents', 've', 'life', 'year', 'really']
+{'raisedbynarcissists': 24, 'relationship_advice': 16, 'family': 6, 'relationships': 5, 'GriefSupport': 4, 'JUSTNOFAMILY': 3, 'bisexual': 2, 'lgbt': 2, 'askgaybros': 2, 'ftm': 2, 'JUSTNOMIL': 2, 'LGBTeens': 2, 'Anxiety': 2, 'depression': 2, 'EstrangedAdultChild': 1, 'cripplingalcoholism': 1, 'trans': 1, 'alcoholism': 1, 'domesticviolence': 1, 'EDAnonymous': 1, 'raisedbyborderlines': 1, 'adultsurvivors': 1, 'SuicideBereavement': 1, 'SuicideWatch': 1, 'friendship': 1, 'lonely': 1, 'Anxietyhelp': 1, 'asktransgender': 1, 'transgendercirclejerk': 1}
+
+31
+['know', 'don know', 'don', 'just', 'really', 'like', 've', 'feel', 'want', 'think', 'anymore', 'help', 'll', 'going', 'time', 'tell', 'people', 'life', 'things', 'talk']
+{'depression': 51, 'relationship_advice': 41, 'SuicideWatch': 30, 'ftm': 11, 'lonely': 8, 'askgaybros': 8, 'asktransgender': 7, 'raisedbynarcissists': 6, 'lgbt': 6, 'NarcissisticAbuse': 6, 'selfharm': 6, 'EDAnonymous': 5, 'stopdrinking': 5, 'adultery': 5, 'Drugs': 5, 'MakeNewFriendsHere': 5, 'Anxiety': 5, 'LGBTeens': 4, 'MDMA': 3, 'DeadBedrooms': 3, 'asexuality': 3, 'raisedbyborderlines': 3, 'actuallesbians': 3, 'loveafterporn': 2, 'Needafriend': 2, 'ForeverAlone': 2, 'MtF': 2, 'bisexual': 2, 'OpiatesRecovery': 2, 'genderfluid': 2, 'Psychonaut': 2, 'alcoholism': 2, 'trees': 2, 'MadeOfStyrofoam': 2, 'HealthAnxiety': 2, 'microgrowery': 2, 'ttcafterloss': 2, 'JUSTNOMIL': 2, 'trans': 1, 'LSD': 1, 'depressed': 1, 'loseit': 1, 'DiagnoseMe': 1, 'Stims': 1, 'cocaine': 1, 'MiddleSchool': 1, 'relationships': 1, 'Anxietyhelp': 1, 'survivinginfidelity': 1, 'adultsurvivors': 1, 'gay': 1, 'gaybros': 1, 'GriefSupport': 1, 'alcoholicsanonymous': 1, 'pillhead': 1, 'researchchemicals': 1, 'FriendshipAdvice': 1, 'genderqueer': 1}
+
+76
+['husband', 'baby', 'just', 'family', 'like', 'time', 'son', 'pregnant', 'don', 'want', 'home', 'know', 'married', 'told', 'feel', 've', 'mil', 'got', 'years', 'going']
+{'relationship_advice': 43, 'JUSTNOMIL': 23, 'relationships': 11, 'ttcafterloss': 9, 'raisedbynarcissists': 6, 'JUSTNOFAMILY': 4, 'NarcissisticAbuse': 4, 'adultery': 3, 'Marriage': 3, 'depression': 3, 'stopdrinking': 3, 'family': 3, 'widowers': 2, 'askgaybros': 2, 'asktransgender': 2, 'raisedbyborderlines': 1, 'lonely': 1, 'drunk': 1, 'mypartneristrans': 1, 'domesticviolence': 1, 'loveafterporn': 1, 'emotionalabuse': 1, 'bisexual': 1, 'AlAnon': 1, 'survivinginfidelity': 1, 'DeadBedrooms': 1}
+
+81
+['social anxiety', 'anxiety', 'social', 'people', 'work', 've', 'job', 'just', 'feel', 'really', 'going', 'like', 'don', 'want', 'think', 'depression', 'know', 'therapy', 'sa', 'friends']
+{'socialanxiety': 26, 'Anxiety': 9, 'depression': 3, 'AnxietyDepression': 2, 'SuicideWatch': 2, 'StackAdvice': 2, 'lgbt': 1, 'MakeNewFriendsHere': 1, 'Stims': 1, 'kratom': 1, 'MadeOfStyrofoam': 1, 'snapchat': 1, 'depressionregimens': 1, 'relationship_advice': 1, 'Drugs': 1, 'relationships': 1, 'Anxietyhelp': 1, 'stopdrinking': 1}
+
+102
+['kratom', 'day', 'taking', 'grams', 'just', 'effects', 'suboxone', 'withdrawal', 'withdrawals', 'using', 'using kratom', 'quit', 've', 'taking kratom', 'tea', 'days', 'use', 'dose', 'pain', 'like']
+{'kratom': 74, 'quittingkratom': 26, 'Drugs': 10, 'researchchemicals': 2, 'cripplingalcoholism': 1, 'drugscirclejerk': 1, 'OpiatesRecovery': 1, 'Stims': 1, 'pillhead': 1, 'AlAnon': 1}
+
+171
+['year', 'year old', 'old', 'like', 'just', 'friends', 'years', 'life', 've', 'time', 'school', 'know', 'want', 'think', 'really', 'ago', 'guy', 'people', 'happy', 'don']
+{'relationship_advice': 18, 'depression': 10, 'ftm': 7, 'lonely': 6, 'raisedbynarcissists': 4, 'SuicideWatch': 4, 'stopdrinking': 3, 'askgaybros': 3, 'Petloss': 3, 'leaves': 3, 'gay': 3, 'ForeverAlone': 3, 'DiagnoseMe': 2, 'trees': 2, 'asktransgender': 2, 'MakeNewFriendsHere': 2, 'alcoholicsanonymous': 2, 'DeadBedrooms': 2, 'Anxiety': 2, 'abuse': 2, 'MtF': 2, 'bisexual': 2, 'EDAnonymous': 2, 'gaybros': 2, 'selfharm': 1, 'Stims': 1, 'actuallesbians': 1, 'vaporents': 1, 'HealthAnxiety': 1, 'EOOD': 1, 'Needafriend': 1, 'GriefSupport': 1, 'raisedbyborderlines': 1, 'transgenderUK': 1, 'LSD': 1, 'shrooms': 1, 'textfriends': 1, 'lgbt': 1, 'OpiatesRecovery': 1, 'bullying': 1, 'JUSTNOMIL': 1, 'family': 1, 'NarcissisticAbuse': 1, 'penpals': 1, 'widowers': 1, 'adultery': 1, 'alcoholism': 1, 'EstrangedAdultChild': 1}
+
+49
+['wish luck', 'luck', 'wish', 'nervous', 'just dropped', 'just', 'time stop', 'heading', 'think', 'gonna', 'robocough', 'method', 'interesting', 'dropped', 'time', 'need things', 'reading far', 'weekend', 'mg', 'edit']
+{'stopdrinking': 4, 'Anxiety': 2, 'shrooms': 2, 'dxm': 2, 'Needafriend': 1, 'Petioles': 1, 'raisedbynarcissists': 1, 'loseit': 1, 'LGBTeens': 1, 'cripplingalcoholism': 1, 'selfharm': 1, 'LesbianActually': 1, 'transpositive': 1, 'trees': 1, 'adultery': 1, 'depression': 1, 'cocaine': 1, 'MDMA': 1, 'LSD': 1, 'TheeHive': 1, 'ftm': 1}
+
+162
+['roll', 'rolling', 'mdma', 'mg', 'rolled', 'weekend', 'time', 'experience', 'night', 'bowl', 'amazing', 'little', 'just', 'pipe', 'dose', 'like', 'best', 'hey', 'know', 'weed']
+{'MDMA': 24, 'trees': 5, 'cripplingalcoholism': 2, 'LSD': 2, 'bisexual': 1, 'pillhead': 1, 'Drugs': 1, 'trans': 1, 'MadeOfStyrofoam': 1, 'shrooms': 1, 'adultery': 1, 'microgrowery': 1}
+
+140
+['girlfriend', 'don', 'relationship', 'like', 'want', 'just', 'know', 'really', 've', 'time', 'friends', 'girl', 'feel', 'years', 'told', 'said', 'doesn', 'friend', 'think', 'months']
+{'relationship_advice': 91, 'relationships': 25, 'actuallesbians': 7, 'lonely': 3, 'depression': 2, 'ForeverAlone': 2, 'MtF': 2, 'bisexual': 2, 'stopdrinking': 1, 'askgaybros': 1, 'DeadBedrooms': 1, 'family': 1, 'SuicideWatch': 1, 'cocaine': 1, 'depressed': 1, 'EDAnonymous': 1, 'loveafterporn': 1, 'lgbt': 1, 'asexuality': 1, 'adultery': 1, 'Needafriend': 1, 'JUSTNOFAMILY': 1}
+
+203
+['suicidal', 'suicidal thoughts', 'thoughts', 'just', 'like', 've', 'don', 'feel', 'life', 'depression', 'think', 'know', 'better', 'anymore', 'getting', 'feel like', 'people', 'felt', 'want', 'having suicidal']
+{'depression': 35, 'SuicideWatch': 28, 'Anxiety': 5, 'stopdrinking': 3, 'selfharm': 2, 'survivorsofabuse': 1, 'microgrowery': 1, 'StackAdvice': 1, 'MadeOfStyrofoam': 1, 'MtF': 1, 'leaves': 1, 'Drugs': 1, 'raisedbynarcissists': 1, 'Psychonaut': 1, 'MakeNewFriendsHere': 1, 'bisexual': 1}
+
+180
+['dog', 'dogs', 'just', 'home', 'got', 'feel', 'cat', 'pet', 'care', 'night', 'like', 'time', 'day', 'loved', 'years', 'didn', 'puppy', 'sister', 'walk', 'love']
+{'Petloss': 14, 'relationship_advice': 4, 'depression': 4, 'GriefSupport': 3, 'JUSTNOMIL': 3, 'raisedbynarcissists': 3, 'relationships': 3, 'family': 1, 'JUSTNOFAMILY': 1, 'lonely': 1, 'cripplingalcoholism': 1, 'stopdrinking': 1, 'trees': 1, 'askgaybros': 1, 'MtF': 1, 'MakeNewFriendsHere': 1, 'shrooms': 1, 'transvoice': 1, 'socialanxiety': 1}
+
+222
+['hrt', 'mtf', 'started hrt', 'start hrt', 'changes', 'start', 've', 'starting hrt', 'male', 'trans', 'starting', 'just', 'levels', 'like', 'started', 'don', 'estrogen', 'does', 'transitioning', 'estradiol']
+{'MtF': 33, 'asktransgender': 32, 'ftm': 4, 'trans': 4, 'transgendercirclejerk': 2, 'GCdebatesQT': 1, 'transpositive': 1, 'transgenderUK': 1, 'transpassing': 1, 'SuicideWatch': 1, 'ask_transgender': 1}
+
+90
+['dont', 'dont know', 'know', 'just', 'just dont', 'im', 'like', 'feel', 'anymore', 'talk', 'need', 'friends', 'life', 'help', 'fucking', 'feels', 'really', 'thats', 'therapy', 'feel like']
+{'depression': 13, 'relationship_advice': 9, 'SuicideWatch': 6, 'Anxiety': 3, 'Drugs': 3, 'actuallesbians': 2, 'askgaybros': 2, 'Stims': 2, 'lonely': 2, 'ask_transgender': 1, 'leaves': 1, 'asktransgender': 1, 'GriefSupport': 1, 'ForeverAlone': 1, 'raisedbynarcissists': 1, 'widowers': 1, 'lgbt': 1, 'survivorsofabuse': 1, 'LGBTeens': 1, 'LSD': 1, 'survivinginfidelity': 1, 'adultery': 1, 'LesbianActually': 1, 'MDMA': 1, 'NarcissisticAbuse': 1, 'Needafriend': 1, 'DeadBedrooms': 1, 'trans': 1}
+
+173
+['money', 'pay', 'job', 'rent', 'work', 'time', 'just', 've', 'home', 'don', 'paying', 'want', 'like', 'things', 'debt', 'help', 'years', 'paid', 'months', 'working']
+{'relationship_advice': 35, 'raisedbynarcissists': 13, 'relationships': 11, 'depression': 6, 'Marriage': 4, 'SuicideWatch': 4, 'selfharm': 2, 'Anxiety': 2, 'leaves': 2, 'JUSTNOMIL': 2, 'JUSTNOFAMILY': 2, 'depressed': 1, 'Stress': 1, 'friendship': 1, 'FamilyIssues': 1, 'DeadBedrooms': 1, 'lonely': 1, 'ftm': 1, 'cripplingalcoholism': 1, 'quittingkratom': 1, 'trees': 1, 'raisedbyborderlines': 1, 'stopdrinking': 1, 'alcoholism': 1, 'domesticviolence': 1}
+
+138
+['crush', 'like', 'friend', 'crushes', 'know', 'just', 'guy', 'girl', 'don', 'really', 'friends', 've', 'told', 'tell', 'school', 'crush girl', 'liked', 'crush guy', 'cute', 'want']
+{'relationship_advice': 41, 'LGBTeens': 16, 'relationships': 12, 'actuallesbians': 6, 'askgaybros': 6, 'lgbt': 5, 'LesbianActually': 2, 'asexuality': 2, 'lonely': 2, 'Anxiety': 2, 'depression': 2, 'gaybros': 2, 'cocaine': 1, 'askdrugs': 1, 'MiddleSchool': 1, 'bisexual': 1, 'NarcissisticAbuse': 1, 'truelesbians': 1, 'adultery': 1}
+
+92
+['transitioning', 'transition', 'trans', 'cis', 'mtf', 'woman', 'gender', 'pronouns', 'male', 'start', 'process', 'like', 'job', 'don', 'just', 'feminine', 'fear', 'ftm', 'want', 've']
+{'asktransgender': 18, 'ftm': 6, 'lgbt': 3, 'trans': 3, 'transgenderUK': 2, 'MtF': 2, 'Anxiety': 1, 'ask_transgender': 1, 'transgendercirclejerk': 1, 'mypartneristrans': 1, 'Blanchardianism': 1}
+
+26
+['xb', 'amp xb', 'amp', 'like', 'just', 'time', 'feel', 'really', 'don', 'know', 'things', 've', 'people', 'life', 'want', 'year', 'think', 'years', 'work', 'did']
+{'relationship_advice': 38, 'relationships': 20, 'depression': 19, 'raisedbynarcissists': 17, 'MakeNewFriendsHere': 7, 'asktransgender': 7, 'stopdrinking': 6, 'Drugs': 6, 'trees': 5, 'Anxiety': 5, 'loseit': 4, 'microgrowery': 4, 'Psychonaut': 4, 'askgaybros': 4, 'LSD': 4, 'SuicideWatch': 3, 'kratom': 3, 'leaves': 3, 'researchchemicals': 3, 'DeadBedrooms': 3, 'actuallesbians': 2, 'Marriage': 2, 'ftm': 2, 'lgbt': 2, 'MtF': 2, 'penpals': 2, 'Needafriend': 2, 'MDMA': 2, 'socialanxiety': 2, 'LGBTeens': 2, 'EDAnonymous': 2, 'survivinginfidelity': 2, 'dxm': 1, 'babyloss': 1, 'cocaine': 1, 'loneliness': 1, 'selfharm': 1, 'emotionalabuse': 1, 'mypartneristrans': 1, 'MadeOfStyrofoam': 1, 'ForeverAlone': 1, 'quittingkratom': 1, 'Stims': 1, 'gay': 1, 'depressionregimens': 1, 'agender': 1, 'widowers': 1, 'gaymers': 1, 'shrooms': 1, 'bisexual': 1, 'drunk': 1, 'adultery': 1, 'transgendercirclejerk': 1}
+
+53
+['like', 'don', 'just', 'feel', 'want', 'things', 'know', 'relationship', 'doesn', 've', 'feel like', 'time', 'really', 'boyfriend', 'don know', 'think', 'going', 'work', 'told', 'life']
+{'relationship_advice': 148, 'relationships': 52, 'depression': 23, 'SuicideWatch': 8, 'JUSTNOMIL': 4, 'AlAnon': 4, 'Needafriend': 3, 'DeadBedrooms': 3, 'askgaybros': 3, 'NarcissisticAbuse': 3, 'Anxiety': 3, 'asexuality': 3, 'FriendshipAdvice': 2, 'lonely': 2, 'FamilyIssues': 2, 'adultery': 2, 'asktransgender': 2, 'raisedbynarcissists': 2, 'loveafterporn': 2, 'emotionalabuse': 1, 'HealthAnxiety': 1, 'actuallesbians': 1, 'selfharm': 1, 'MakeNewFriendsHere': 1, 'survivinginfidelity': 1, 'Marriage': 1, 'rapecounseling': 1}
+
+249
+['reddit', 'new reddit', 'site', 'subreddit', 'account', 'just', 'people', 'use', 'subreddits', 'posts', 'reddit account', 'use reddit', 'thing', 'abuse', 'ace', 'like', 'looking', 've', 'promises', 'page']
+{'askgaybros': 3, 'MakeNewFriendsHere': 3, 'SuicideWatch': 3, 'selfharm': 2, 'trees': 2, 'depression': 2, 'lgbt': 1, 'Stims': 1, 'quittingkratom': 1, 'bisexual': 1, 'leaves': 1, 'cripplingalcoholism': 1, 'HealthAnxiety': 1, 'drunk': 1, 'asexuality': 1, 'ask_transgender': 1, 'NarcissisticAbuse': 1, 'adultery': 1, 'raisedbynarcissists': 1, 'penpals': 1, 'depressed': 1, 'stopdrinking': 1, 'Drugs': 1}
+
+77
+['weed', 'smoking', 'smoking weed', 'quit', 'quitting', 'time', 'years', 'just', 'like', 'really', 'don', 'feel', 'stop', 'need', 'smoke', 've', 'stop smoking', 'want', 'day', 'trying quit']
+{'leaves': 27, 'trees': 9, 'Drugs': 5, 'Petioles': 4, 'cocaine': 2, 'depression': 2, 'alcoholicsanonymous': 1, 'quittingkratom': 1, 'Psychonaut': 1, 'REDDITORSINRECOVERY': 1, 'loseit': 1}
+
+98
+['play', 'games', 'pc', 'play games', 'looking', 'people play', 'friends', 'people', 'games play', 'like', 'xbox', 'just', 'love', 'looking people', 'overwatch', 'game', 'minecraft', 'discord', 'fun', 'really']
+{'MakeNewFriendsHere': 23, 'Needafriend': 14, 'transgamers': 10, 'relationship_advice': 3, 'gaymers': 3, 'askgaybros': 2, 'LSD': 2, 'depression': 2, 'socialanxiety': 1, 'relationships': 1, 'asktransgender': 1, 'meth': 1, 'transgendercirclejerk': 1, 'lonely': 1}
+
+170
+['guy', 'told', 'friend', 'friends', 'just', 'relationship', 'like', 'time', 'talking', 'dating', 'really', 'know', 'didn', 'said', 'met', 'girl', 've', 'ago', 'months', 'started']
+{'relationship_advice': 151, 'relationships': 52, 'askgaybros': 19, 'actuallesbians': 4, 'bisexual': 3, 'depression': 2, 'survivinginfidelity': 2, 'NarcissisticAbuse': 2, 'emotionalabuse': 2, 'stopdrinking': 1, 'highschool': 1, 'gay': 1, 'survivorsofabuse': 1, 'abuse': 1, 'gaybros': 1, 'ForeverAlone': 1, 'LGBTeens': 1, 'bisexualadults': 1, 'FriendshipAdvice': 1, 'LesbianActually': 1, 'Stims': 1, 'asexuality': 1, 'Anxiety': 1}
+
+134
+['don', 'life', 'know', 'things', 'really', 'think', 'like', 'don know', 'just', 'feel', 'want', 'nervous', 'child', 've', 'time', 'doing', 'going', 'friends', 'help', 'growing']
+{'depression': 13, 'raisedbynarcissists': 8, 'SuicideWatch': 4, 'relationship_advice': 4, 'askgaybros': 3, 'Anxiety': 3, 'loneliness': 2, 'ttcafterloss': 1, 'shrooms': 1, 'AlAnon': 1, 'ForeverAlone': 1, 'lonely': 1, 'depressionregimens': 1, 'MakeNewFriendsHere': 1, 'cripplingalcoholism': 1, 'adultery': 1, 'MtF': 1, 'EDAnonymous': 1, 'asktransgender': 1, 'NRelationships': 1, 'family': 1}
+
+68
+['fuck', 'fuck fuck', 'shit', 'just', 'like', 'got', 'life', 'll', 'know', 'don', 'people', 'hate', 'fucking', 'drunk', 'fucked', 've', 'fuck just', 'ass', 'time', 'fuck wrong']
+{'depression': 13, 'cripplingalcoholism': 10, 'SuicideWatch': 10, 'EDAnonymous': 8, 'trees': 6, 'selfharm': 6, 'Stims': 6, 'askgaybros': 5, 'MadeOfStyrofoam': 4, 'drunk': 4, 'relationship_advice': 4, 'stopdrinking': 3, 'Anxiety': 3, 'ForeverAlone': 2, 'ftm': 2, 'adultery': 2, 'LGBTeens': 2, 'transgendercirclejerk': 2, 'rapecounseling': 1, 'bisexual': 1, 'loseit': 1, 'shrooms': 1, 'LesbianActually': 1, 'MtF': 1, 'LSD': 1, 'lonely': 1, 'raisedbynarcissists': 1, 'drugscirclejerk': 1, 'widowers': 1, 'leaves': 1, 'trans': 1, 'askdrugs': 1, 'socialanxiety': 1, 'Drugs': 1}
+
+103
+['fucking', 'shit', 'just', 'like', 'fuck', 'people', 'feel', 'hate', 'don', 'know', 'life', 'im', 'fucking hate', 'want', 'day', 'kill', 've', 'feel like', 'time', 'tired']
+{'depression': 47, 'SuicideWatch': 22, 'Drugs': 7, 'ForeverAlone': 4, 'cocaine': 3, 'leaves': 3, 'selfharm': 3, 'relationship_advice': 3, 'EDAnonymous': 3, 'MadeOfStyrofoam': 3, 'cripplingalcoholism': 3, 'stopdrinking': 2, 'ftm': 2, 'Anxiety': 2, 'askgaybros': 2, 'lonely': 2, 'socialanxiety': 2, 'MtF': 2, 'LGBTeens': 1, 'transgendercirclejerk': 1, 'actuallesbians': 1, 'LSD': 1, 'trees': 1, 'alcoholism': 1, 'gaymers': 1, 'quittingkratom': 1, 'Stims': 1, 'HealthAnxiety': 1, 'raisedbynarcissists': 1, 'drunk': 1, 'BingeEatingDisorder': 1, 'survivinginfidelity': 1, 'MDMA': 1, 'asktransgender': 1, 'adultery': 1, 'survivorsofabuse': 1, 'MakeNewFriendsHere': 1, 'asexuality': 1}
+
+131
+['men', 'women', 'attracted', 'like', 'woman', 've', 'guy', 'don', 'straight', 'attractive', 'want', 'just', 'gay men', 'gay', 'sex', 'bisexual', 'guys', 'cis', 'think', 'men women']
+{'askgaybros': 16, 'relationship_advice': 10, 'bisexual': 10, 'lgbt': 6, 'adultery': 5, 'ftm': 4, 'actuallesbians': 3, 'asktransgender': 3, 'depression': 2, 'bisexualadults': 2, 'transgendercirclejerk': 2, 'MtF': 2, 'ForeverAlone': 2, 'DiagnoseMe': 1, 'raisedbynarcissists': 1, 'RightwingLGBT': 1, 'Stims': 1, 'survivinginfidelity': 1, 'EDAnonymous': 1, 'gay': 1, 'FriendshipAdvice': 1}
+
+168
+['bad', 'feel', 'guilty', 'feel guilty', 'feel bad', 'places', 'just', 'things', 'like', 'bad happen', 'happen', 'long', 'doing', 'time', 'don', 'agree', 'think', 'hate', 'years', 'feel ashamed']
+{'relationship_advice': 5, 'selfharm': 4, 'depression': 3, 'askgaybros': 3, 'transgendercirclejerk': 3, 'socialanxiety': 3, 'trees': 2, 'Anxiety': 2, 'StopSpeeding': 1, 'adultery': 1, 'DeadBedrooms': 1, 'emotionalabuse': 1, 'AnxietyDepression': 1, 'EDAnonymous': 1, 'LGBTeens': 1, 'GriefSupport': 1, 'lgbt': 1, 'SuicideWatch': 1, 'NarcissisticAbuse': 1, 'Petloss': 1, 'survivinginfidelity': 1, 'widowers': 1, 'raisedbynarcissists': 1}
+
+63
+['chat', 'looking', 'skiing', 'wanna', 'looking chat', 'want chat', 'wanna chat', 'people chat', 'just', 'talk', 'like chat', 'hit', 'message', 'snap', 'want', 'pm', 'lets', 'chatty', 'discord', 'people']
+{'MakeNewFriendsHere': 24, 'cocaine': 18, 'Needafriend': 12, 'lonely': 3, 'snapchat': 2, 'Stims': 2, 'drunk': 2, 'lgbt': 1, 'actuallesbians': 1, 'transgenderau': 1, 'askgaybros': 1, 'LesbianActually': 1, 'relationship_advice': 1, 'penpals': 1, 'depression': 1, 'SuicideWatch': 1, 'selfharm': 1, 'transgendercirclejerk': 1, 'transgenderUK': 1, 'RightwingLGBT': 1, 'raisedbynarcissists': 1, 'socialanxiety': 1, 'MtF': 1, 'textfriends': 1}
+
+150
+['surgery', 'surgeon', 'chest', 'results', 've', 'did', 'dr', 'insurance', 'getting', 'consultation', 'surgeons', 'able', 'scars', 'referral', 'post', 'appointment', 'got', 'doctor', 'recovery', 'pain']
+{'ftm': 42, 'asktransgender': 13, 'transgenderUK': 6, 'MtF': 4, 'transpositive': 3, 'ask_transgender': 3, 'Drugs': 2, 'gaybros': 2, 'SuicideWatch': 1, 'trans': 1, 'Anxiety': 1, 'raisedbyborderlines': 1, 'askgaybros': 1, 'mypartneristrans': 1, 'DiagnoseMe': 1, 'EDAnonymous': 1, 'relationships': 1}
+
+110
+['lesbian', 'lesbians', 'women', 'really', 'just', 'know', 'think', 'attracted', 'girl', 'want', 've', 'don', 'men', 'woman', 'date', 'friends', 'love', 'trans', 'like', 'guys']
+{'actuallesbians': 23, 'truelesbians': 6, 'lgbt': 6, 'LesbianActually': 4, 'bisexual': 3, 'ftm': 3, 'asexuality': 2, 'asktransgender': 2, 'relationship_advice': 2, 'LGBTeens': 2, 'MtF': 1, 'AskLGBT': 1, 'mypartneristrans': 1, 'askgaybros': 1, 'RightwingLGBT': 1, 'transgendercirclejerk': 1}
+
+40
+['porn', 'sex', 'gay', 'gay porn', 'like', 'watch', 'watch porn', 'don', 'addiction', 'just', 'watching porn', 'watching', 'know', 'time', 'says', 'phone', 'want', 'porn addiction', 'think', 'sexual']
+{'relationship_advice': 10, 'loveafterporn': 9, 'askgaybros': 7, 'DeadBedrooms': 5, 'relationships': 4, 'bisexual': 3, 'lgbt': 1, 'asexuality': 1, 'transgendercirclejerk': 1, 'LSD': 1, 'meth': 1, 'ForeverAlone': 1, 'SuicideWatch': 1, 'ask_transgender': 1, 'drunk': 1}
+
+3
+['friends', 'don', 'just', 'people', 'like', 'really', 'feel', 'friend', 'know', 'want', 'talk', 'close', 've', 'time', 'think', 'feel like', 'make', 'school', 'don know', 'best']
+{'relationship_advice': 54, 'depression': 35, 'lonely': 25, 'relationships': 10, 'socialanxiety': 9, 'Anxiety': 9, 'askgaybros': 6, 'SuicideWatch': 6, 'MakeNewFriendsHere': 6, 'FriendshipAdvice': 6, 'Needafriend': 6, 'asexuality': 6, 'loneliness': 5, 'friendship': 5, 'actuallesbians': 5, 'bisexual': 3, 'ForeverAlone': 3, 'NarcissisticAbuse': 3, 'Drugs': 2, 'gay': 2, 'abuse': 2, 'MtF': 2, 'LSD': 2, 'depressed': 2, 'GriefSupport': 2, 'MDMA': 2, 'selfharm': 2, 'lgbt': 1, 'asktransgender': 1, 'leaves': 1, 'JUSTNOMIL': 1, 'rapecounseling': 1, 'raisedbynarcissists': 1, 'ftm': 1, 'survivorsofabuse': 1, 'LesbianActually': 1, 'agender': 1, 'Petioles': 1, 'pansexual': 1, 'transgenderUK': 1, 'gaybros': 1, 'LGBTeens': 1, 'widowers': 1}
+
+226
+['domestic', 'domestic violence', 'violence', 'abuse', 'charges', 'probation', 'children', 'people', 'gets', 'got caught', 'feels bad', 'narcissist', 'gets angry', 'supply', 'classes', 'cops', 'charge', 'hard times', 'just', 'physical']
+{'domesticviolence': 4, 'raisedbynarcissists': 3, 'NarcissisticAbuse': 2, 'relationship_advice': 1, 'Drugs': 1, 'trees': 1}
+
+149
+['throat', 'sensation', 'like', 'days', 'sore throat', 'lump', 'anxiety', 'feel', 'swallow', 've', 'swallowing', 'pain', 'sore', 'does', 'feeling', 'just', 'symptoms', 'day', 'cold', 'cough']
+{'HealthAnxiety': 6, 'DiagnoseMe': 4, 'Anxiety': 4, 'depression': 3, 'LSD': 2, 'SuicideWatch': 2, 'Drugs': 2, 'stopdrinking': 2, 'quittingkratom': 2, 'relationship_advice': 1, 'asktransgender': 1, 'EDAnonymous': 1, 'saplings': 1, 'relationships': 1, 'cocaine': 1, 'selfharm': 1, 'leaves': 1}
+
+234
+['water', 'ph', 'drink', 'bong', 'just', 'hot', 'soil', 'use', 'shower', 'filter', 'drink water', 'dissolve', 'day', 'pipe', 've', 'dry', 'using', 'add', 'argo', 'microdosing']
+{'microgrowery': 12, 'trees': 8, 'Drugs': 6, 'LSD': 5, 'askgaybros': 4, 'vaporents': 3, 'depression': 3, 'Anxiety': 2, 'MDMA': 2, 'EDAnonymous': 2, 'loseit': 2, 'kratom': 2, 'askdrugs': 2, 'shrooms': 2, 'leaves': 2, 'raisedbynarcissists': 2, 'researchchemicals': 2, 'Nootropics': 1, 'MtF': 1, 'adultsurvivors': 1, 'meth': 1, 'genderfluid': 1, 'Psychonaut': 1, 'relationship_advice': 1, 'shroomers': 1, 'stopdrinking': 1, 'AskDrugNerds': 1, 'adderall': 1, 'cocaine': 1, 'cripplingalcoholism': 1, 'fuckeatingdisorders': 1}
+
+129
+['term', 'long term', 'long', 'term relationship', 'relationship', 'just', 'like', 'looking long', 've', 'want', 'effects', 'advice', 'life', 'looking', 'time', 'help', 'talk', 'good', 'feel', 'tolerance']
+{'relationship_advice': 10, 'depression': 8, 'MakeNewFriendsHere': 7, 'depressionregimens': 2, 'askdrugs': 2, 'relationships': 2, 'survivinginfidelity': 2, 'trees': 2, 'Nootropics': 2, 'leaves': 2, 'bisexual': 2, 'SuicideWatch': 1, 'kratom': 1, 'snapchat': 1, 'LSD': 1, 'Drugs': 1, 'Psychonaut': 1, 'DeadBedrooms': 1, 'penpals': 1, 'OpiatesRecovery': 1, 'selfharm': 1, 'Anxiety': 1, 'askgaybros': 1, 'lgbt': 1, 'loseit': 1, 'ftm': 1, 'ForeverAlone': 1, 'family': 1, 'LGBTeens': 1, 'asktransgender': 1, 'shrooms': 1}
+
+139
+['movies', 'shows', 'tv shows', 'tv', 'music', 'like', 'shows movies', 'friends', 'games', 'looking', 'memes', 'favorite', 'don', 'people', 'talk', 'love', 'lonely', 'watching', 'anime', 'chat']
+{'MakeNewFriendsHere': 17, 'Needafriend': 9, 'penpals': 2, 'depression': 2, 'lonely': 2, 'Anxiety': 1, 'cocaine': 1, 'Psychonaut': 1, 'gay': 1, 'lgbt': 1}
+
+182
+['watch', 'video', 'movie', 'netflix', 'videos', 'film', 'gay', 'amp', 'like watch', 'tripping', 'football', 'stars', 'youtube', 'like', 'favorite', 'streaming', 'just', 'suggestions', 'prime', 'frequency']
+{'LSD': 5, 'askgaybros': 5, 'gaybros': 3, 'raisedbynarcissists': 3, 'trans': 2, 'lgbt': 2, 'asktransgender': 2, 'trees': 2, 'Drugs': 2, 'friendship': 1, 'MakeNewFriendsHere': 1, 'fuckeatingdisorders': 1, 'relationship_advice': 1, 'OpiatesRecovery': 1, 'Anxiety': 1, 'stopdrinking': 1, 'MadeOfStyrofoam': 1, 'drugscirclejerk': 1, 'LesbianActually': 1, 'MDMA': 1, 'highschool': 1, 'actuallesbians': 1, 'relationships': 1, 'cripplingalcoholism': 1, 'depressed': 1, 'drunk': 1}
+
+12
+['weight', 'gain', 'fat', 'weight gain', 'gaining', 'gaining weight', 'gain weight', 'bmi', 'look', 've', 'like', 'don', 'want', 'underweight', 'healthy', 'just', 'feel', 'pounds', 'lbs', 'loss']
+{'EDAnonymous': 19, 'loseit': 6, 'fuckeatingdisorders': 4, 'depression': 3, 'asktransgender': 3, 'relationship_advice': 2, 'raisedbynarcissists': 2, 'DiagnoseMe': 2, 'EatingDisorders': 1, 'EatingDisorderHope': 1, 'transpositive': 1, 'Drugs': 1, 'depressionregimens': 1, 'MtF': 1}
+
+104
+['sleep', 'night', 'wake', 'asleep', 'bed', 'tired', 'just', 'awake', 'like', 'hours', 'fall asleep', 'day', 've', 'fall', 'sleeping', 'don', 'anxiety', 'work', 'time', 'feel']
+{'depression': 32, 'Anxiety': 22, 'relationship_advice': 11, 'EDAnonymous': 9, 'leaves': 9, 'SuicideWatch': 7, 'Nootropics': 6, 'stopdrinking': 4, 'Drugs': 4, 'quittingkratom': 4, 'cripplingalcoholism': 3, 'kratom': 2, 'HealthAnxiety': 2, 'trees': 2, 'drunk': 1, 'MakeNewFriendsHere': 1, 'highschool': 1, 'AskDrugNerds': 1, 'StackAdvice': 1, 'ftm': 1, 'dxm': 1, 'lonely': 1, 'Anxietyhelp': 1, 'relationships': 1, 'DiagnoseMe': 1, 'LSD': 1, 'abuse': 1, 'socialanxiety': 1, 'NarcissisticAbuse': 1, 'selfharm': 1, 'MtF': 1, 'OpiatesRecovery': 1, 'depressionregimens': 1, 'REDDITORSINRECOVERY': 1, 'loseit': 1, 'asktransgender': 1, 'LesbianActually': 1, 'Stims': 1, 'Psychonaut': 1, 'raisedbynarcissists': 1, 'AnxietyDepression': 1, 'fuckeatingdisorders': 1, 'askgaybros': 1}
+
+160
+['drink', 'drinking', 'day', 'today', 'drink today', 'drunk', 'days', 'night', 'sober', 'just', 'alcohol', 'time', 'sobriety', 'want', 'don', 'want drink', 'need', 'like', 'know', 'alcoholic']
+{'stopdrinking': 90, 'drunk': 6, 'alcoholism': 5, 'alcoholicsanonymous': 4, 'dryalcoholics': 4, 'EDAnonymous': 3, 'cripplingalcoholism': 2, 'relationship_advice': 2, 'quittingkratom': 1, 'Drugs': 1, 'Anxiety': 1, 'AlAnon': 1, 'MDMA': 1, 'depression': 1, 'bibros': 1, 'kratom': 1, 'relationships': 1, 'Alcoholism_Medication': 1, 'askgaybros': 1}
+
+195
+['tent', 'grow', 'grow tent', 'plants', 'light', 'xx', 'room', 'quantum', 'fan', 'humidity', 'basement', 'veg', 'lights', 'pots', 'board', 'seed', 'led', 'qb', 'air', 'size']
+{'microgrowery': 29, 'shrooms': 1, 'trees': 1, 'LSD': 1, 'druggardening': 1}
+
+141
+['dick', 'sucking', 'suck', 'like', 'cock', 'advice', 'sex', 'just', 'guys', 'pussy', 'really', 'bottoming', 'shave', 'want', 'love', 'smell', 'wears', 'think', 'stranger', 'swim']
+{'askgaybros': 16, 'asktransgender': 2, 'gay': 2, 'relationship_advice': 2, 'Stims': 2, 'ftm': 1, 'transgenderUK': 1, 'ask_transgender': 1, 'cocaine': 1, 'shrooms': 1, 'researchchemicals': 1, 'lgbt': 1}
+
+116
+['dysphoria', 'gender', 'trans', 'gender dysphoria', 'like', 've', 'body', 'transition', 'really', 'feel', 'just', 'people', 'lot', 'don', 'female', 'cis', 'male', 'think', 'look', 'feminine']
+{'asktransgender': 24, 'ftm': 14, 'MtF': 4, 'lgbt': 4, 'ask_transgender': 4, 'trans': 3, 'genderfluid': 3, 'genderqueer': 3, 'GCdebatesQT': 2, 'transgendercirclejerk': 2, 'EDAnonymous': 1, 'transpositive': 1, 'agender': 1, 'transgenderUK': 1, 'ainbow': 1}
+
+60
+['sub', 'new sub', 'people', 'new', 'thanks', 'people sub', 'mods', 'post', 'thank', 'posts', 'say', 'support', 'wiki', 'just', 'subreddit', 'lot', 'exists', 'like', 'grateful', 'disabilities']
+{'stopdrinking': 5, 'depression': 4, 'shrooms': 2, 'DeadBedrooms': 2, 'lgbt': 2, 'transgendercirclejerk': 1, 'DiagnoseMe': 1, 'leaves': 1, 'actuallesbians': 1, 'asexuality': 1, 'Anxiety': 1, 'trees': 1, 'NarcissisticAbuse': 1, 'relationship_advice': 1, 'raisedbynarcissists': 1, 'ForeverAlone': 1, 'adultery': 1, 'LSD': 1, 'dxm': 1, 'Drugs': 1, 'kratom': 1, 'MakeNewFriendsHere': 1, 'selfharm': 1, 'trans': 1, 'bisexualadults': 1, 'cripplingalcoholism': 1, 'druggardening': 1, 'raisedbyborderlines': 1, 'SuicideWatch': 1}
+
+9
+['eat', 'eating', 'food', 'like', 'hungry', 'just', 've', 'don', 'foods', 'day', 'hunger', 'high', 'want eat', 'meal', 'normally', 'want', 'time', 'dinner', 'weed', 'feel']
+{'EDAnonymous': 23, 'fuckeatingdisorders': 4, 'Anxiety': 4, 'loseit': 3, 'leaves': 2, 'Drugs': 2, 'trees': 2, 'eating_disorders': 2, 'raisedbynarcissists': 1, 'JUSTNOFAMILY': 1, 'AnxietyDepression': 1, 'quittingkratom': 1, 'vaporents': 1, 'SuicideWatch': 1, 'relationship_advice': 1, 'DiagnoseMe': 1, 'EatingDisorders': 1, 'depression': 1}
+
+157
+['drugs', 'drug', 'weed', 'just', 'like', 'alcohol', 'people', 'know', 'don', 'use', 'feel', 'want', 'time', 'think', 'hard drugs', 'hard', 've', 'got', 'life', 'test']
+{'Drugs': 44, 'relationship_advice': 7, 'Stims': 6, 'LSD': 5, 'depression': 5, 'stopdrinking': 3, 'MDMA': 2, 'askdrugs': 2, 'raisedbynarcissists': 2, 'family': 1, 'lonely': 1, 'Nootropics': 1, 'cocaine': 1, 'trees': 1, 'askgaybros': 1, 'relationships': 1, 'researchchemicals': 1, 'Needafriend': 1, 'drugscirclejerk': 1, 'alcoholicsanonymous': 1, 'Psychonaut': 1, 'Crainn': 1}
+
+244
+['cake', 'cakes', 'brf', 'fruiting', 'pf', 'chamber', 'tek', 'flush', 'rice', 'bin', 'wedding', 'pie', 'trash', 'jar', 'day', 'monotub', 'just', 'th', 'ice cream', 'pretty']
+{'shrooms': 11, 'EDAnonymous': 4, 'relationship_advice': 2, 'JUSTNOFAMILY': 1, 'shroomers': 1, 'asexuality': 1, 'MakeNewFriendsHere': 1, 'trees': 1, 'DeadBedrooms': 1, 'JUSTNOMIL': 1, 'socialanxiety': 1}
+
+74
+['injections', 'transitioning', 'transition', 'testosterone', 'mtf', 'advice', 'hrt', 'doctor', 'levels', 'really', 'dysphoria', 'help', 'male', 'looking', 've', 'switch', 'gender', 'use', 'estradiol', 'currently']
+{'asktransgender': 9, 'ftm': 3, 'MtF': 2, 'transgenderau': 2, 'relationship_advice': 1, 'genderqueer': 1, 'DiagnoseMe': 1, 'microgrowery': 1, 'ask_transgender': 1, 'REDDITORSINRECOVERY': 1, 'StackAdvice': 1, 'depression': 1}
+
+188
+['feminine', 'makeup', 'dress', 'wear', 'look', 'like', 'just', 'want', 'don', 'masculine', 'feel', 'really', 'hair', 'things', 'gender', 'clothing', 'man', 've', 'wearing', 'know']
+{'asktransgender': 11, 'MtF': 6, 'lgbt': 5, 'askgaybros': 3, 'genderqueer': 2, 'ftm': 2, 'actuallesbians': 2, 'ask_transgender': 2, 'trans': 2, 'relationship_advice': 2, 'raisedbynarcissists': 2, 'genderfluid': 1, 'mypartneristrans': 1, 'depression': 1, 'GCdebatesQT': 1, 'raisedbyborderlines': 1, 'transgenderteens': 1, 'pansexual': 1, 'ainbow': 1, 'gay': 1, 'agender': 1, 'bisexual': 1, 'JUSTNOMIL': 1, 'transpositive': 1, 'TransSpace': 1, 'BodyImage': 1, 'transgenderUK': 1}
+
+119
+['ma', 'snap', 'bored', 'pm', 'snaps', 'streaks', 'chat', 'map', 'looking', 'username', 'user', 'work', 'message', 'sick', 'dying', 'uk', 'talk', 'day', 'ur', 'just dont']
+{'snapchat': 21, 'leaves': 2, 'MtF': 1, 'bisexual': 1, 'JUSTNOMIL': 1, 'Needafriend': 1}
+
+185
+['family', 'family members', 'members', 'want', 'know', 'don', 'like', 'just', 'tell', 'extended family', 'mom', 'extended', 'think', 'years', 'dad', 'friends', 'feel', 'life', 'sister', 'nc']
+{'relationship_advice': 12, 'raisedbynarcissists': 9, 'relationships': 6, 'bisexual': 5, 'family': 4, 'raisedbyborderlines': 4, 'asktransgender': 4, 'depression': 4, 'adultsurvivors': 3, 'SuicideWatch': 3, 'JUSTNOMIL': 3, 'gay': 2, 'lgbt': 2, 'askgaybros': 2, 'ftm': 2, 'bullying': 1, 'ask_transgender': 1, 'Drugs': 1, 'Psychonaut': 1, 'SuicideBereavement': 1, 'adultery': 1, 'Anxiety': 1, 'selfharm': 1, 'socialanxiety': 1, 'LGBTeens': 1, 'MtF': 1, 'JUSTNOFAMILY': 1, 'NarcissisticAbuse': 1, 'ForeverAlone': 1, 'Marriage': 1, 'alcoholicsanonymous': 1, 'FamilyIssues': 1, 'asexuality': 1}
+
+29
+['mf', 'snap', 'bored', 'dm', 'chat', 'pm', 'looking', 'username', 'new', 'add', 'snapchat', 'uk', 'message', 'friends', 'talk', 'user', 'streaks', 'bio', 'looking new', 'chill']
+{'snapchat': 49, 'MakeNewFriendsHere': 3, 'relationship_advice': 2, 'trees': 1}
+
+13
+['friday', 'monday', 'saturday', 'night', 'sunday', 'week', 'day', 'friday night', 'thursday', 'work', 'beers', 'new job', 'th', 'weekend', 'september', 'daily check', 'new', 'time', 'links', 'like']
+{'stopdrinking': 12, 'trees': 4, 'cripplingalcoholism': 2, 'Drugs': 2, 'leaves': 2, 'depression': 2, 'gaybros': 2, 'relationship_advice': 2, 'Petloss': 1, 'drunk': 1, 'LSD': 1, 'loseit': 1, 'OpiatesRecovery': 1, 'SuicideWatch': 1, 'Anxiety': 1, 'MDMA': 1, 'askgaybros': 1, 'loveafterporn': 1, 'LGBTeens': 1, 'GCdebatesQT': 1, 'relationships': 1, 'ftm': 1, 'EOOD': 1}
+
+155
+['gay', 'straight', 'people', 'just', 'guys', 'like', 'gay guys', 'men', 'gay people', 'know', 'don', 'guy', 'help', 'think', 'friend', 'club', 'gays', 'friends', 'really', 'gay guy']
+{'askgaybros': 47, 'gay': 16, 'lgbt': 9, 'gaybros': 9, 'LGBTeens': 8, 'actuallesbians': 7, 'bisexual': 6, 'ftm': 5, 'transgendercirclejerk': 5, 'relationship_advice': 4, 'LesbianActually': 3, 'relationships': 2, 'drugscirclejerk': 1, 'SuicideWatch': 1, 'lonely': 1, 'pansexual': 1, 'RightwingLGBT': 1, 'cripplingalcoholism': 1, 'ainbow': 1}
+
+21
+['aco', 'zone', 'psychedelic', 'thoughts', 'dmt', 'deep', 'reality', 'like', 'burning', 'myfort zone', 'myfort', 'artwork', 'clenching', 'organs', 'cough', 'grinding', 'gallery', 've', 've looking', 'increase']
+{'researchchemicals': 4, 'LSD': 4, 'Anxiety': 2, 'depression': 2, 'leaves': 1, 'genderfluid': 1, 'selfharm': 1, 'SuicideWatch': 1, 'LGBTeens': 1, 'shroomers': 1, 'trans': 1, 'adultsurvivors': 1}
+
+215
+['worse', 'feel', 'feel worse', 'makes feel', 'makes', 'just', 'don', 'depression', 'like', 'want', 'feel like', 'know', 'think', 've', 'make', 'suicide', 'really', 'self', 'people', 'way']
+{'depression': 18, 'SuicideWatch': 7, 'relationship_advice': 5, 'selfharm': 3, 'raisedbynarcissists': 2, 'Anxiety': 2, 'loveafterporn': 1, 'widowers': 1, 'bisexual': 1, 'bullying': 1, 'Drugs': 1, 'EDAnonymous': 1, 'alcoholism': 1, 'DeadBedrooms': 1, 'ForeverAlone': 1, 'ftm': 1, 'socialanxiety': 1, 'MtF': 1, 'HealthAnxiety': 1, 'stopdrinking': 1, 'depressed': 1, 'asexuality': 1}
+
+233
+['hard', 'hard time', 'time', 'having', 'having hard', 'really hard', 'really', 'having really', 'just', 've', 'life', 'know', 'like', 'getting', 'need', 'frustrating', 'work', 'hard just', 'feel', 'trying']
+{'relationship_advice': 8, 'depression': 6, 'raisedbynarcissists': 5, 'stopdrinking': 4, 'Petloss': 3, 'SuicideWatch': 2, 'AnxietyDepression': 2, 'askgaybros': 2, 'Anxiety': 2, 'ftm': 2, 'alcoholicsanonymous': 2, 'relationships': 2, 'adultery': 2, 'alcoholism': 1, 'asktransgender': 1, 'lonely': 1, 'family': 1, 'MakeNewFriendsHere': 1, 'leaves': 1, 'LesbianActually': 1, 'mypartneristrans': 1, 'eldertrees': 1, 'trans': 1, 'LGBTeens': 1, 'ttcafterloss': 1, 'Needafriend': 1, 'GriefSupport': 1, 'DiagnoseMe': 1, 'depressed': 1, 'ask_transgender': 1, 'actuallesbians': 1, 'trees': 1, 'EDAnonymous': 1, 'cocaine': 1}
+
+232
+['cut', 'cutting', 'just', 'cuts', 'just cut', 'deep', 'don', 'scars', 'arm', 'deeper', 'want', 'wrist', 'know', 'like', 'feel', 'bad', 'want cut', 've', 'time', 'help']
+{'selfharm': 45, 'MadeOfStyrofoam': 6, 'SuicideWatch': 6, 'depression': 5, 'raisedbynarcissists': 2, 'lgbt': 1, 'Drugs': 1, 'relationship_advice': 1, 'EstrangedAdultChild': 1, 'microgrowery': 1, 'Petioles': 1, 'relationships': 1, 'vaporents': 1}
+
+213
+['clean', 'months clean', 'years clean', 'months', 'streak', 'proud', 'really', 'im', 'don', 'relapsed', 'broke', 'years', 'just', 'time', 'long', 'anymore', 'stay', 'want', 'day', 'idk']
+{'selfharm': 18, 'MadeOfStyrofoam': 6, 'depression': 2, 'raisedbynarcissists': 2, 'OpiatesRecovery': 2, 'Drugs': 2, 'relationship_advice': 2, 'leaves': 1, 'cocaine': 1, 'relationships': 1, 'JUSTNOMIL': 1, 'quittingkratom': 1, 'REDDITORSINRECOVERY': 1, 'trees': 1}
+
+190
+['pain', 'just', 'jaw', 've', 'left', 'like', 'help', 'feel', 'right', 'don', 'lower', 'abdominal', 'know', 'chronic', 'pain ve', 'symptoms', 'life', 'sick', 'doctor', 'ribs']
+{'depression': 15, 'DiagnoseMe': 15, 'SuicideWatch': 9, 'Anxiety': 6, 'HealthAnxiety': 5, 'kratom': 4, 'Drugs': 4, 'raisedbynarcissists': 2, 'trees': 2, 'LSD': 2, 'asktransgender': 2, 'stopdrinking': 1, 'fuckeatingdisorders': 1, 'researchchemicals': 1, 'selfharm': 1, 'alcoholism': 1, 'ftm': 1, 'EDAnonymous': 1, 'MtF': 1, 'relationship_advice': 1, 'SuicideBereavement': 1, 'MadeOfStyrofoam': 1, 'OpiatesRecovery': 1, 'loseit': 1, 'JUSTNOMIL': 1, 'survivinginfidelity': 1, 'dxm': 1, 'depressed': 1}
+
+111
+['mushroom', 'psilocybin', 'magic', 'mushrooms', 'excited', 'cubensis', 'dose', 'tea', 'gifted', 'chemical', 'respecting', 'season', 'small dose', 'relation', 'does know', 'does', 'ref', 'prices', 'information', 'dp']
+{'shrooms': 11, 'shroomers': 1, 'Crainn': 1, 'Psychonaut': 1, 'Nootropics': 1}
+
+145
+['send', 'message', 'send message', 'chat', 'looking', 'gamer', 'just chat', 'play', 'looking people', 'just', 'hey', 'people', 'don', 'hi', 'interested', 'like', 'really', 'll', 'memes', 'talk']
+{'MakeNewFriendsHere': 11, 'Needafriend': 6, 'penpals': 2, 'askgaybros': 2, 'socialanxiety': 1, 'cocaine': 1, 'trees': 1, 'stopdrinking': 1, 'gaymers': 1, 'snapchat': 1, 'actuallesbians': 1}
+
+239
+['bored', 'just bored', 'sexuality', 'just', 'deleted', 'talk', 'questioning sexuality', 'hey just', 'pm', 'dm', 'discord', 'php', 'figuring', 'good', 'cursing', 'actual', 'looking', 'questioning', 'feel', 'really']
+{'MakeNewFriendsHere': 4, 'bisexual': 3, 'depression': 2, 'snapchat': 2, 'stopdrinking': 1, 'Needafriend': 1, 'lonely': 1, 'textfriends': 1, 'lgbt': 1, 'cocaine': 1}
+
+17
+['media', 'social media', 'social', 'post', 'pictures', 'instagram', 'facebook', 'relationship', 'like', 'just', 'posts', 'people', 'accounts', 'don', 'friends', 'years', 'want', 'guy', 'boyfriend', 'time']
+{'relationship_advice': 17, 'depression': 6, 'askgaybros': 3, 'NarcissisticAbuse': 2, 'relationships': 2, 'MakeNewFriendsHere': 2, 'ftm': 1, 'stopdrinking': 1, 'transgendercirclejerk': 1, 'FriendshipAdvice': 1, 'raisedbynarcissists': 1, 'lgbt': 1, 'adultery': 1, 'gaybros': 1, 'depressed': 1, 'Needafriend': 1, 'Psychonaut': 1, 'loseit': 1, 'microgrowery': 1}
+
+61
+['names', 'gender neutral', 'neutral', 'trans', 'like', 'did', 'gender', 'consider', 'middle', 've', 'ones', 'list', 'choose', 'want', 'factors', 'birth', 'choosing', 'current', 'lease', 'inspired']
+{'asktransgender': 5, 'relationship_advice': 4, 'MtF': 2, 'Marriage': 2, 'trans': 1, 'genderfluid': 1, 'trees': 1, 'ftm': 1, 'JUSTNOFAMILY': 1, 'AskLGBT': 1, 'actuallesbians': 1, 'shrooms': 1}
+
+135
+['mail', 'snail', 'snail mail', 'love', 'letters', 'looking', 'pen', 'writing', 'interested', 'pal', 'like', 'email', 'penpals', 'people', 'talk', 'pen pal', 'send', 'new', 'write', 'art']
+{'penpals': 37, 'trees': 1, 'Needafriend': 1, 'relationship_advice': 1, 'EstrangedAdultChild': 1, 'MakeNewFriendsHere': 1, 'raisedbynarcissists': 1}
+
+202
+['san', 'ca', 'question', 'direction', 'does', 'bay', 'folk', 'doctor', 'area', 'amy', 'help', 'james', 'selling', 'trans friendly', 'chairs', 'looking', 'near', 'best time', 'correct', 'circumstances']
+{'cripplingalcoholism': 3, 'asktransgender': 2, 'survivinginfidelity': 1, 'adultery': 1, 'druggardening': 1, 'survivorsofabuse': 1, 'bisexual': 1, 'ftm': 1, 'Needafriend': 1, 'trans': 1, 'actuallesbians': 1, 'transgendercirclejerk': 1, 'Drugs': 1, 'MakeNewFriendsHere': 1, 'trees': 1, 'relationship_advice': 1}
+
+245
+['hair', 'body hair', 'cut', 'body', 'like', 'grow', 'shaving', 'shave', 'shaved', 'long', 'just', 'loss', 'really', 'cut hair', 'does', 'haircut', 've', 'don', 'facial', 'long hair']
+{'asktransgender': 11, 'MtF': 8, 'ftm': 6, 'raisedbynarcissists': 6, 'actuallesbians': 5, 'askgaybros': 4, 'lgbt': 3, 'EDAnonymous': 3, 'depression': 2, 'JUSTNOFAMILY': 2, 'trans': 2, 'gay': 1, 'stopdrinking': 1, 'Marriage': 1, 'LGBTeens': 1, 'DeadBedrooms': 1, 'relationships': 1, 'socialanxiety': 1, 'MadeOfStyrofoam': 1, 'truelesbians': 1, 'selfharm': 1, 'quittingkratom': 1, 'BodyAcceptance': 1, 'Stims': 1}
+
+153
+['lonely', 'feel lonely', 'feel', 'loneliness', 'just', 'people', 'like', 'wish', 'friends', 'lonely feel', 'depressed', 'life', 'sad', 'time', 'really', 'forever', 'feel like', 'don', 'know', 'need']
+{'lonely': 24, 'depression': 6, 'loneliness': 4, 'MakeNewFriendsHere': 3, 'Needafriend': 2, 'SuicideWatch': 2, 'relationship_advice': 2, 'askgaybros': 1, 'Anxiety': 1, 'ForeverAlone': 1, 'stopdrinking': 1, 'drunk': 1, 'survivinginfidelity': 1, 'socialanxiety': 1}
+
+223
+['time', 'recipe', 'time ve', 've', 'long time', 'long', 'bake', 'time long', 'france', 'oil', 'coconut', 'baking', 'oldest', 'really nice', 'thc', 'hour', 've used', 'cheese', 'aunt', 'nice']
+{'trees': 6, 'asktransgender': 2, 'lgbt': 2, 'leaves': 2, 'raisedbynarcissists': 2, 'researchchemicals': 1, 'Psychonaut': 1, 'socialanxiety': 1, 'depression': 1, 'LesbianActually': 1, 'vaporents': 1, 'LSD': 1, 'Drugs': 1, 'MakeNewFriendsHere': 1, 'SuicideWatch': 1, 'relationship_advice': 1, 'stopdrinking': 1, 'cripplingalcoholism': 1, 'askgaybros': 1, 'shrooms': 1}
+
+57
+['jars', 'mycelium', 'jar', 'brf', 'curing', 'inoculated', 'grain', 'dry', 'water', 'spores', 'humidity', 'cure', 'buds', 'signs', 'substrate', 'spawn', 'smell', 'using', 'days', 'harvest']
+{'shrooms': 16, 'shroomers': 7, 'microgrowery': 5, 'trees': 2, 'asktransgender': 1}
+
+14
+['told', 'best', 'messaging', 'friend', 'person', 'best friend', 'just', 'really', 'feel', 'asked', 'cancer', 'messages', 'like', 'said', 'replied', 'saying', 'going', 'want', 'meet', 'bad']
+{'relationship_advice': 23, 'lonely': 4, 'SuicideWatch': 3, 'askgaybros': 3, 'depression': 3, 'NarcissisticAbuse': 3, 'relationships': 2, 'LGBTeens': 1, 'JUSTNOMIL': 1, 'HealthAnxiety': 1, 'AlAnon': 1, 'EstrangedAdultChild': 1, 'asexuality': 1, 'abuse': 1, 'family': 1, 'rapecounseling': 1}
+
+209
+['just got', 'got', 'just', 'tolerance', 'break', 'tolerance break', 'high', 've', 'pretty', 'girl', 'shot', 'tool', 'want', 'good', 'dabs', 'finally', 'getting', 'super', 'girl just', 'gas']
+{'trees': 11, 'relationship_advice': 7, 'depression': 4, 'Drugs': 3, 'ftm': 2, 'actuallesbians': 2, 'MakeNewFriendsHere': 1, 'lgbt': 1, 'survivorsofabuse': 1, 'EDAnonymous': 1, 'kratom': 1, 'JUSTNOMIL': 1, 'lonely': 1, 'trans': 1, 'AlAnon': 1, 'Stims': 1, 'NarcissisticAbuse': 1, 'MDMA': 1, 'pillhead': 1, 'EOOD': 1, 'fuckeatingdisorders': 1, 'snapchat': 1, 'stopdrinking': 1, 'selfharm': 1}
+
+33
+['binder', 'binders', 'gcb', 'wear', 'binding', 'chest', 'wearing', 'size', 'new', 'smaller', 'measure', 'just', 'bind', 'dysphoria', 'look', 'getting', 've', 'flat', 'measured', 'nude']
+{'ftm': 25, 'transgenderau': 1, 'lgbt': 1, 'transgenderUK': 1, 'mypartneristrans': 1, 'asktransgender': 1, 'trans': 1}
+
+41
+['im', 'dont', 'like', 'feel', 'just', 'ive', 'im scared', 'like im', 'know', 'want', 'dont know', 'im just', 'scared', 'going', 'feel like', 'thats', 'day', 'time', 'wanna', 'friends']
+{'depression': 31, 'SuicideWatch': 14, 'Needafriend': 8, 'MakeNewFriendsHere': 8, 'Anxiety': 8, 'relationship_advice': 8, 'Drugs': 5, 'raisedbynarcissists': 5, 'ftm': 5, 'bisexual': 5, 'lgbt': 3, 'EDAnonymous': 3, 'DiagnoseMe': 3, 'trees': 3, 'selfharm': 3, 'dxm': 3, 'actuallesbians': 2, 'shrooms': 2, 'socialanxiety': 2, 'askgaybros': 2, 'HealthAnxiety': 2, 'relationships': 2, 'Stims': 2, 'lonely': 2, 'LesbianActually': 1, 'researchchemicals': 1, 'StopSpeeding': 1, 'GriefSupport': 1, 'alcoholism': 1, 'DeadBedrooms': 1, 'BingeEatingDisorder': 1, 'transgamers': 1, 'ForeverAlone': 1, 'drunk': 1, 'MDMA': 1, 'adderall': 1, 'AnxietyDepression': 1, 'stopdrinking': 1, 'LSD': 1, 'quittingkratom': 1, 'MadeOfStyrofoam': 1, 'MtF': 1, 'Anxietyhelp': 1, 'NarcissisticAbuse': 1, 'MiddleSchool': 1, 'gay': 1, 'ask_transgender': 1, 'gaymers': 1, 'asexuality': 1, 'cripplingalcoholism': 1}
+
+121
+['apps', 'dating', 'dating apps', 'app', 'dating app', 'just', 'use', 'grindr', 'meet', 'like', 'people', 'gay', 'know', 've', 'profile', 'tinder', 'feel', 'women', 'dates', 'got']
+{'askgaybros': 11, 'actuallesbians': 6, 'relationship_advice': 6, 'depression': 2, 'bisexual': 2, 'ForeverAlone': 2, 'MtF': 2, 'gaybros': 2, 'relationships': 2, 'microgrowery': 1, 'Drugs': 1, 'lonely': 1, 'gay': 1, 'raisedbynarcissists': 1, 'DeadBedrooms': 1, 'adultery': 1, 'EDAnonymous': 1, 'stopdrinking': 1, 'asexuality': 1, 'leaves': 1, 'Anxiety': 1}
+
+176
+['lgbtq', 'join', 'lgbtq munity', 'munity', 'groups', 'rights', 'queer', 'people', 'podcast', 'know', 'looking', 'amunity', 'friends', 'usa', 'want join', 'hitting', 'minecraft', 'ideas', 'group', 'women']
+{'lgbt': 10, 'bisexual': 3, 'ainbow': 2, 'asexuality': 2, 'gay': 2, 'actuallesbians': 2, 'Marriage': 1, 'Needafriend': 1, 'LGBTeens': 1, 'transgendercirclejerk': 1, 'MakeNewFriendsHere': 1, 'penpals': 1, 'cocaine': 1, 'gaymers': 1, 'relationship_advice': 1}
+
+143
+['seeds', 'plant', 'seed', 'ordering', 'water', 'grow', 'buy', 'order', 'auto', 'brick', 'females', 'use', 'source', 'online', 'genetics', 'bowl', 'bag', 'good', 'australia', 'consumption']
+{'microgrowery': 19, 'trees': 4, 'askgaybros': 1, 'Drugs': 1, 'druggardening': 1, 'AskDrugNerds': 1, 'Psychonaut': 1}
+
+4
+['drive', 'sex drive', 'sex', 'partner', 'want', 'location', 'relationship', 'just', 'know', 'feel', 'don', 'does want', 'sexual', 'said', 'want know', 'wants', 'actually', 'high', 'years', 'high sex']
+{'relationship_advice': 4, 'DeadBedrooms': 3, 'SuicideWatch': 2, 'depression': 2, 'raisedbynarcissists': 2, 'leaves': 1, 'raisedbyborderlines': 1, 'adultery': 1, 'stopdrinking': 1, 'relationships': 1, 'MtF': 1, 'bisexual': 1, 'asexuality': 1, 'EDAnonymous': 1, 'Stims': 1, 'dxm': 1, 'MakeNewFriendsHere': 1}
+
+2
+['ve', 'suicide', 'lost', 'tried', 'just', 've lost', 'life', 've tried', 'feel', 'don', 'like', 'years', 'day', 'anymore', 'kill', 'things', 'know', 'really', 'friends', 'time']
+{'depression': 37, 'SuicideWatch': 25, 'EDAnonymous': 3, 'trees': 3, 'lonely': 3, 'relationship_advice': 3, 'leaves': 3, 'askgaybros': 3, 'loseit': 2, 'NarcissisticAbuse': 2, 'MtF': 2, 'Anxiety': 2, 'Petloss': 1, 'alcoholicsanonymous': 1, 'ftm': 1, 'raisedbynarcissists': 1, 'AnxietyDepression': 1, 'asktransgender': 1, 'relationships': 1, 'StackAdvice': 1, 'selfharm': 1, 'Needafriend': 1, 'Stims': 1, 'LSD': 1, 'cocaine': 1, 'BingeEatingDisorder': 1, 'GriefSupport': 1}
+
+125
+['tinder', 'email', 'account', 'date', 'guys', 'just', 'dating', 'matches', 'people', 'grindr', 'new', 'deleted', 'facebook', 'don', 'phone', 'access', 'use', 'know', 'username', 'finally']
+{'relationship_advice': 8, 'adultery': 5, 'askgaybros': 5, 'ForeverAlone': 2, 'penpals': 1, 'ftm': 1, 'vaporents': 1, 'relationships': 1, 'JUSTNOMIL': 1, 'actuallesbians': 1, 'transgendercirclejerk': 1, 'raisedbyborderlines': 1, 'AnxietyDepression': 1, 'socialanxiety': 1, 'MtF': 1, 'survivinginfidelity': 1, 'Anxiety': 1, 'drunk': 1, 'asexuality': 1, 'asktransgender': 1, 'gay': 1}
+
+109
+['food', 'eat', 'ate', 'fast food', 'just', 'eating', 've', 'day', 'diet', 'like', 'fast', 'feel', 'calories', 'meals', 'don', 'thing', 'good', 'getting', 'work', 'favorite']
+{'EDAnonymous': 15, 'loseit': 5, 'depression': 4, 'FoodAddiction': 4, 'raisedbynarcissists': 4, 'stopdrinking': 3, 'Anxiety': 3, 'HealthAnxiety': 2, 'shrooms': 2, 'trees': 2, 'BingeEatingDisorder': 2, 'fuckeatingdisorders': 1, 'socialanxiety': 1, 'askgaybros': 1, 'bisexual': 1, 'eating_disorders': 1, 'friendship': 1, 'OpiatesRecovery': 1, 'cripplingalcoholism': 1, 'StackAdvice': 1, 'researchchemicals': 1, 'asktransgender': 1, 'JUSTNOMIL': 1, 'Stims': 1, 'gaybros': 1, 'leaves': 1, 'actuallesbians': 1, 'Drugs': 1}
+
+42
+['visuals', 'trip', 'felt', 'like', 'eyes', 'closed', 'eye', 'just', 'looked', 'started', 'time', 'body', 'felt like', 'dmt', 'intense', 'lsd', 'experienced', 'took', 'really', 'different']
+{'LSD': 12, 'Psychonaut': 8, 'shrooms': 8, 'Drugs': 5, 'researchchemicals': 3, 'dxm': 2, 'shroomers': 1}
+
+142
+['cbd', 'oil', 'cbd oil', 'theanine', 'weed', 'mg', 'strain', 'thc', 'high', 'tincture', 'pain', 'tried', 'using', 'ashwagandha', 'blog', 'help', 'carts', 'use', 've', 'like']
+{'trees': 6, 'depression': 3, 'microgrowery': 3, 'AskDrugNerds': 1, 'Anxiety': 1, 'Nootropics': 1, 'Petioles': 1, 'kratom': 1, 'StackAdvice': 1, 'vaporents': 1, 'eldertrees': 1}
+
+193
+['body', 'like', 'just', 'feel', 'look', 'does', 'want', 'hate', 'muscle', 'know', 'tired', 'weight', 'hate body', 'really', 'time', 'thighs', 'need', 'way', 'help', 'muscles']
+{'EDAnonymous': 7, 'depression': 6, 'MtF': 6, 'relationship_advice': 6, 'asktransgender': 5, 'HealthAnxiety': 5, 'LSD': 3, 'loseit': 3, 'askgaybros': 2, 'BodyAcceptance': 2, 'SuicideWatch': 2, 'raisedbynarcissists': 2, 'stopdrinking': 2, 'selfharm': 1, 'agender': 1, 'truelesbians': 1, 'BingeEatingDisorder': 1, 'Drugs': 1, 'Psychonaut': 1, 'DiagnoseMe': 1, 'ttcafterloss': 1, 'depressed': 1, 'trees': 1, 'meth': 1, 'Stims': 1, 'trans': 1, 'raisedbyborderlines': 1, 'Marriage': 1}
+
+151
+['curious', 'just curious', 'just', 'did', 'people', 'does', 've', 'experience', 'time', 'think', 'heard', 'like', 'ego', 'hear', 'know', 'picking', 'feature', 'curious people', 'thc', 'getting']
+{'trees': 4, 'Drugs': 4, 'Psychonaut': 4, 'askgaybros': 3, 'depression': 3, 'LSD': 2, 'asexuality': 2, 'relationship_advice': 2, 'raisedbynarcissists': 2, 'DeadBedrooms': 2, 'asktransgender': 2, 'shrooms': 2, 'ftm': 2, 'gay': 2, 'LGBTeens': 1, 'selfharm': 1, 'shroomers': 1, 'microgrowery': 1, 'friendship': 1, 'gaymers': 1, 'Crainn': 1, 'meth': 1, 'adultery': 1, 'RightwingLGBT': 1, 'cripplingalcoholism': 1, 'dryalcoholics': 1, 'vaporents': 1, 'MDMA': 1, 'kratom': 1, 'afinil': 1, 'lgbt': 1}
+
+46
+['trip', 'tripping', 'bad trip', 'bad', 'like', 'time', 'just', 'trips', 'acid', 'experience', 'lsd', 'felt', 've', 'going', 'trip report', 'really', 'report', 'want', 'know', 'friend']
+{'LSD': 51, 'Psychonaut': 17, 'shrooms': 12, 'Drugs': 9, 'dxm': 3, 'drugscirclejerk': 3, 'relationship_advice': 3, 'Crainn': 1, 'actuallesbians': 1, 'lgbt': 1, 'Needafriend': 1, 'stopdrinking': 1, 'relationships': 1, 'raisedbynarcissists': 1, 'raisedbyborderlines': 1, 'askgaybros': 1}
+
+8
+['dreams', 'asleep', 'fall asleep', 'wake', 'vivid', 'fall', 'vivid dreams', 'woke', 'sensation', 'dream', 'sleep', 'fell asleep', 'day', 'like', 'dreaming', 'fucking', 'fucking tired', 'melatonin', 'break', 'falling asleep']
+{'trees': 5, 'depression': 3, 'leaves': 2, 'stopdrinking': 2, 'Drugs': 2, 'Anxiety': 2, 'Stims': 1, 'depressed': 1, 'asktransgender': 1, 'MDMA': 1, 'SuicideWatch': 1, 'Nootropics': 1, 'kratom': 1, 'dryalcoholics': 1, 'LSD': 1, 'saplings': 1, 'HealthAnxiety': 1}
+
+22
+['guys', 'acne', 'just', 'hey', 'guy', 'hey guys', 'gay', 'grindr', 'think', 'feel', 'bottoming', 'guys think', 'straight', 'like', 'looking', 'hookup', 'talk guys', 'don', 'nudes', 'average']
+{'askgaybros': 22, 'lgbt': 4, 'microgrowery': 3, 'trees': 2, 'ftm': 2, 'SuicideWatch': 2, 'relationship_advice': 2, 'gaybros': 2, 'depression': 2, 'cocaine': 2, 'gay': 2, 'bisexual': 2, 'Drugs': 1, 'leaves': 1, 'selfharm': 1, 'AnxietyDepression': 1, 'actuallesbians': 1, 'stopdrinking': 1, 'shrooms': 1, 'EDAnonymous': 1, 'AskLGBT': 1, 'ForeverAlone': 1, 'depressed': 1}
+
+7
+['kratom', 'opiates', 'long', 'hrs', 'quit', 'dose', 'long did', 'did', 've', 'day', 'does', 'long does', 'just', 'benzos', 'effects', 'time', 'nose', 'amp', 'dosing', 'withdrawal']
+{'quittingkratom': 9, 'kratom': 4, 'Drugs': 3, 'OpiatesRecovery': 2, 'Stims': 1, 'Anxiety': 1, 'MDMA': 1, 'Nootropics': 1, 'depression': 1, 'AskDrugNerds': 1, 'ttcafterloss': 1, 'raisedbynarcissists': 1}
+
+136
+['discord', 'server', 'discord server', 'join', 'people', 'link', 'pm', 'minecraft', 'play', 'games', 'talk', 'game', 'hey', 'people play', 'small', 'like', 'talk discord', 'chat', 'interested', 'lgbt']
+{'Needafriend': 7, 'MakeNewFriendsHere': 6, 'ftm': 3, 'lgbt': 3, 'transgamers': 3, 'relationship_advice': 2, 'trans': 1, 'MDMA': 1, 'drunk': 1, 'friendship': 1, 'bisexual': 1, 'gaymers': 1, 'asexuality': 1, 'lonely': 1, 'dxm': 1, 'trees': 1}
+
+113
+['card', 'medical', 'rx', 'legally', 'received', 'weed', 'dispensary', 'california', 'batteries', 'marijuana', 'information', 'phoenix', 'online', 'state', 'pic', 'doctor', 'finally did', 'did got', 'med', 'milestones']
+{'trees': 11, 'MtF': 3, 'ftm': 2, 'stopdrinking': 1, 'saplings': 1, 'dryalcoholics': 1, 'transgenderUK': 1, 'asktransgender': 1, 'vaporents': 1, 'transpositive': 1, 'HealthAnxiety': 1, 'FamilyIssues': 1, 'DeadBedrooms': 1}
+
+144
+['acid', 'trip', 'like', 'time', 'acid time', 'lsd', 'just', 'weed', 'acid trip', 'tab', 'tripping', 'took', 'ug', 'does', 've', 'dealer', 'felt', 'euphoria', 'feel', 'experience']
+{'LSD': 35, 'Drugs': 9, 'TheeHive': 2, 'researchchemicals': 1, 'askdrugs': 1, 'phenibut': 1, 'MDMA': 1, 'trees': 1, 'Anxiety': 1, 'EDAnonymous': 1, 'Psychonaut': 1}
+
+91
+['date', 'like', 'really', 'guy', 'dating', 'just', 've', 'going', 'went', 'girl', 'time', 'going date', 'don', 'said', 'asked', 'want', 'went date', 'know', 'didn', 'met']
+{'relationship_advice': 39, 'relationships': 10, 'askgaybros': 8, 'gay': 4, 'bisexual': 3, 'actuallesbians': 2, 'asexuality': 2, 'MtF': 2, 'lonely': 2, 'depression': 2, 'LesbianActually': 1, 'ftm': 1, 'ttcafterloss': 1, 'SuicideWatch': 1, 'AnxietyDepression': 1, 'widowers': 1, 'ainbow': 1, 'cocaine': 1, 'asktransgender': 1, 'ForeverAlone': 1, 'gaybros': 1, 'EDAnonymous': 1, 'rapecounseling': 1}
+
+212
+['looking friends', 'looking', 'friends', 'talk', 'discord', 'just', 'just looking', 'friends looking', 'music', 'message', 'games', 'love', 'play', 'people', 'hey', 'like', 'friends hey', 'video', 'mainly', 'hmu']
+{'MakeNewFriendsHere': 28, 'Needafriend': 11, 'snapchat': 4, 'textfriends': 3, 'gaymers': 3, 'penpals': 1, 'friendship': 1, 'lonely': 1, 'askgaybros': 1, 'lgbt': 1}
+
+16
+['self harm', 'harm', 'self', 'scars', 'just', 'feel', 'like', 'know', 'don', 'want', 'people', 'cutting', 've', 'cut', 'really', 'think', 'things', 'tell', 'time', 'cause']
+{'selfharm': 25, 'depression': 11, 'MadeOfStyrofoam': 3, 'relationship_advice': 3, 'raisedbynarcissists': 2, 'StopSelfHarm': 1, 'leaves': 1, 'adultsurvivors': 1, 'SuicideWatch': 1, 'SelfHarmScars': 1, 'EDAnonymous': 1, 'cripplingalcoholism': 1, 'lonely': 1, 'Anxiety': 1, 'Stress': 1}
+
+164
+['advice', 'need advice', 'need', 'tape', 'know', 'just', 'don', 'really', 'want', 'like', 'just need', 'appreciated', 'thanks', 'don know', 'tips', 'help', 'greatly', 'does', 'advice know', 'greatly appreciated']
+{'relationship_advice': 20, 'depression': 6, 'ftm': 5, 'askgaybros': 5, 'Drugs': 4, 'Anxiety': 3, 'microgrowery': 2, 'MtF': 2, 'lgbt': 2, 'FriendshipAdvice': 2, 'selfharm': 2, 'mypartneristrans': 1, 'SuicideWatch': 1, 'asktransgender': 1, 'kratom': 1, 'actuallesbians': 1, 'meth': 1, 'eldertrees': 1, 'transgendercirclejerk': 1, 'raisedbynarcissists': 1, 'asexuality': 1, 'lonely': 1, 'ainbow': 1, 'relationships': 1, 'domesticviolence': 1, 'shrooms': 1, 'Stims': 1, 'LGBTeens': 1, 'DeadBedrooms': 1, 'LSD': 1, 'MakeNewFriendsHere': 1, 'FamilyIssues': 1, 'MDMA': 1, 'loseit': 1, 'stopdrinking': 1, 'Marriage': 1, 'cocaine': 1, 'GriefSupport': 1}
+
+248
+['dh', 'mil', 'sil', 'fil', 'jnmil', 'just', 'family', 'wedding', 'told', 'husband', 'don', 'said', 'time', 'like', 'didn', 'know', 'home', 'got', 'dd', 'lo']
+{'JUSTNOMIL': 73, 'JUSTNOFAMILY': 7, 'relationships': 1}
+
+71
+['tab', 'tabs', 'ug', 'lsd', 'half tab', 'half', 'trip', 'gel', 'ug tab', 'best way', 'tongue', 'question', 'took', 'tonight', 'taking', 'double', 'dose', 'im', 'time', 'tolerance']
+{'LSD': 33, 'Psychonaut': 2, 'MDMA': 1}
+
+70
+['chest', 'pains', 'chest pain', 'heart', 'pain', 'like', 'anxiety', 'feeling', 'difort', 'breath', 'just', 'tightness', 'feel', 'normal', 'worried', 'beat', 've', 'don', 'bit', 'skipped']
+{'HealthAnxiety': 6, 'Anxiety': 6, 'cocaine': 4, 'asktransgender': 3, 'DiagnoseMe': 2, 'depression': 2, 'stopdrinking': 2, 'ftm': 1, 'socialanxiety': 1, 'MtF': 1, 'relationship_advice': 1, 'SuicideWatch': 1}
+
+186
+['gt', 'gt gt', 'lt', 'just', 'know', 'don', 'people', 'drag', 'exist', 'new', 'love', 'amp', 'talk', 'blades', 'siblings', 'time', 'razor', 'life', 'mg', 'want']
+{'askgaybros': 4, 'MakeNewFriendsHere': 2, 'Drugs': 2, 'raisedbynarcissists': 2, 'lonely': 2, 'EDAnonymous': 2, 'LSD': 1, 'relationship_advice': 1, 'depression': 1, 'ForeverAlone': 1, 'loseit': 1, 'transvoice': 1, 'MadeOfStyrofoam': 1, 'LGBTeens': 1, 'asktransgender': 1, 'SuicideWatch': 1, 'microgrowery': 1, 'JUSTNOMIL': 1, 'StackAdvice': 1, 'relationships': 1, 'Needafriend': 1}
+
+117
+['friends', 'make friends', 'make', 'making friends', 'people', 'making', 'like', 'hard', 'just', 'friends hi', 'looking', 'looking make', 'hi', 'college', 'friend', 'don', 'talk', 'new', 'trying make', 'want']
+{'MakeNewFriendsHere': 11, 'relationship_advice': 8, 'lonely': 5, 'friendship': 4, 'depression': 3, 'Needafriend': 3, 'gay': 2, 'actuallesbians': 2, 'MiddleSchool': 2, 'socialanxiety': 2, 'snapchat': 2, 'askgaybros': 1, 'trees': 1, 'FriendshipAdvice': 1, 'highschool': 1, 'Anxiety': 1, 'ForeverAlone': 1, 'gaymers': 1}
+
+181
+['amp', 'amp nbsp', 'nbsp', 'people', 'just', 'like', 'day', 'don', 've', 'know', 'feel', 'work', 'time', 'll', 'want', 'friends', 'new', 'today', 'amp amp', 'art']
+{'relationship_advice': 11, 'MakeNewFriendsHere': 6, 'depression': 5, 'relationships': 4, 'loseit': 4, 'stopdrinking': 4, 'adultery': 2, 'JUSTNOFAMILY': 2, 'raisedbynarcissists': 2, 'Stims': 2, 'AlAnon': 2, 'EDAnonymous': 2, 'Needafriend': 2, 'askgaybros': 2, 'cocaine': 1, 'Drugs': 1, 'transpositive': 1, 'actuallesbians': 1, 'FriendshipAdvice': 1, 'FamilyIssues': 1, 'bisexual': 1, 'NarcissisticAbuse': 1, 'gaymers': 1, 'Petloss': 1, 'lonely': 1, 'asktransgender': 1, 'dxm': 1, 'saplings': 1, 'microgrowery': 1, 'Anxiety': 1, 'DeadBedrooms': 1, 'MtF': 1, 'StackAdvice': 1, 'leaves': 1, 'selfharm': 1, 'Petioles': 1, 'Nootropics': 1, 'lgbt': 1, 'RightwingLGBT': 1, 'trees': 1, 'kratom': 1, 'LSD': 1, 'alcoholicsanonymous': 1, 'OpiatesRecovery': 1, 'MadeOfStyrofoam': 1}
+
+130
+['depression', 'just', 'anxiety', 've', 'like', 'feel', 'depressed', 'anxiety depression', 'people', 'life', 'meds', 'help', 'don', 'really', 'want', 'years', 'think', 'dealing', 'therapy', 'symptoms']
+{'depression': 111, 'SuicideWatch': 11, 'relationship_advice': 7, 'depressionregimens': 5, 'Anxiety': 5, 'AnxietyDepression': 5, 'OpiatesRecovery': 2, 'adultsurvivors': 2, 'Needafriend': 2, 'selfharm': 1, 'asktransgender': 1, 'drugscirclejerk': 1, 'leaves': 1, 'StackAdvice': 1, 'depressed': 1, 'trees': 1, 'DeadBedrooms': 1, 'MakeNewFriendsHere': 1, 'LSD': 1, 'Marriage': 1, 'raisedbynarcissists': 1, 'stopdrinking': 1, 'relationships': 1, 'survivinginfidelity': 1}
+
+123
+['anime', 'games', 'history', 'looking', 'video', 'like', 'talk', 'interests', 'gaming', 'video games', 'main', 'people', 'don', 'manga', 'boy', 'lot', 'new', 'girls', 'just', 'aside']
+{'MakeNewFriendsHere': 10, 'Needafriend': 4, 'asexuality': 1, 'ForeverAlone': 1, 'penpals': 1, 'relationship_advice': 1, 'actuallesbians': 1, 'LGBTeens': 1, 'ftm': 1, 'textfriends': 1, 'leaves': 1, 'Anxiety': 1}
+
+56
+['blood', 'tests', 'blood tests', 'test', 'doctor', 'urine', 'results', 'appointment', 'blood test', 'does', 'gp', 'just', 've', 'positive', 'liver', 'little', 'like', 'pain', 'anxiety', 'know']
+{'Anxiety': 5, 'DiagnoseMe': 5, 'HealthAnxiety': 4, 'transgenderUK': 4, 'stopdrinking': 2, 'asktransgender': 2, 'ftm': 2, 'transgenderau': 2, 'ttcafterloss': 2, 'MDMA': 1, 'raisedbynarcissists': 1, 'SuicideWatch': 1, 'askgaybros': 1, 'shroomers': 1, 'StackAdvice': 1, 'Drugs': 1, 'DeadBedrooms': 1, 'cripplingalcoholism': 1, 'MadeOfStyrofoam': 1, 'depression': 1, 'Stims': 1, 'Nootropics': 1}
+
+225
+['shes', 'dont', 'just', 'im', 'like', 'girl', 'know', 'said', 'asked', 'home', 'want', 'told', 'says', 'friend', 'weekend', 'time', 'text', 'does', 'going', 'hangout']
+{'relationship_advice': 19, 'relationships': 7, 'GriefSupport': 2, 'depression': 2, 'dxm': 1, 'lonely': 1, 'friendship': 1, 'raisedbynarcissists': 1, 'trans': 1, 'lgbt': 1, 'JUSTNOMIL': 1, 'FriendshipAdvice': 1, 'LGBTeens': 1}
+
+114
+['grow', 'plant', 'harvest', 'light', 'soil', 'leaves', 'kit', 'growing', 'veg', 'setup', 'water', 'just', 'ph', 'plants', 've', 'room', 'nutrients', 'start', 'bud', 'cannabis']
+{'microgrowery': 38, 'shrooms': 7, 'trees': 6, 'depression': 1, 'stopdrinking': 1, 'kratom': 1, 'Drugs': 1, 'druggardening': 1, 'ftm': 1, 'shroomers': 1}
+
+5
+['man', 'stronger', 'bare', 'hurt', 'sets', 'love', 'day', 'handsome', 'lashed', 'life', 'better', 'didn notice', 'loving', 'just', 'look', 'traits', 'destroy', 'sky', 'exploring', 'want']
+{'askgaybros': 2, 'raisedbynarcissists': 2, 'depression': 2, 'gaymers': 1, 'loveafterporn': 1, 'alcoholicsanonymous': 1, 'relationship_advice': 1, 'stopdrinking': 1, 'NarcissisticAbuse': 1, 'SuicideWatch': 1, 'ForeverAlone': 1, 'loseit': 1, 'Needafriend': 1, 'relationships': 1, 'dxm': 1}
+
+132
+['car', 'just', 'drive', 'got', 'time', 'like', 'want', 'don', 'job', 'driving', 'getting', 'park', 've', 'friends', 'said', 'pay', 'feel', 'ride', 'work', 'girlfriend']
+{'relationship_advice': 14, 'depression': 7, 'SuicideWatch': 5, 'Anxiety': 5, 'LSD': 2, 'JUSTNOMIL': 2, 'relationships': 2, 'MakeNewFriendsHere': 2, 'raisedbynarcissists': 2, 'transgendercirclejerk': 2, 'askgaybros': 1, 'stopdrinking': 1, 'socialanxiety': 1, 'mypartneristrans': 1, 'Stims': 1, 'gay': 1, 'Petloss': 1, 'trees': 1, 'actuallesbians': 1, 'Marriage': 1, 'abuse': 1, 'Drugs': 1, 'AlAnon': 1, 'ttcafterloss': 1, 'NarcissisticAbuse': 1, 'Psychonaut': 1, 'cocaine': 1, 'asktransgender': 1}
+
+242
+['health', 'mental health', 'mental', 'issues', 'just', 'anxiety', 'health issues', 'help', 'feel', 've', 'like', 'life', 'depression', 'know', 'don', 'going', 'really', 'problems', 'years', 'time']
+{'depression': 17, 'relationship_advice': 13, 'Anxiety': 12, 'relationships': 6, 'HealthAnxiety': 5, 'SuicideWatch': 5, 'raisedbynarcissists': 4, 'selfharm': 4, 'EDAnonymous': 4, 'ftm': 3, 'stopdrinking': 3, 'leaves': 2, 'ForeverAlone': 2, 'asktransgender': 2, 'AnxietyDepression': 2, 'highschool': 2, 'alcoholism': 1, 'EOOD': 1, 'Nootropics': 1, 'phenibut': 1, 'ask_transgender': 1, 'Anxietyhelp': 1, 'askgaybros': 1, 'widowers': 1, 'depressed': 1, 'lonely': 1, 'depressionregimens': 1, 'SuicideBereavement': 1, 'raisedbyborderlines': 1, 'actuallesbians': 1, 'trans': 1, 'Drugs': 1, 'socialanxiety': 1, 'MtF': 1, 'TransSpace': 1}
+
+54
+['mushrooms', 'thanks', 'grow', 'tips', 'growing', 'shrooms', 'hunting', 'psychedelic', 'looking', 'dried', 'like', 'micro', 'link', 'drying', 'grams', 'thanks advance', 'trip', 'liberty', 'time', 'hello']
+{'shrooms': 22, 'Psychonaut': 7, 'shroomers': 3, 'askdrugs': 1, 'Crainn': 1, 'AskDrugNerds': 1, 'Drugs': 1}
+
+120
+['smoke', 'weed', 'smoke weed', 'smoking', 'day', 'just', 'want smoke', 'high', 'want', 'don', 'like', 'know', 'usually', 'time', 'bowl', 'help', 'really', 'joints', 'feel', 'don smoke']
+{'trees': 25, 'leaves': 20, 'Drugs': 11, 'Petioles': 5, 'saplings': 5, 'Psychonaut': 3, 'LSD': 3, 'askdrugs': 2, 'SuicideWatch': 1, 'MDMA': 1, 'drugscirclejerk': 1, 'REDDITORSINRECOVERY': 1, 'Anxiety': 1, 'lonely': 1, 'shrooms': 1, 'adultsurvivors': 1}
+
+247
+['caps', 'dph', 'swallow', 'mg', 'liquid', 'dxm', 'liberty', 'gel', 'pills', 'concerta', 'purging', 'trip', 'high', 'sweden', 'small', 'extraction', 'tabs', 'like mg', 'shower', 'hour']
+{'shrooms': 5, 'dxm': 5, 'Drugs': 3, 'LSD': 1, 'Stims': 1, 'trees': 1, 'cocaine': 1, 'askgaybros': 1, 'SuicideWatch': 1, 'phenibut': 1, 'fuckeatingdisorders': 1, 'MDMA': 1}
+
+15
+['die', 'want die', 'want', 'just', 'don', 'just want', 'life', 'don want', 'kill', 'like', 'feel', 've', 'die just', 'really', 'death', 'know', 'suicide', 'tired', 'way', 'people']
+{'SuicideWatch': 53, 'depression': 44, 'Anxiety': 4, 'EDAnonymous': 3, 'trees': 2, 'relationship_advice': 2, 'depressed': 2, 'gaybros': 2, 'askgaybros': 1, 'FamilyIssues': 1, 'survivinginfidelity': 1, 'MtF': 1, 'MadeOfStyrofoam': 1, 'ForeverAlone': 1, 'stopdrinking': 1, 'raisedbynarcissists': 1, 'emotionalabuse': 1}
+
+50
+['ed', 'weight', 'like', 'skinny', 'fat', 'feel', 'eating', 'eat', 'look', 'don', 'bmi', 'just', 'want', 'feel like', 'know', 'anorexia', 'shit', 'makes', 'fucking', 'treatment']
+{'EDAnonymous': 34, 'fuckeatingdisorders': 2, 'DeadBedrooms': 1, 'relationship_advice': 1, 'depression': 1, 'lgbt': 1, 'raisedbynarcissists': 1, 'EatingDisorders': 1, 'Drugs': 1}
+
+146
+['dose', 'cold turkey', 'turkey', 'cold', 'taper', 'day', 'doses', 'withdrawals', 'quit', 'taking', 'week', 'like', 'withdrawal', 've', 'time', 'daily', 'symptoms', 'dosing', 'thanks', 'days']
+{'quittingkratom': 10, 'Drugs': 5, 'stopdrinking': 5, 'kratom': 3, 'loseit': 3, 'depression': 3, 'dxm': 3, 'leaves': 2, 'phenibut': 2, 'Stims': 2, 'cripplingalcoholism': 2, 'shrooms': 2, 'trees': 1, 'researchchemicals': 1, 'MDMA': 1, 'adderall': 1, 'meth': 1, 'Nootropics': 1, 'Anxiety': 1, 'LSD': 1, 'DrugAddiction': 1, 'asktransgender': 1, 'OpiatesRecovery': 1, 'NarcissisticAbuse': 1, 'askgaybros': 1}
+
+175
+['binge', 'eat', 'binging', 'food', 'eating', 'like', 'hate', 've', 'restrict', 'binges', 'binged', 'feel', 'just', 'weight', 'days', 'time', 'foods', 'want', 'today', 'ate']
+{'EDAnonymous': 27, 'BingeEatingDisorder': 17, 'Drugs': 3, 'Stims': 3, 'depression': 2, 'SuicideWatch': 1, 'stopdrinking': 1, 'eating_disorders': 1, 'cocaine': 1, 'dxm': 1, 'Alcoholism_Medication': 1, 'fuckeatingdisorders': 1}
+
+28
+['school', 'gay', 'high', 'high school', 'straight', 'crushes', 'middle school', 'kiss', 'bullies', 'know gay', 'boys', 'freshman', 'middle', 'gays', 'know', 'friend', 'guy', 'didn', 'don', 'everybody']
+{'LGBTeens': 9, 'askgaybros': 8, 'actuallesbians': 4, 'depression': 3, 'trees': 3, 'lgbt': 3, 'socialanxiety': 2, 'bullying': 2, 'relationship_advice': 2, 'SuicideWatch': 2, 'gay': 2, 'ainbow': 1, 'gaybros': 1, 'MiddleSchool': 1, 'EDAnonymous': 1, 'bisexual': 1}
+
+137
+['robocough', 'dosage', 'dxm', 'lbs', 'effects', 'dose', 'month', 'ordered', 'mg', 'wondering', 'gw', 'bottle', 'timer', 'tolerance', 'bottles', 'stimulant', 'trip', 'just', 'don', 'half']
+{'dxm': 11, 'EDAnonymous': 2, 'phenibut': 2, 'Drugs': 2, 'depression': 1}
+
+1
+['insurance', 'health insurance', 'health', 'surgeons', 'surgeon', 'covered', 'therapist', 'ffs', 'cover', 'surgery', 'don', 'meds', 'starbucks', 'plan', 'does', 'december', 'pay', 'know', 'medical', 'network']
+{'asktransgender': 7, 'ftm': 5, 'depression': 4, 'SuicideWatch': 2, 'depressionregimens': 1, 'raisedbynarcissists': 1, 'JUSTNOMIL': 1, 'ask_transgender': 1, 'Anxiety': 1, 'MtF': 1}
+
+196
+['ap', 'time', 'mm', 'think', 'marriage', 've', 'fucking', 'just', 'kik', 'affair', 'don', 'want', 'wife', 'song', 'describes', 'husband', 'lot', 'married', 'leave', 'today']
+{'adultery': 34}
+
+246
+['nausea', 'cure', 'anxiety', 'really', 'showers', 'morning', 'sickness', 've', 'headaches', 'just', 'safe', 'effect', 'nauseous', 'claire', 'hot', 'idea', 'help', 'pregnant', 'experience', 'time']
+{'Anxiety': 5, 'depression': 3, 'trees': 2, 'widowers': 1, 'Drugs': 1, 'AnxietyDepression': 1, 'askgaybros': 1, 'leaves': 1, 'depressionregimens': 1, 'afinil': 1, 'HealthAnxiety': 1}
+
+243
+['german', 'language', 'germany', 'learn', 'sponsor', 'talk', 'speak', 'looking', 'group', 'like', 'friends', 'lessons', 'racist', 'hello', 'learning', 'birth certificate', 'certificate', 'nice', 'drunk', 'thank advance']
+{'MakeNewFriendsHere': 5, 'relationship_advice': 3, 'penpals': 2, 'ftm': 2, 'Needafriend': 1, 'trees': 1, 'raisedbynarcissists': 1, 'askgaybros': 1, 'alcoholicsanonymous': 1, 'adultery': 1}
+
+43
+['online', 'online friends', 'friends', 'just', 'people', 'looking', 'met online', 'lesbians', 'irl', 'like', 'talk', 'don', 'know', 'moved', 'really', 'just moved', 'met', 'alternatives', 'pals', 'interested']
+{'relationship_advice': 7, 'actuallesbians': 6, 'MakeNewFriendsHere': 6, 'trees': 4, 'lonely': 2, 'snapchat': 2, 'LSD': 1, 'lgbt': 1, 'cripplingalcoholism': 1, 'raisedbynarcissists': 1, 'Nootropics': 1, 'asktransgender': 1, 'relationships': 1, 'depression': 1, 'transgamers': 1, 'Needafriend': 1, 'ftm': 1, 'Drugs': 1, 'ForeverAlone': 1, 'askgaybros': 1}
+
+211
+['closet', 'climate', 'door', 'gay', 'grow', 'temperature', 'fun', 'halloween', 'people', 'change', 'advice', 'know', 'tonight', 'just', 'spouse', 'secure', 'going kill', 'want', 'like', 'don']
+{'askgaybros': 4, 'microgrowery': 3, 'LGBTeens': 3, 'ainbow': 1, 'shrooms': 1, 'gay': 1, 'MakeNewFriendsHere': 1, 'depression': 1, 'selfharm': 1, 'NRelationships': 1, 'bisexual': 1, 'drunk': 1, 'GriefSupport': 1, 'asktransgender': 1, 'trees': 1, 'LesbianActually': 1, 'SuicideWatch': 1, 'genderfluid': 1}
+
+115
+['carts', 'cart', 'flower', 'fake', 'wax', 'thc', 'oil', 'black market', 'dispensary', 'lungs', 'market', 'high', 'smoking', 'weed', 'edibles', 'pen', 'black', 'just', 'dab', 'illegal state']
+{'trees': 35, 'saplings': 3, 'leaves': 3, 'Drugs': 3, 'vaporents': 3, 'Petioles': 2, 'microgrowery': 1, 'researchchemicals': 1, 'drugscirclejerk': 1}
+
+6
+['dry', 'herb', 'dry herb', 'vape', 'herb vape', 'vapes', 'high', 'vaporizer', 'smoking', 'bong', 'use', 'smoke', 'vaping', 'weed', 'oil', 'thc', 'concentrates', 'mouth', 'market', 'looking']
+{'vaporents': 15, 'trees': 6, 'eldertrees': 2, 'Petioles': 1, 'druggardening': 1}
+
+189
+['hmu', 'bored', 'ma', 'friends', 'chat', 'hey', 'just', 'solo', 'need', 'people', 'snapchat', 'ur', 'looking', 'redose', 'hi', 'talk', 'wee', 'like', 'im', 'music']
+{'MakeNewFriendsHere': 12, 'snapchat': 7, 'Needafriend': 5, 'LSD': 1, 'cocaine': 1, 'Drugs': 1, 'MDMA': 1}
+
+197
+['hiv', 'test', 'tested', 'prep', 'condom', 'sex', 'symptoms', 'know', 'encounter', 'days', 'week', 'tests', 've', 'accurate', 'worried', 'weeks', 'day', 'anxiety', 'calm', 'negative']
+{'askgaybros': 10, 'HealthAnxiety': 3, 'DiagnoseMe': 1, 'gaybros': 1, 'Anxiety': 1, 'SuicideWatch': 1, 'relationship_advice': 1, 'cripplingalcoholism': 1}
+
+80
+['wants talk', 'talk', 'like talk', 'points', 'je', 'looking good', 'wants', 'promise', 'like', 'et', 'good', 'open', 'just', 'est', 'looking', 'rc', 'pm', 'rings', 'friend like', 'grinder']
+{'MakeNewFriendsHere': 7, 'Needafriend': 5, 'relationship_advice': 3, 'lonely': 2, 'penpals': 2, 'socialanxiety': 2, 'transgendercirclejerk': 1, 'actuallesbians': 1, 'askgaybros': 1, 'trees': 1, 'researchchemicals': 1}
+
+147
+['spore', 'agar', 'bags', 'grain', 'golden', 'spores', 'bag', 'syringe', 'teacher', 'spawn', 'fruiting', 'inoculated', 'cakes', 'pc', 'substrate', 'growing', 'plates', 'fruit', 'use', 'grown']
+{'shrooms': 17, 'shroomers': 6}
+
+174
+['sugar', 'cravings', 'spice', 'buds', 'meat', 'pumpkin', 'cramps', 'diabetes', 'calorie', 'dating', 'irritability', 'meals', 'cook', 'fatigued', 'ms', 'grindr', 'week', 'bag', 'does', 'nice']
+{'loseit': 2, 'stopdrinking': 2, 'raisedbynarcissists': 2, 'fuckeatingdisorders': 1, 'Drugs': 1, 'askgaybros': 1, 'HealthAnxiety': 1, 'alcoholicsanonymous': 1, 'LSD': 1, 'relationship_advice': 1, 'adderall': 1, 'AlAnon': 1, 'SuicideWatch': 1, 'MakeNewFriendsHere': 1, 'microgrowery': 1, 'DiagnoseMe': 1, 'StopSpeeding': 1}
+
+72
+['laser', 'hair', 'hair removal', 'removal', 'facial', 'facial hair', 'electrolysis', 'permanent', 'shaving', 'trans', 'hairs', 'face', 'hrt', 'beard', 'session', 'orchiectomy', 'skin', 'dont', 'body', 'rmendations']
+{'MtF': 10, 'asktransgender': 7, 'transgenderUK': 2, 'askgaybros': 2}
+
+52
+['start', 'transition', 'start hrt', 'hrt', 'want', 'true self', 'want start', 'true', 'self', 'journey', 'list', 'mtf', 'just', 'hormones', 'public', 'toe', 'private', 'idea', 'able', 'event']
+{'MtF': 7, 'asktransgender': 3, 'trans': 3, 'raisedbynarcissists': 2, 'genderfluid': 2, 'transgendercirclejerk': 2, 'relationship_advice': 1, 'depression': 1, 'genderqueer': 1, 'trees': 1, 'ask_transgender': 1, 'ainbow': 1, 'stopdrinking': 1, 'askgaybros': 1, 'Psychonaut': 1, 'lgbt': 1}
+
+214
+['looking', 'looking friend', 'friend', 'looking forward', 'talk', 'forward', 'just looking', 'just', 'hi', 'friend talk', 'looking talk', 'friends', 'music', 'like', 'games', 'make', 'people', 'pm', 'yeah', 'text']
+{'Needafriend': 15, 'MakeNewFriendsHere': 12, 'textfriends': 3, 'depression': 2, 'bisexual': 1, 'relationship_advice': 1, 'SuicideWatch': 1, 'LGBTeens': 1, 'penpals': 1, 'lonely': 1, 'lgbt': 1, 'loveafterporn': 1, 'eldertrees': 1, 'drunk': 1, 'askgaybros': 1, 'transgendercirclejerk': 1, 'researchchemicals': 1, 'asktransgender': 1, 'raisedbynarcissists': 1, 'StackAdvice': 1, 'ask_transgender': 1}
+
+198
+['xanax', 'mix', 'mg', 'alcohol', 'tried', 'xans', 'codeine', 'just', 'effects', 'took', 'bar', 'wanna', 'popped', 'hahaha', 'don wanna', 'bars', 'took half', 'blackout', 'don', 'like']
+{'Drugs': 9, 'SuicideWatch': 3, 'trees': 2, 'askdrugs': 1, 'pillhead': 1, 'MDMA': 1, 'cocaine': 1, 'stopdrinking': 1, 'drugscirclejerk': 1, 'ftm': 1, 'LSD': 1}
+
+166
+['test', 'drug', 'drug test', 'tests', 'kit', 'driving', 'etizolam', 'thursday', 'testing', 'cocaine', 'kits', 've', 'pink', 'pass', 'kratom', 'pain', 'got', 'lab', 'site', 'selfie']
+{'Anxiety': 4, 'LSD': 3, 'cocaine': 3, 'MDMA': 3, 'kratom': 2, 'askdrugs': 2, 'depression': 2, 'SuicideWatch': 2, 'microgrowery': 1, 'Drugs': 1, 'drunk': 1, 'ForeverAlone': 1, 'saplings': 1, 'MtF': 1}
+
+230
+['ml', 'mg', 'dose', 'syrup', 'liquid', 'solution', 'lsd', 'cough', 'contains', 'bottle', 'hours', 'small dose', 'ether', 'use', 'prescription', 'effect', 'small', 'gram', 'just', 'tabs']
+{'Drugs': 6, 'ftm': 5, 'LSD': 3, 'cripplingalcoholism': 2, 'dxm': 1, 'microgrowery': 1, 'asktransgender': 1, 'Psychonaut': 1, 'researchchemicals': 1, 'TheeHive': 1, 'MtF': 1, 'selfharm': 1}
+
+184
+['mighty', 'pax', 'vape', 'battery', 'portable', 'vaporizer', 'argo', 'like', 'looking', 'use', 'stempod', 'bowl', 'new', 'heating', 'clean', 'vapes', 'electronic', 'good', 'edge', 'vapor']
+{'vaporents': 20, 'trees': 2}
+
+187
+['molly', 'mdma', 'drugs', 'pill', 'lucy', 'xans', 'taking', 'best', 'water', 'like', 'alternatives', 'mg', 'experience', 'crystals', 'canada', 'know', 'did', 'time', 'jaw', 'theedown']
+{'Drugs': 8, 'MDMA': 8, 'LSD': 2, 'drugscirclejerk': 2, 'researchchemicals': 1, 'pillhead': 1}
+
+210
+['uk', 'talk', 'll talk', 'looking', 'friends', 'talk guys', 'love', 'internet', 'love animals', 'looking new', 'll', 'animals', 'hello', 'chat', 'people', 'make friends', 'internet friends', 'gaming', 'hmu', 'new']
+{'MakeNewFriendsHere': 13, 'Needafriend': 3, 'trees': 2, 'vaporents': 1, 'drugscirclejerk': 1, 'transgenderUK': 1, 'raisedbynarcissists': 1, 'snapchat': 1, 'penpals': 1, 'askgaybros': 1, 'drunk': 1}
+
+237
+['phenibut', 'mg', 'taking', 'dose', 'anxiety', 'grams', 'effects', 'taste', 'like', 'use', 'kratom', 'daily', 'benzos', 'alcohol', 'took', 'tried', 'weed', 'hours', 'doses', 'does']
+{'phenibut': 20, 'Drugs': 2, 'AskDrugNerds': 2, 'researchchemicals': 2, 'LSD': 1, 'quittingkratom': 1, 'drugscirclejerk': 1, 'kratom': 1, 'stopdrinking': 1, 'socialanxiety': 1, 'StackAdvice': 1, 'Psychonaut': 1}
+
+159
+['ha', 'cancer', 'disease', 'als', 'gained', 'therapy', 'challenge', 've', 'feel', 'like', 'worried', 'symptoms', 'health', 'love', 'period', 'awesome', 'feel like', 'muscle', 'anxiety', 'pounds']
+{'HealthAnxiety': 11, 'EDAnonymous': 3, 'cripplingalcoholism': 2, 'textfriends': 1, 'leaves': 1, 'fuckeatingdisorders': 1, 'MakeNewFriendsHere': 1, 'MtF': 1, 'Anxiety': 1}
+
+79
+['strain', 'seed', 'favorite', 'kush', 'harvest', 'question', 'og', 'sure', 'tried', 'wondering', 'amber', 'whats', 'got', 'white', 'cubes', 'said', 'dry', 'cannabis', 'therapist', 'strains']
+{'trees': 7, 'microgrowery': 6, 'shrooms': 2, 'quittingkratom': 1, 'Anxiety': 1, 'druggardening': 1}
+
+88
+['friends talk', 'talk', 'friends', 'looking', 'looking friends', 'message', 'pm', 'happily married', 'people talk', 'people', 'im', 'don', 'hello', 'married', 'happily', 'open', 'enjoy', 'fa', 'im looking', 'home mom']
+{'Needafriend': 11, 'MakeNewFriendsHere': 11, 'snapchat': 2, 'penpals': 2, 'lonely': 1}
+
+241
+['plants', 'growing', 'soil', 'grow', 'flower', 'light', 'lights', 'nutes', 'ft', 'led', 'leaves', 'just', 'outdoor', 'growth', 'cm', 'hey', 'ph', 'plant', 'help', 'neighbor']
+{'microgrowery': 38, 'trees': 3, 'raisedbyborderlines': 1}
+
+128
+['underwear', 'wear', 'pants', 'like', 'wearing', 'fit', 'locker', 'jeans', 'clothes', 'size', 'room', 'shorts', 'tight', 'mask', 'just', 'shirts', 'sheets', 'advice help', 'waist', 'shirt']
+{'ftm': 6, 'asktransgender': 3, 'askgaybros': 3, 'depression': 2, 'gaybros': 1, 'bisexual': 1, 'loseit': 1, 'relationship_advice': 1, 'mypartneristrans': 1, 'transfashionadvice': 1, 'widowers': 1, 'Drugs': 1, 'gay': 1, 'ask_transgender': 1, 'cripplingalcoholism': 1}
+
+172
+['tub', 'coir', 'spawn', 'monotub', 'substrate', 'mix', 'layer', 'bulk', 'coco', 'tek', 'loose', 'cakes', 'mold', 'grain', 'using', 'does', 'pins', 'jars', 'fruiting', 'need']
+{'shrooms': 18, 'shroomers': 3, 'trees': 1}
+
+11
+['miss', 'feel', 'just', 'needed', 'love', 'nc', 'sleeves', 'happy', 'going miss', 'miss having', 'know', 'don miss', 'like', 'friend', 'left', 'badly', 'know won', 'smoked', 'year', 'wanted']
+{'depression': 8, 'Petloss': 4, 'selfharm': 2, 'raisedbynarcissists': 2, 'NarcissisticAbuse': 2, 'lonely': 2, 'leaves': 2, 'GriefSupport': 1, 'askgaybros': 1, 'loneliness': 1, 'EstrangedAdultChild': 1, 'actuallesbians': 1, 'AlAnon': 1, 'Needafriend': 1, 'SuicideWatch': 1, 'SuicideBereavement': 1}
+
+216
+['study', 'sexual', 'participants', 'participate', 'participation', 'email', 'email address', 'university', 'uk', 'sexual desire', 'london', 'research', 'women', 'address', 'lab', 'satisfaction', 'survey', 'based', 'desire', 'provide']
+{'DeadBedrooms': 2, 'lgbt': 2, 'asexuality': 2, 'Nootropics': 2, 'survivorsofabuse': 1, 'adultery': 1, 'askGSM': 1, 'Stims': 1, 'MDMA': 1, 'snapchat': 1, 'ftm': 1, 'ForeverAlone': 1, 'bisexual': 1, 'StackAdvice': 1, 'MakeNewFriendsHere': 1, 'depression': 1, 'bullying': 1, 'meth': 1, 'relationship_advice': 1, 'Drugs': 1, 'OpiatesRecovery': 1, 'Anxiety': 1}
+
+124
+['voice', 'sounds', 'register', 'lower', 'like', 'deeper', 'pitch', 'male', 'people', 'sounds like', 'transition', 'starting', 'female', 'throat', 'vocal', 'training', 'dysphoria', 'ish', 'higher', 'high']
+{'transvoice': 12, 'ftm': 8, 'asktransgender': 3, 'genderqueer': 2, 'MakeNewFriendsHere': 2, 'Needafriend': 1, 'BodyAcceptance': 1, 'widowers': 1, 'raisedbynarcissists': 1, 'MtF': 1, 'bisexual': 1}
+
+105
+['subreddit', 'peach', 'messagepose', 'edanonymousments', 'edanonymous', 'flair', 'username', 'discussion', 'contact', 'moderators', 'moderator', 'technical', 'need friends', 'guide', 'services', 'exchange', 'resources', 'feedback', 'september', 'topic']
+{'EDAnonymous': 8}
+
+191
+['saving', 'intimacy', 'religious', 'people like', 'kiss', 'choice', 'say isn', 'isn case', 'like thanks', 'agnostic', 'person people', 'like minded', 'physical intimacy', 'strive', 'debate', 'people', 'external', 'model', 'internal', 'firm']
+{'MakeNewFriendsHere': 3, 'Needafriend': 3, 'textfriends': 1}
+
