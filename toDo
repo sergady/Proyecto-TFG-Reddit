@@ -1,8 +1,2 @@
-Hacer que affinity funcione.
-Mostrar más post cluster (25)
-Quitar numeros
-
-Done:
-Guardar los archivos de ejecución.
-Clusterizar con palabras vacías y luego quitar las palabras al mostrar las más relevantes. http://snowball.tartarus.org/algorithms/english/stop.txt
-Guardar semilla de los archivos de sample.
+Tomar posts desde 2019 de las temáticas escogidas.
+https://github.com/pushshift/api
