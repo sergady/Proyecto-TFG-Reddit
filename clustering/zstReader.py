@@ -5,7 +5,7 @@ import RedditPost
 import Constants
 
 RAW_FILE_NAME = Constants.RAW_FILE_NAME
-SUBREDDITS_LIST = "static_data/subredditList.txt"
+SUBREDDITS_LIST = Constants.SUBREDDITS_LIST
 RESULT_FILE = Constants.POSTS_NDJSON_FILE
 UTF = 'UTF-8'
 ENTER = '\n'
