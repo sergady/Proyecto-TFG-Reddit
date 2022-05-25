@@ -1,0 +1,11 @@
+{'author': 'SoBrokenAndConfused', 'author_flair_css_class': None, 'author_flair_richtext': [], 'author_flair_text': None, 'author_flair_type': 'text', 
+'author_fullname': 't2_2jz44xmc', 'author_patreon_flair': False, 'can_mod_post': False, 'contest_mode': False, 'created_utc': 1546358404, 'domain': 'self.NarcissisticAbuse', 
+'full_link': 'https://www.reddit.com/r/NarcissisticAbuse/comments/abj73p/i_miss_him_after_discard/', 'gildings': {'gid_1': 0, 'gid_2': 0, 'gid_3': 0}, 'id': 'abj73p', 
+'is_crosspostable': True, 'is_meta': False, 'is_original_content': False, 'is_reddit_media_domain': False, 'is_robot_indexable': True, 'is_self': True, 'is_video': False, 
+'link_flair_background_color': '', 'link_flair_richtext': [], 'link_flair_text_color': 'dark', 'link_flair_type': 'text', 'locked': False, 'media_only': False, 
+'no_follow': True, 'num_comments': 9, 'num_crossposts': 0, 'over_18': False, 'parent_whitelist_status': 'no_ads', 
+'permalink': '/r/NarcissisticAbuse/comments/abj73p/i_miss_him_after_discard/', 'pinned': False, 'pwls': 0, 'retrieved_on': 1546358405, 'score': 1, 
+'selftext': 'I was discarded.  I wasn’t perfect.  I miss him a lot.\n\nSometimes I don’t know who is the narc.  Who’s hoovering who.  Sometimes he texts me first and then sometimes I text him.  It feels inappropriate for me to text him since he left me.  Maybe I am a horrible person and I deserve this.  I just don’t fucking know.\n\nI’m going to therapy and he repeatedly tells me that all the anger I should have for my lying (possibly) cheating ex I’ve turned inward at myself into brutal viscous self loathing.  I’m told “it’s not your fault”\n\nBut what if it is?  What if these horrible things keep happening to me because I deserve it?\n\nHow do you know if you’re the narcissist? ', 
+'send_replies': True, 'spoiler': False, 'stickied': False, 'subreddit': 'NarcissisticAbuse', 'subreddit_id': 't5_2ys1m', 'subreddit_subscribers': 19797, 'subreddit_type': 'public', 
+'thumbnail': 'self', 'title': 'I miss him - after discard', 'url': 'https://www.reddit.com/r/NarcissisticAbuse/comments/abj73p/i_miss_him_after_discard/', 
+'whitelist_status': 'no_ads', 'wls': 0}
