@@ -12,7 +12,7 @@ def get_data_from_subreddit(subreddit):
 def transform_data_into_objects(data):
     posts = list()
     for submission in data:
-        posts.append(RedditPost.RedditPost( submission['id'], submission['created_utc'], submission['title'], submission['author'], submission['selftext'], submission['subreddit']))
+        posts.append(RedditPost( submission['id'], submission['created_utc'], submission['title'], submission['author'], submission['selftext'], submission['subreddit']))
         #print(submission)
 
     return posts
