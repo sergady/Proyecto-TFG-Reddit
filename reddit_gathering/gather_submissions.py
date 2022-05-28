@@ -1,3 +1,4 @@
+import time
 from isort import file
 from RedditPost import RedditPost
 import requests
@@ -34,8 +35,9 @@ def main():
         for subreddit in subredditNames[1:]:
             try:
                 posts = transform_data_into_objects(get_data_from_subreddit(subreddit))
+                time.sleep(1) 
             except json.decoder.JSONDecodeError:
-                print(subreddit+" error")
+                print(subreddit + " error")
                 break
             print(subreddit+": "+str(len(posts)))
 

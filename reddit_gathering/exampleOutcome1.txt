@@ -1,0 +1,92 @@
+['abuse', 'NarcissisticAbuse', 'survivorsofabuse', 'emotionalabuse', 'abuse']
+NarcissisticAbuse: 25
+survivorsofabuse: 25
+emotionalabuse: 25
+abuse: 25
+['anxiety', 'Anxiety', 'socialanxiety', 'Anxietyhelp', 'HealthAnxiety']
+Anxiety: 25
+socialanxiety: 25
+Anxietyhelp: 25
+HealthAnxiety: 25
+['grief', 'GriefSupport']
+GriefSupport: 25
+['bodyimage', 'BodyAcceptance', 'BodyImage', 'fatlogic']
+BodyAcceptance: 25
+BodyImage: 25
+fatlogic: 25
+['depression', 'depression', 'depressed']
+depression: 25
+depressed: 25
+['eating', 'disorder', 'EDAnonymous', 'BingeEatingDisorder', 'FoodAddiction', 'fuckeatingdisorders', 'EatingDisorders', 'EatingDisorderHope', 'eating_disorders']
+disorder: 24
+EDAnonymous: 25
+BingeEatingDisorder: 25
+FoodAddiction: 25
+fuckeatingdisorders: 25
+EatingDisorders: 25
+EatingDisorderHope: 25
+eating_disorders: 25
+['familyissues', 'raisedbynarcissists', 'JUSTNOFAMILY', 'JUSTNOMIL', 'FamilyIssues', 'family', 'raisedbyborderlines', 'EstrangedAdultChild']
+raisedbynarcissists: 25
+JUSTNOFAMILY: 25
+JUSTNOMIL: 25
+FamilyIssues: 25
+family: 25
+raisedbyborderlines: 25
+EstrangedAdultChild: 25
+['friendissues', 'FriendshipAdvice', 'Needafriend', 'friendship']
+FriendshipAdvice: 25
+Needafriend: 25
+friendship: 25
+['healthconcerns', 'DiagnoseMe']
+DiagnoseMe: 25
+['lgbtqissues', 'actuallesbians', 'askgaybros', 'asktransgender', 'bisexual', 'gay', 'LesbianActually', 'lgbt', 'LGBTeens', 'transgendercirclejerk', 'transgenderUK', 'truelesbians', 'ftm', 'MtF', 'trans', 'mypartneristrans', 'ask_transgender', 'AskLGBT', 'Blanchardianism']
+actuallesbians: 25
+askgaybros: 25
+asktransgender: 25
+bisexual: 25
+gay: 25
+LesbianActually: 25
+lgbt: 25
+LGBTeens: 24
+transgendercirclejerk: 23
+transgenderUK: 25
+truelesbians: 25
+ftm: 25
+MtF: 25
+trans: 25
+mypartneristrans: 25
+ask_transgender: 25
+AskLGBT: 25
+Blanchardianism: 25
+['loneliness', 'ForeverAlone', 'lonely']
+ForeverAlone: 25
+lonely: 25
+['relationshipissues', 'relationship_advice', 'relationships', 'survivinginfidelity', 'adultery', 'Marriage', 'DeadBedrooms']
+relationship_advice: 25
+relationships: 25
+survivinginfidelity: 25
+adultery: 25
+Marriage: 25
+DeadBedrooms: 25
+['selfharm', 'selfharm', 'MadeOfStyrofoam']
+selfharm: 25
+MadeOfStyrofoam: 25
+['substanceabuse', 'alcoholism', 'AlAnon', 'alcoholicsanonymous', 'stopdrinking', 'leaves', 'drunk', 'alcoholism', 'quittingkratom', 'OpiatesRecovery', 'StopSpeeding', 'cripplingalcoholism', 'REDDITORSINRECOVERY', 'AlAnon', 'dryalcoholics', 'drunk', 'quittingkratom', 'AlAnon']
+alcoholism: 25
+AlAnon: 25
+alcoholicsanonymous: 25
+stopdrinking: 25
+leaves: 25
+drunk: 25
+alcoholism: 25
+quittingkratom: 25
+OpiatesRecovery: 25
+StopSpeeding: 25
+cripplingalcoholism: 25
+REDDITORSINRECOVERY: 25
+AlAnon: 25
+dryalcoholics: 25
+drunk: 25
+quittingkratom: 25
+AlAnon: 25
