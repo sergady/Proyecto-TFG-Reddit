@@ -1,0 +1,14 @@
+abuse,	NarcissisticAbuse,	survivorsofabuse,	emotionalabuse,	abuse																	
+anxiety,	Anxiety,	socialanxiety,	Anxietyhelp,	HealthAnxiety																
+grief,	GriefSupport																				
+body image,	BodyAcceptance,	BodyImage,	fatlogic													
+depression,depression,depressed
+eating, disorder, EDAnonymous,	BingeEatingDisorder,	FoodAddiction,	fuckeatingdisorders,	EatingDisorders,	EatingDisorderHope,	eating_disorders													
+family issues,	raisedbynarcissists,	JUSTNOFAMILY,	JUSTNOMIL,	FamilyIssues,	family,	raisedbyborderlines,	EstrangedAdultChild											
+friend issues,	FriendshipAdvice,	Needafriend,	friendship																		
+health concerns,	DiagnoseMe																				
+lgbtq issues,actuallesbians,askgaybros,	asktransgender,	bisexual,	gay,	LesbianActually,	lgbt,	LGBTeens,	transgendercirclejerk,	transgenderUK,	truelesbians,	ftm,	MtF,	trans,	mypartneristrans,	ask_transgender,	AskLGBT,	Blanchardianism			
+loneliness,ForeverAlone,lonely
+relationship issues,	relationship_advice,	relationships,	survivinginfidelity,	adultery,	Marriage,	DeadBedrooms															
+self harm,	selfharm,	MadeOfStyrofoam																			
+substance abuse,	alcoholism,	AlAnon,	alcoholicsanonymous,	stopdrinking,	leaves,	drunk,	alcoholism,	quittingkratom,	OpiatesRecovery,	StopSpeeding,	cripplingalcoholism,	REDDITORSINRECOVERY,	AlAnon,	 dryalcoholics,	drunk,	quittingkratom,	AlAnon
