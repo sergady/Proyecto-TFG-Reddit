@@ -6,7 +6,7 @@ import json
 
 # Gathers the data from a subreddit between the first day and the last of 2019
 def get_data_from_subreddit(subreddit):
-    endpoint = "https://api.pushshift.io/reddit/submission/search/?subreddit="+subreddit+"&after=2019-01-01&before=2019-12-31"
+    endpoint = "https://api.pushshift.io/reddit/submission/search/?subreddit="+subreddit+"&after=2019-01-01&before=2019-12-31&size=500" 
     result = requests.get(endpoint) 
     data = json.loads(result.text, strict=False) 
     return data['data']
@@ -26,9 +26,7 @@ def load_subredits():
             text[i] = text[i].replace("\t", "").replace('\n', '').replace(' ','')
     return text
 
-
-def main():
-    subreddits = load_subredits()
+def print_subreddits_count(subreddits):
     for line in subreddits:
         subredditNames = line.split(',')
         print(subredditNames)
@@ -40,5 +38,8 @@ def main():
                 print(subreddit + " error")
                 break
             print(subreddit+": "+str(len(posts)))
+
+def main():
+    print_subreddits_count(load_subredits())
 
 main()
