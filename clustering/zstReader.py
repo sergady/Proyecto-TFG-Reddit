@@ -104,4 +104,15 @@ def main():
     end = time.time()
     print('Time: ', end - start)
 
-main()
+#main()
+
+def read_specific_subreddits(subreddit_dictionary):
+    start = time.time()
+
+    # Reads data from the file and saves the data
+    readData(subreddit_dictionary, False)
+
+    end = time.time()
+    print('Time: ', end - start)
+
+read_specific_subreddits({'abuse':True})
