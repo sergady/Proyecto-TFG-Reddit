@@ -19,10 +19,10 @@ def checkSelfText(self_text):
 # Reads data and works with it
 def readData(subreddit_dictionary, printSwitch):
     subreddits_array = []  # cambiar a reddit_posts_list
-    # Open the file as fh
-    with open(RAW_FILE_NAME, 'rb') as fh:
+    # Open the file as raw_file
+    with open(RAW_FILE_NAME, 'rb') as raw_file:
         dctx = zstandard.ZstdDecompressor()
-        reader = dctx.stream_reader(fh)
+        reader = dctx.stream_reader(raw_file)
         i = 0
         errorCounter = 0
         correctPosts = 0
