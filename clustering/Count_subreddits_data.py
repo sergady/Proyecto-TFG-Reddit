@@ -1,4 +1,4 @@
-from ZstReader import read_data_with_params
+from Zst_reader import read_data_with_params
 from pydoc_data.topics import topics
 import time
 
