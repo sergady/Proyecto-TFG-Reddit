@@ -23,9 +23,10 @@ def create_dictionaries():
 def read_specific_subreddits(list_dictionaries):
     start = time.time()
 
-    print("Topic: " + list_dictionaries[0][0])
     # Reads data from the file and saves the data
-    read_data_with_params(list_dictionaries[0][1], "data/RS_2019-09.ndjson", "data/results.ndjson")
+    for dictionary in list_dictionaries:
+        print("Topic: " + dictionary[0])
+        read_data_with_params(dictionary[1], "data/RS_2019-09.ndjson", "data/results_"+ dictionary[0] +".ndjson")
 
     end = time.time()
     print('Time: ', end - start)
