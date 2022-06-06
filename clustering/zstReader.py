@@ -60,6 +60,44 @@ def readData(subreddit_dictionary, printSwitch):
     print('%d Saved posts' % savedPosts)
     return subreddits_array
 
+# Reads data and works with it
+def read_data_with_params(subreddit_dictionary, input_file_name, result_file_name):
+    reddit_posts_list = []  # cambiar a reddit_posts_list
+    # Open the file as raw_file
+    with open(RAW_FILE_NAME, 'rb') as raw_file:
+        dctx = zstandard.ZstdDecompressor()
+        reader = dctx.stream_reader(raw_file)
+        i = errorCounter = correctPosts = savedPosts = 0
+        while True:
+            # We read the data and save it into chunks
+            # I need to be careful with this because it cuts jsons by half
+            chunk = reader.read(CHUNK_SIZE)
+            chunk = chunk.decode(UTF) # Changes byte-like to string
+            data = chunk.split(ENTER)  # Divides the text into posts
+            for each in data:
+                i += 1
+                try:
+                    data_dict = json.loads(each)
+                    if(checkSelfTextAndSubreddit(data_dict, subreddit_dictionary)):
+                        reddit_posts_list.append(createRedditPost(data_dict)) # We create the object
+                        correctPosts +=1
+
+                except json.decoder.JSONDecodeError:
+                    errorCounter += 1
+                    continue  # Seems like we do this to avoid errors but it is to eliminate divided posts
+
+            if not chunk:
+                break
+        
+        savePostsToJSON(reddit_posts_list, result_file_name)
+        savedPosts += len(reddit_posts_list)
+
+    print('%d Posts read' % i)
+    print('%d Errors detected' % errorCounter)
+    print('%d Correct posts' % correctPosts)
+    print('%d Saved posts' % savedPosts)
+    return reddit_posts_list
+
 def checkSelfTextAndSubreddit(data_dict, subreddit_dictionary):
     if(checkSelfText(data_dict['selftext'])):
         if(subreddit_dictionary.get(data_dict['subreddit'], False)):
