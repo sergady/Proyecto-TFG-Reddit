@@ -1,5 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from ReadAndPrepareSample import preprocessTexts
+from Read_and_prepare_sample import preprocessTexts
 import sys
 from datetime import datetime
 
