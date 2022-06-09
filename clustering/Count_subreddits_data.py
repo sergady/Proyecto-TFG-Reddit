@@ -3,7 +3,7 @@ from pydoc_data.topics import topics
 import time
 
 def load_subreddits():
-    with open("static_data\datasetSubreddits.txt", "r", encoding="utf-8") as sample_file:
+    with open("static_data/datasetSubreddits.txt", "r", encoding="utf-8") as sample_file:
         text = sample_file.readlines()
         for i in range(len(text)):
             text[i] = text[i].replace("\t", "").replace('\n', '').replace(' ','')
@@ -26,7 +26,7 @@ def read_specific_subreddits(list_dictionaries):
     # Reads data from the file and saves the data
     for dictionary in list_dictionaries:
         print("Topic: " + dictionary[0])
-        read_data_with_params(dictionary[1], "data/RS_2019-09.ndjson", "data/results_"+ dictionary[0] +".ndjson")
+        read_data_with_params(dictionary[1], "data/RS_2019-09.ndjson", "data/results_"+ dictionary[0] +"/" + dictionary[0] +"_09.ndjson")
 
     end = time.time()
     print('Time: ', end - start)
