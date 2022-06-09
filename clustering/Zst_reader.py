@@ -64,7 +64,7 @@ def readData(subreddit_dictionary, printSwitch):
 def read_data_with_params(subreddit_dictionary, input_file_name, result_file_name):
     reddit_posts_list = []  # cambiar a reddit_posts_list
     # Open the file as raw_file
-    with open(RAW_FILE_NAME, 'rb') as raw_file:
+    with open(input_file_name, 'rb') as raw_file:
         dctx = zstandard.ZstdDecompressor()
         reader = dctx.stream_reader(raw_file)
         i = errorCounter = correctPosts = savedPosts = 0
@@ -92,11 +92,8 @@ def read_data_with_params(subreddit_dictionary, input_file_name, result_file_nam
         savePostsToJSON(reddit_posts_list, result_file_name)
         savedPosts += len(reddit_posts_list)
 
-    print('%d Posts read' % i)
-    print('%d Errors detected' % errorCounter)
-    print('%d Correct posts' % correctPosts)
     print('%d Saved posts' % savedPosts)
-    return reddit_posts_list
+    return savedPosts
 
 def checkSelfTextAndSubreddit(data_dict, subreddit_dictionary):
     if(checkSelfText(data_dict['selftext'])):
