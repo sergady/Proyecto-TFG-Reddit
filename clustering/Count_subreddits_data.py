@@ -1,3 +1,4 @@
+from os import mkdir
 from Zst_reader import read_data_with_params
 from pydoc_data.topics import topics
 import time
@@ -26,6 +27,7 @@ def read_specific_subreddits(list_dictionaries):
     # Reads data from the file and saves the data
     for dictionary in list_dictionaries:
         print("Topic: " + dictionary[0])
+        mkdir("data/results_"+ dictionary[0])
         read_data_with_params(dictionary[1], "data/RS_2019-09.ndjson", "data/results_"+ dictionary[0] +"/" + dictionary[0] +"_09.ndjson")
 
     end = time.time()
