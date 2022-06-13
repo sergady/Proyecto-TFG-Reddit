@@ -92,7 +92,7 @@ def read_data_with_params(subreddit_dictionary, input_file_name, result_file_nam
         savePostsToJSON(reddit_posts_list, result_file_name)
         savedPosts += len(reddit_posts_list)
 
-    print('%d Saved posts' % savedPosts)
+    #print('%d Saved posts' % savedPosts)
     return savedPosts
 
 def checkSelfTextAndSubreddit(data_dict, subreddit_dictionary):

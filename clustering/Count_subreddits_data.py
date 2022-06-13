@@ -22,17 +22,20 @@ def create_dictionaries():
 
 def read_specific_subreddits(list_dictionaries):
     start = time.time()
-    sizes = list()
+    months = ["01","02","03","04","05","06","07","08","09","10","11","12"]
 
-    # Reads data from the file and saves the data
-    for dictionary in list_dictionaries:
-        print("Topic: " + dictionary[0])
-        size = read_data_with_params(dictionary[1], "data/RS_2019-01.zst", "data/data_"+ dictionary[0] +"/" + dictionary[0] +"_01.ndjson")
-        sizes.append(dictionary[0] + "" +str(size))
+    for month in months:
+        sizes = list()
+        sizes.append(month)
+        # Reads data from the file and saves the data
+        for dictionary in list_dictionaries:
+            #print("Topic: " + dictionary[0])
+            size = read_data_with_params(dictionary[1], "data/RS_2019-"+ month +".zst", "data/data_"+ dictionary[0] +"/" + dictionary[0] +"_"+ month +".ndjson")
+            sizes.append(dictionary[0] + "-" +str(size))
 
-    end = time.time()
-    print('Time: ', end - start)
-    print(sizes)
+        end = time.time()
+        print('Time: ', end - start)
+        print(sizes)
 
 
 read_specific_subreddits(create_dictionaries())
