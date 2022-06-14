@@ -1,3 +1,4 @@
 *.zst
 RS*[0-9].ndjson
 __pycache__
+data/~$data_sizes.xlsx
