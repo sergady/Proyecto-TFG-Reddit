@@ -3,3 +3,4 @@ RS*[0-9].ndjson
 __pycache__
 data/~$data_sizes.xlsx
 data/random_posts_control.ndjson
+data/random_posts_control2.ndjson
