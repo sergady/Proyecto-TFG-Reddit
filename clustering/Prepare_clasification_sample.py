@@ -1,3 +1,4 @@
+from cgitb import text
 import json
 import random
 from Read_and_prepare_sample import removeSymbolsAndUrls
@@ -56,8 +57,16 @@ def preprocess_texts(topic, month, percentage):
 
 def retrieve_texts(topic):
     months = ["01","02","03","04","05","06","07","08","09","10","11","12"]
-    texts = []
+    texts = list()
     for month in months:
         texts.extend(preprocess_texts(topic, month, PERCENTAGES_DICT.get(topic, 100))["listTexts"])
         
+    return texts
+
+def return_train_sample():
+    topics = PERCENTAGES_DICT.keys
+    texts = list()
+    for topic in topics:
+        texts.extend(retrieve_texts(topic[0]))
+
     return texts
