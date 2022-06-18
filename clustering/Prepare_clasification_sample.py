@@ -1,6 +1,6 @@
 import json
 import random
-
+from Read_and_prepare_sample import removeSymbolsAndUrls
 
 # Reads the files and puts them in a matrix
 def readSampleFile(topic, month, percentage):
@@ -43,6 +43,7 @@ def preprocessTexts(topic, month, percentage):
         contenido = entrada["self_text"].strip()
         texto = titulo + " " + contenido
         texto = texto.strip()
+        texto = removeSymbolsAndUrls(texto)
 
         listTexts.append(texto)
         post_ids.append(entrada["post_id"])

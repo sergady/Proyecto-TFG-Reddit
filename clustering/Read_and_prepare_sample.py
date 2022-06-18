@@ -17,12 +17,14 @@ def removeSymbolsAndUrls(text):
     regexpUrls = re.compile("https?://(www\.)?(\w|-)+\.\w+")
     regexpEmails = re.compile("[a-zA-Z1-9-]+@[a-zA-Z-]+\.[a-zA-Z]+")
     regexpWeb = re.compile("(http)|(www)|(http www)|(html)|(htm)|.com")
+    regexptopics = re.compile("(abuse)|(anxiety)|(bodyimage)|(depression)|(eating)|(familyissues)|(friendissues)|(grief)|(healthconcerns)|(lgbtqissues)|(loneliness)|(relationshipissues)|(selfharm)|(substanceabuse)")
     regexpNumbers = re.compile("\d")
 
     text = re.sub(regexpUrls, "", text)  # We clean the complete urls
     text = re.sub(regexpEmails, "", text)  # We clean the emails
     text = re.sub(regexpWeb, "", text)  # We clean url fragments
-    text = re.sub(regexpNumbers, "", text)  # quitamos los números
+    text = re.sub(regexptopics, "", text)  # We clean keywords
+    text = re.sub(regexpNumbers, "", text)  # We clean numbers
 
     return text
 
