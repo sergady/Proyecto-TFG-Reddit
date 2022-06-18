@@ -20,9 +20,9 @@ def percentage_text(text, percentage):
 
     return percentage_text
 
-def preprocessTexts():
+def preprocessTexts(topic, month, percentage):
     # Se leen los contenidos del archivo con la muestra
-    listFiles = readSampleFile()
+    listFiles = readSampleFile(topic, month, percentage)
 
     # No es necesario eliminar las cabeceras puesto que no hay tal cosa en nuestros datos
     #
