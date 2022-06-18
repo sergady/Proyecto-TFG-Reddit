@@ -65,8 +65,8 @@ def retrieve_texts(topic):
 
 def return_train_sample():
     topics = PERCENTAGES_DICT.keys()
-    texts = list()
+    texts = dict()
     for topic in topics:
-        texts.extend(retrieve_texts(topic))
+        texts.update({topic : retrieve_texts(topic)})
 
     return texts
