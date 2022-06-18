@@ -45,8 +45,8 @@ def preprocess_texts(topic, month, percentage):
         titulo = entrada["title"].strip()
         contenido = entrada["self_text"].strip()
         texto = titulo + " " + contenido
-        texto = texto.strip()
         texto = removeSymbolsAndUrls(texto)
+        texto = texto.strip()
 
         listTexts.append(texto)
         post_ids.append(entrada["post_id"])
@@ -64,9 +64,9 @@ def retrieve_texts(topic):
     return texts
 
 def return_train_sample():
-    topics = PERCENTAGES_DICT.keys
+    topics = PERCENTAGES_DICT.keys()
     texts = list()
     for topic in topics:
-        texts.extend(retrieve_texts(topic[0]))
+        texts.extend(retrieve_texts(topic))
 
     return texts
