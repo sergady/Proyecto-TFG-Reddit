@@ -3,7 +3,7 @@ import json
 import random
 from Read_and_prepare_sample import removeSymbolsAndUrls
 
-PERCENTAGES_DICT = {"abuse":2147,"anxiety":519,"bodyimage":139,"depression":93,"eating":87,"familyissues":94,"friendissues":63,"grief":457,"healthconcerns":31,"lgbtqissues":26, "loneliness":17, "relationshipissues":20, "selfharm":11, "substanceabuse": 8}
+PERCENTAGES_DICT = {"abuse":139,"anxiety":31,"bodyimage":2147,"depression":17,"eating":63,"familyissues":26,"friendissues":87,"grief":457,"healthconcerns":519,"lgbtqissues":11, "loneliness":94, "relationshipissues":8, "selfharm":93, "substanceabuse": 20}
 
 # Reads the files and puts them in a matrix
 def readSampleFile(topic, month, percentage):
@@ -65,8 +65,8 @@ def retrieve_texts(topic):
 
 def return_train_sample():
     topics = PERCENTAGES_DICT.keys()
-    texts = list()
+    texts = dict()
     for topic in topics:
-        texts.extend(retrieve_texts(topic))
+        texts.update({topic : retrieve_texts(topic)})
 
     return texts
