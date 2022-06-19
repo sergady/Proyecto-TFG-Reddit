@@ -56,7 +56,7 @@ def gather_random_posts():
     end_time = init_time + 31536000
     
     for i in range(init_time, end_time, increment):
-        posts.append(transform_data_into_objects(get_data_from_subreddit(str(i), str(i+increment))))
+        posts.extend(transform_data_into_objects(get_data_from_subreddit(str(i), str(i+increment))))
         time.sleep(1)
     return posts
 
@@ -75,4 +75,5 @@ def write_random_posts(file_name, posts):
 def main():
     print_subreddits_count(load_subredits())
 
-write_random_posts("data/random_posts_control.ndjson", gather_random_posts())
+write_random_posts("data/random_posts_control2.ndjson", gather_random_posts())
+
