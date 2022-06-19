@@ -76,3 +76,4 @@ def main():
     print_subreddits_count(load_subredits())
 
 write_random_posts("data/random_posts_control2.ndjson", gather_random_posts())
+
