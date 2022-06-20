@@ -15,7 +15,7 @@ def get_data_from_subreddit(after, before):
     endpoint = "https://api.pushshift.io/reddit/submission/search/?after="+ after +"&before="+ before +"&size=100" 
     result = requests.get(endpoint) 
     data = json.loads(result.text, strict=False) 
-    return data['data']
+    return data['data'] # dificil borrar resultados vacíos o incorrectos
 
 def transform_data_into_objects(data):
     posts = list()
