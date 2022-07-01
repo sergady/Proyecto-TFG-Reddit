@@ -2,6 +2,7 @@ import time
 import RedditPost
 import requests
 import json
+from tqdm import tqdm
 
 # Gathers the data from a subreddit between the first day and the last of 2019
 def get_data_from_subreddit(subreddit):
@@ -14,7 +15,11 @@ def get_data_from_subreddit(subreddit):
 def get_data_from_subreddit(after, before):
     endpoint = "https://api.pushshift.io/reddit/submission/search/?after="+ after +"&before="+ before +"&size=100" 
     result = requests.get(endpoint) 
-    data = json.loads(result.text, strict=False) 
+    try:
+        data = json.loads(result.text, strict=False)
+    except json.decoder.JSONDecodeError:
+        time.sleep(1)
+        return get_data_from_subreddit(after,before)
     return data['data'] # dificil borrar resultados vacíos o incorrectos
 
 def transform_data_into_objects(data):
@@ -26,7 +31,6 @@ def transform_data_into_objects(data):
         except KeyError:
             errors += 1
 
-    print("Errors: " + str(errors))
     return posts
 
 def load_subredits():
@@ -55,9 +59,11 @@ def gather_random_posts():
     increment = 11680
     end_time = init_time + 31536000
     
-    for i in range(init_time, end_time, increment):
-        posts.extend(transform_data_into_objects(get_data_from_subreddit(str(i), str(i+increment))))
-        time.sleep(1)
+    with tqdm(total=31536000/increment) as barra:
+        for i in range(init_time, end_time, increment):
+            posts.extend(transform_data_into_objects(get_data_from_subreddit(str(i), str(i+increment))))
+            time.sleep(1)
+            barra.update(1)
     return posts
 
 def write_random_posts(file_name, posts):
@@ -75,5 +81,8 @@ def write_random_posts(file_name, posts):
 def main():
     print_subreddits_count(load_subredits())
 
-write_random_posts("data/random_posts_control2.ndjson", gather_random_posts())
+posts = gather_random_posts()
+limit = round(len(posts) * 0.8)
+write_random_posts("data/random_posts_control2.ndjson", posts[:limit])
+write_random_posts("data/random_posts_control_test2.ndjson", posts[limit:])
 
