@@ -59,14 +59,18 @@ def retrieve_texts(topic):
     months = ["01","02","03","04","05","06","07","08","09","10","11","12"]
     texts = list()
     for month in months:
-        texts.extend(preprocess_texts(topic, month, PERCENTAGES_DICT.get(topic, 100))["listTexts"])
+        texts.extend(preprocess_texts(topic, month, PERCENTAGES_DICT.get(topic, 100))["listTexts"]) # El get contiene 100 por si no hubiera en el diccionario
         
     return texts
 
 def return_train_sample():
     topics = PERCENTAGES_DICT.keys()
     texts = dict()
+    tests = dict()
     for topic in topics:
-        texts.update({topic : retrieve_texts(topic)})
+        retrieved_texts = retrieve_texts(topic)
+        limit = round(len(retrieved_texts) * 0.8)
+        texts.update({topic : retrieved_texts[:limit]})
+        tests.update({topic : retrieved_texts[limit:]})
 
-    return texts
+    return [texts,tests]
