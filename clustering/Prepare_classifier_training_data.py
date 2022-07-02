@@ -52,4 +52,21 @@ with tqdm(total=len(tests)) as barra:
             documentos_test.append(texto)
         barra.update(1)
 
+control_test_texts = io.open("data/random_posts_control_test.ndjson", mode="r", encoding="utf-8").readlines()
+
+with tqdm(total=len(control_test_texts)) as barra:
+    for post in control_test_texts:
+        post = json.loads(post)
+        text = post["title"] + " " + post["self_text"]
+        text = removeSymbolsAndUrls(text)
+
+        terminos = text.split()
+        
+        texto = " ".join(terminos)
+        texto = "__label__control " + texto
+
+        documentos_test.append(texto)
+        barra.update(1)
+
+documentos_test = "\n".join(documentos_test)
 io.open("data/documentos_test.txt", mode="w", encoding="utf-8").write(documentos_test)
