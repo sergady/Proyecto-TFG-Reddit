@@ -5,9 +5,10 @@ import Prepare_clasification_sample as sample_gen
 from tqdm import tqdm
 
 
-texts = sample_gen.return_train_sample()
+[texts,tests] = sample_gen.return_train_sample()
 
-documentos_entrenamiento = []
+documentos_entrenamiento = list()
+documentos_test = list()
 
 with tqdm(total=len(texts)) as barra:
     for topic in texts:
@@ -38,4 +39,17 @@ with tqdm(total=len(control_texts)) as barra:
 
 documentos_entrenamiento = "\n".join(documentos_entrenamiento)
 
-f = io.open("data/documentos_entrenamiento.txt", mode="w", encoding="utf-8").write(documentos_entrenamiento)
+io.open("data/documentos_entrenamiento.txt", mode="w", encoding="utf-8").write(documentos_entrenamiento)
+
+with tqdm(total=len(tests)) as barra:
+    for topic in tests:
+        for post in tests[topic]:
+            terminos = post.split()
+            
+            texto = " ".join(terminos)
+            texto = "__label__" + topic +" " + texto
+
+            documentos_test.append(texto)
+        barra.update(1)
+
+io.open("data/documentos_test.txt", mode="w", encoding="utf-8").write(documentos_test)
