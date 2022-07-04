@@ -16,7 +16,7 @@ def load_post_control(post):
     texto = "__label__control " + texto
     return texto
 
-def load_post_label(post):
+def load_post_label(post, topic):
     terminos = post.split()
     texto = " ".join(terminos)
     texto = "__label__" + topic +" " + texto
@@ -27,10 +27,11 @@ def load_post_label(post):
 documentos_entrenamiento = list()
 documentos_test = list()
 
+# Prepara los documentos de entrenamiento
 with tqdm(total=len(texts)) as barra:
     for topic in texts:
         for post in texts[topic]:
-            documentos_entrenamiento.append(load_post_label(post))
+            documentos_entrenamiento.append(load_post_label(post, topic))
         barra.update(1)
 
 control_texts = io.open("data/random_posts_control.ndjson", mode="r", encoding="utf-8").readlines()
@@ -41,9 +42,9 @@ with tqdm(total=len(control_texts)) as barra:
         barra.update(1)
 
 documentos_entrenamiento = "\n".join(documentos_entrenamiento)
-
 io.open("data/documentos_entrenamiento.txt", mode="w", encoding="utf-8").write(documentos_entrenamiento)
 
+# Prepara los documentos de test
 with tqdm(total=len(tests)) as barra:
     for topic in tests:
         for post in tests[topic]:
