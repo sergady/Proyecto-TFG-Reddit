@@ -83,6 +83,6 @@ def main():
 
 posts = gather_random_posts()
 limit = round(len(posts) * 0.8)
-write_random_posts("data/random_posts_control2.ndjson", posts[:limit])
-write_random_posts("data/random_posts_control_test2.ndjson", posts[limit:])
+write_random_posts("data/random_posts_control.ndjson", posts[:limit])
+write_random_posts("data/random_posts_control_test.ndjson", posts[limit:])
 
