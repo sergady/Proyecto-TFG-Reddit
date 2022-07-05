@@ -1,5 +1,6 @@
 import io
 import json
+from random import randrange
 from Read_and_prepare_sample import removeSymbolsAndUrls
 import Prepare_clasification_sample as sample_gen
 from tqdm import tqdm
@@ -38,7 +39,8 @@ control_texts = io.open("data/random_posts_control.ndjson", mode="r", encoding="
 
 with tqdm(total=len(control_texts)) as barra:
     for post in control_texts:
-        documentos_entrenamiento.append(load_post_control(post))
+        if(randrange(1,13) == 1):    
+            documentos_entrenamiento.append(load_post_control(post))
         barra.update(1)
 
 documentos_entrenamiento = "\n".join(documentos_entrenamiento)
@@ -48,14 +50,15 @@ io.open("data/documentos_entrenamiento.txt", mode="w", encoding="utf-8").write(d
 with tqdm(total=len(tests)) as barra:
     for topic in tests:
         for post in tests[topic]:
-            documentos_test.append(load_post_label(post))
+            documentos_test.append(load_post_label(post, topic))
         barra.update(1)
 
 control_test_texts = io.open("data/random_posts_control_test.ndjson", mode="r", encoding="utf-8").readlines()
 
 with tqdm(total=len(control_test_texts)) as barra:
     for post in control_test_texts:
-        documentos_test.append(load_post_control(post))
+        if(randrange(1,13) == 1):    
+            documentos_test.append(load_post_control(post))
         barra.update(1)
 
 documentos_test = "\n".join(documentos_test)
