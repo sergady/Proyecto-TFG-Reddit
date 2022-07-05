@@ -18,7 +18,7 @@ def checkSelfText(self_text):
 
 # Reads data and works with it
 def readData(subreddit_dictionary, printSwitch):
-    subreddits_array = []  # cambiar a reddit_posts_list
+    reddit_posts_list = [] 
     # Open the file as raw_file
     with open(RAW_FILE_NAME, 'rb') as raw_file:
         dctx = zstandard.ZstdDecompressor()
@@ -39,14 +39,14 @@ def readData(subreddit_dictionary, printSwitch):
                     data_dict = json.loads(each)
                     if(checkSelfTextAndSubreddit(data_dict, subreddit_dictionary)):
                         # We create the object
-                        subreddits_array.append(createRedditPost(data_dict))
+                        reddit_posts_list.append(createRedditPost(data_dict))
                         correctPosts +=1
 
                     if(i % 100000 == 0):
                         postsCounter(i, printSwitch)
-                        postsSaver(subreddits_array)
-                        savedPosts += len(subreddits_array)
-                        subreddits_array.clear()
+                        postsSaver(reddit_posts_list)
+                        savedPosts += len(reddit_posts_list)
+                        reddit_posts_list.clear()
 
                 except json.decoder.JSONDecodeError:
                     errorCounter += 1
@@ -58,7 +58,7 @@ def readData(subreddit_dictionary, printSwitch):
     print('%d Errors detected' % errorCounter)
     print('%d Correct posts' % correctPosts)
     print('%d Saved posts' % savedPosts)
-    return subreddits_array
+    return reddit_posts_list
 
 # Reads data and works with it
 def read_data_with_params(subreddit_dictionary, input_file_name, result_file_name):
