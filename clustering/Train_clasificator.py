@@ -37,15 +37,15 @@ def test_clasificador(epoch, minCount):
             barra.update(1)
 
     resultados = "\n".join(resultados)
-    result = io.open("results/classifier_results/result.txt", mode="w", encoding="utf-8")
+    result = io.open("results/classifier_results/result_e"+str(epoch)+".txt", mode="w", encoding="utf-8")
     result.write(resultados)
+    result.write("\n")
     result.write("Epoch = " + str(epoch) + ", minCount = " + str(minCount) + ", Aciertos = " + str(aciertos-control) + ", Fallos = " + str(fallos) + ", Control = " + str(control))
     result.write("Precisión: " + str(round( aciertos/(fallos+aciertos) ,4)*100) + " %")
     
-    print()
     print("Finished!")
     print("Epoch = " + str(epoch) + ", minCount = " + str(minCount) + ", Aciertos = " + str(aciertos-control) + ", Fallos = " + str(fallos) + ", Control = " + str(control))
     print("Precisión: " + str(round( aciertos/(fallos+aciertos) ,4)*100) + " %")
-
+    print()
 
 test_clasificador(10, 10)
