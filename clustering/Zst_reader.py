@@ -62,7 +62,7 @@ def readData(subreddit_dictionary, printSwitch):
 
 # Reads data and works with it
 def read_data_with_params(subreddit_dictionary, input_file_name, result_file_name):
-    reddit_posts_list = []  # cambiar a reddit_posts_list
+    reddit_posts_list = []
     # Open the file as raw_file
     with open(input_file_name, 'rb') as raw_file:
         dctx = zstandard.ZstdDecompressor()

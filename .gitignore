@@ -8,3 +8,4 @@ data/random_posts_control_test.ndjson
 data/documentos_test.txt
 data/expert_posts.csv
 results/classifier_results/result_maryland.txt
+results/classifier_results/result_users_maryland.txt
