@@ -48,4 +48,4 @@ def test_clasificador(epoch, minCount):
     print("Precisión: " + str(round( aciertos/(fallos+aciertos) ,4)*100) + " %")
     print()
 
-test_clasificador(10, 10)
+#test_clasificador(10, 10)

@@ -31,7 +31,7 @@ Antes de proceder al clustering, hay que vectorizar los datos para obterner matr
 
 # Se va a usar un vectorizador que ponderará los términos mediante tf·idf,
 # pasará los textos a minúsculas y usará unigramas y bigramas
-# truncando, además, el vocabulario en los 1500
+# truncando, además, el vocabulario en los 15000
 # términos más frecuentes.
 #
 vectorizador = TfidfVectorizer(encoding="utf-8", lowercase=True, ngram_range=(1, 2),
