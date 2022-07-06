@@ -64949,4 +64949,4 @@ __label__control __label__control
 __label__control __label__control
 __label__control __label__control
 __label__control __label__control
-Epoch = 25, minCount = 20, Aciertos = 41791, Fallos = 20099, Control = 3061Precisión: 69.06 %
+Epoch = 25, minCount = 20, Aciertos = 41791, Fallos = 20099, Control = 3061 Precisión: 69.06 %
