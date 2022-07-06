@@ -1,4 +1,3 @@
-from cgitb import text
 import json
 import random
 from Read_and_prepare_sample import removeSymbolsAndUrls

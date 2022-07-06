@@ -1,4 +1,3 @@
-from numpy import empty_like
 from Read_and_prepare_sample import storeTextsInArray
 import sys
 from datetime import datetime
